@@ -1,0 +1,940 @@
+{'id': '4310297407470763', 'text': '中南财经政法大学#文澜译站#\nNever doubt that you are valuable and powerful, and deserving of every chance and opportunity in the world to pursue and achieve your own dreams.\n\n永远都不要质疑你自己的价值和能力，你配得上每一个帮助你追逐和实现梦想的机会。\n...全文', 'attitudes': None, 'comments': 0, 'reposts': 11}
+{'id': '4310247654498744', 'text': '中南财经政法大学#文澜微课堂#\n【收藏干货！电脑操作的10个常用快捷键】电脑用户通常分两类：喜欢用鼠标的、喜欢用快捷键的。专家发现，用快捷键每年可节省64小时，是提高效率的好方法。Ctrl+Z、Ctrl+Y、Win+M、Ctrl+Shift+N……电脑操作的10个实用快捷键同步教学！学起~ via.人人 ...全文', 'attitudes': None, 'comments': 1, 'reposts': 6}
+{'id': '4310022970785002', 'text': '文澜心语 没有一点努力是会白白的丢了的。在我们看不见想不到的时候，在我们看不见想不到的方向，你瞧！你下的种子早已生根发叶开花结果了。——胡适\n晚安，中南大～', 'attitudes': None, 'comments': 18, 'reposts': 9}
+{'id': '4310019107243146', 'text': '#深夜语人生# 你听过的最好听的名字是什么？', 'attitudes': None, 'comments': 83, 'reposts': 1}
+{'id': '4310017375046978', 'text': '中南财经政法大学 我校参加武汉市洪山区街头金秋菊展的展品“祝福祖国”，在金秋赏菊的最好季节，快随着镜头来看看吧～\n图集 | 芳菊开中南', 'attitudes': None, 'comments': 0, 'reposts': 0}
+{'id': '4309926237027477', 'text': '#光影中南# 这里有一份九宫格等你查收，是最近来晓南湖做客的小可爱们～', 'attitudes': None, 'comments': 18, 'reposts': 18}
+{'id': '4309898143811274', 'text': '#乐活中南#听说这是运动场旁边的新朋友', 'attitudes': None, 'comments': 11, 'reposts': 0}
+{'id': '4309878011261535', 'text': '#文澜译站# Happiness is not something you postpone for the future; it is something you design for the present.\n期待你的翻译', 'attitudes': None, 'comments': 8, 'reposts': 2}
+{'id': '4309877360737506', 'text': '#光影中南# 今天的美图很多呀欢迎投稿！', 'attitudes': None, 'comments': 1, 'reposts': 0}
+{'id': '4309824307580808', 'text': '#光影中南# 冬日校园里的勃勃生机，你感受到了吗？', 'attitudes': None, 'comments': 5, 'reposts': 2}
+{'id': '4309776538212747', 'text': '文澜心语 每一条走上来的路，都有他不得不那样跋涉的理由；每一条要走下去的路，都有他不得不走下去的方向。——席慕容\n早安[给你小心心]，中南大！', 'attitudes': None, 'comments': 5, 'reposts': 3}
+{'id': '4309667867714276', 'text': '中南财经政法大学文澜心语\n“愿你一生清澈明朗，所求遂所愿。做你愿做之事，爱你愿爱之人。愿我们都能像皎洁明月一样，内心纯净，看世间繁杂却不在心中留任何遗憾。”\n—— 丰子恺《愿你一生清澈明朗》\n\n晚安，中南大', 'attitudes': None, 'comments': 6, 'reposts': 13}
+{'id': '4309659735114879', 'text': '#深夜语人生# 你最近看的一本书是______？', 'attitudes': None, 'comments': 70, 'reposts': 1}
+{'id': '4309626113729612', 'text': '#乐活中南##中国的筷子#，每一双，都不简单。 via.故宫博物院', 'attitudes': None, 'comments': 5, 'reposts': 3}
+{'id': '4309564595646520', 'text': '#文澜贴士# 9个时间管理方法，送给需要的你 via.微课堂', 'attitudes': None, 'comments': 1, 'reposts': 12}
+{'id': '4309516017794161', 'text': '#文澜译站#\nThe world has kissed my soul with its pain, asking for its return in songs.\n世界以痛吻我，要我报之以歌。\n——《飞鸟集》', 'attitudes': None, 'comments': 1, 'reposts': 1}
+{'id': '4309492562594212', 'text': '#文澜微课堂# 英语写作万能句型，不论四六级考试、还是考研、雅思，都值得掌握一下[米奇比心] via.学霸课长', 'attitudes': None, 'comments': 2, 'reposts': 28}
+{'id': '4309427584675848', 'text': '中南财经政法大学文澜心语\n草在结它的种子，\n风在摇它的叶子。\n我们站着，不说话，\n就十分美好。\n\n早安，中南大', 'attitudes': None, 'comments': 7, 'reposts': 3}
+{'id': '4309302069587207', 'text': '#深夜语人生#\n最近你的列表循环播放的是哪首歌', 'attitudes': None, 'comments': 50, 'reposts': 2}
+{'id': '4309287856026082', 'text': '#文澜推荐#', 'attitudes': None, 'comments': 0, 'reposts': 17}
+{'id': '4309272182094736', 'text': '文澜心语\n我一生最怕是闲，一闲就把生命的意义全失去了。\n——沈从文\n\n晚安，中南大', 'attitudes': None, 'comments': 3, 'reposts': 7}
+{'id': '4309184285401827', 'text': "#文澜译站# There is no lemon so sour that you can't make something resembling lemonade.\n\n期待你的解读", 'attitudes': None, 'comments': 8, 'reposts': 0}
+{'id': '4309143340480148', 'text': '#文澜微课堂#\n【四六级写作·万能模板】裸考必备！四六级写作“图表题+议论文+书信体”万能模板来啦，快来mark一下吧！ via.橙啦四六级', 'attitudes': None, 'comments': 1, 'reposts': 16}
+{'id': '4309079486554876', 'text': '有你陪伴，一直很温暖', 'attitudes': None, 'comments': 16, 'reposts': 1}
+{'id': '4309055239600615', 'text': '文澜心语\n无论人生上到哪一层台阶，阶下有人在仰望你，阶上亦有人在俯视你。你抬头自卑，低头自得，唯有平视，才能看见真正的自己。\n——杨绛\n\n早安，中南大', 'attitudes': None, 'comments': 4, 'reposts': 9}
+{'id': '4308934594922520', 'text': '中南财经政法大学文澜心语\n在这些平凡的世界里，也没有一天是平静的。\n——路遥\n\n晚安，中南大💖', 'attitudes': None, 'comments': 3, 'reposts': 7}
+{'id': '4308903209163955', 'text': '中南财经政法大学#深夜语人生#\n在武汉的寒风凛冽中，大家的秋裤已经安排上了吗？，说说你们的秋裤都是什么颜色/花纹的吧', 'attitudes': None, 'comments': 32, 'reposts': 0}
+{'id': '4308858493107932', 'text': '中南财经政法大学#文澜译站#\nLife is like riding a bicycle.To keep your balance you must keep moving.\n生活就像骑自行车，只有不断前进，才能保持平衡。\n——爱因斯坦', 'attitudes': None, 'comments': 2, 'reposts': 5}
+{'id': '4308823692382197', 'text': '中南财经政法大学#乐活中南#\n你的快递全都收到了吗？有没有像这样被送来送去', 'attitudes': None, 'comments': 14, 'reposts': 0}
+{'id': '4308805229951292', 'text': '中南财经政法大学#文澜微课堂#\n【30个英语万能过渡句】四六级越来越近，这是很实用的干货，需要的mark！ via.实用干货', 'attitudes': None, 'comments': 0, 'reposts': 13}
+{'id': '4308792097171459', 'text': '中南财经政法大学\n镜里镜外，想和你分享中南大每一个角落里藏着的秋\n\n推文链接中南大秋天的记忆，都藏在镜子里', 'attitudes': None, 'comments': 3, 'reposts': 1}
+{'id': '4308689735330472', 'text': '中南财经政法大学文澜心语\n你不能放弃梦想\n但是可以改变方向\n因为你不知道在人生的拐角处会遇到什么\n——尼克•胡哲\n\n早安，中南大', 'attitudes': None, 'comments': 6, 'reposts': 2}
+{'id': '4308569207196902', 'text': '文澜心语\n生命可以随心所欲，但不能随波逐流。\n——宫崎骏\n晚安中南大～', 'attitudes': None, 'comments': 1, 'reposts': 4}
+{'id': '4308562979703896', 'text': '#深夜语人生#\n想知道你最近的单曲循环是什么哇', 'attitudes': None, 'comments': 76, 'reposts': 2}
+{'id': '4308525272198651', 'text': '#文澜译站#\nLove does not consist of gazing at each other, but in looking outward together in the same direction.\n爱不是彼此凝视，而是一起注视同一个方向。', 'attitudes': None, 'comments': 3, 'reposts': 6}
+{'id': '4308447203515458', 'text': '#文澜微课堂#\n如何讲好一个故事？提高你的文字创作能力和阅读能力的18本书，口语和写作都会用到的思维训练\nvia.微课堂', 'attitudes': None, 'comments': 1, 'reposts': 15}
+{'id': '4308380401640256', 'text': '#文澜贴士#\n一双好的袜子会给脚底十足的安全感，但在挑选袜子的时候也有很多小细节需要注意哇～\nvia.生命时报', 'attitudes': None, 'comments': 1, 'reposts': 5}
+{'id': '4308333782009807', 'text': '文澜心语\n我不怕千万人阻挡，只怕自己投降。\n——《倔强》\n早安，中南大', 'attitudes': None, 'comments': 7, 'reposts': 4}
+{'id': '4308216307522197', 'text': '#深夜语人生# 你的理想体重是？', 'attitudes': None, 'comments': 66, 'reposts': 2}
+{'id': '4308215217183167', 'text': '文澜心语#工大晚安#\n真实的生活是，认真做好每一天你分内的事情。不索取目前与你无关的爱与远景。不纠缠于多余情绪和评断。不妄想，不在其中自我沉醉。不伤害，不与自己和他人为敌。不表演，也不相信他人的表演。——安妮宝贝\n晚安，中南大', 'attitudes': None, 'comments': 4, 'reposts': 6}
+{'id': '4308196312708064', 'text': '#文澜贴士# 如果你觉得自己经常浪费时间，推荐你看看这个英文视频：《Before You Waste Time - Watch This》\n“Time is very slow for those who want, very fast for those who are scared, very long for those who are sad, and very short for those who celebrate, but for those who love, time ...全文', 'attitudes': None, 'comments': 1, 'reposts': 35}
+{'id': '4308120953978885', 'text': "#文澜译站# If you wanna cry, cry on my shoulder\nIf you need someone who cares for you\nIf you're feeling sad your heart gets colder\nYes, I'll show you what real love can do.\n期待你的翻译哦", 'attitudes': None, 'comments': 4, 'reposts': 1}
+{'id': '4308020865362187', 'text': '#新时代@ 教育# 【国士无双！为他们发条微博，致敬！】17日，中国核武器研究的开创者之一、中国科学院院士程开甲逝世，这已经是近一个月来第6位去世的重量级院士。这些科学大家在物理、地质、化工、医学等诸多领域，呕心沥血，鞠躬尽瘁，把一生奉献给了中国的科研事业。他们的名字，值得我们铭记↓ ...全文', 'attitudes': None, 'comments': 2, 'reposts': 5}
+{'id': '4308002263585058', 'text': '文澜心语一个人要知道自己的位置，就像一个人知道自己的脸面一样，这是最为清醒的自觉。洗尽铅华总是比随意的涂脂抹粉来得美。所以做能做的事，把它做的最好，这才是做人的重要。\n——莫言\n早安，中南大', 'attitudes': None, 'comments': 3, 'reposts': 5}
+{'id': '4307844914593867', 'text': '文澜心语\n我们有时候感谢某些人，确实仅仅因为他们和我们一起活着。我感谢您，因为我遇见了您。\n——《白夜》\n晚安，中南大', 'attitudes': None, 'comments': 3, 'reposts': 5}
+{'id': '4307821489786316', 'text': '#深夜语人生# 用你的系统输入法打出“我真的”三个字，看看自动联想是什么，面对一下自己真实的小内心', 'attitudes': None, 'comments': 169, 'reposts': 1}
+{'id': '4307798138929068', 'text': '#文澜译站#\nIf you just set out to be liked, you would be prepared to compromise on anything at any time, and you would achieve nothing.\n-- Margaret Thatcher\n如果你一心为了讨喜，那你就要准备随时随地的屈就，并且你会一事无成。\n...全文', 'attitudes': None, 'comments': 2, 'reposts': 5}
+{'id': '4307635651534510', 'text': '#文澜微课堂# 【实用干货：普通话发音&难点音 纠正技巧】在以后的工作中，一口流利标准的普通话绝对会为你的沟通交际、面试演讲加分！发音&难点音纠正技巧干货送上↓↓普通话考证的小伙伴快收了！via.微课堂', 'attitudes': None, 'comments': 4, 'reposts': 6}
+{'id': '4307608858983097', 'text': '文澜心语\n记忆的梗上，谁不有，两三朵娉婷，披着情绪的花。\n——林徽因\n早安，中南大', 'attitudes': None, 'comments': 2, 'reposts': 4}
+{'id': '4307487668973577', 'text': '文澜心语 所有的道别里，我还是喜欢那句\n“明天见”\n晚安，中南大[给你小心心]', 'attitudes': None, 'comments': 5, 'reposts': 3}
+{'id': '4307472233637890', 'text': '#深夜语人生# 你最喜欢的动漫人物的经典台词是什么？说出来让大家一起来猜猜是谁吧', 'attitudes': None, 'comments': 55, 'reposts': 1}
+{'id': '4307450225589994', 'text': '#文澜贴士# 失眠者救星：美国海军2分钟入睡法！\n美国海军预备飞行学校总结出来一套快速入眠方法，5个步骤用时1分半，让全身所有部位都放松下来，120秒内马上睡着！今晚就试试吧~\nvia微课堂\n人人视频的秒拍视频', 'attitudes': None, 'comments': 7, 'reposts': 58}
+{'id': '4307401409143630', 'text': "#文澜译站# Sometimes it's the people who no one imagines anything of who do the things that no one can imagine. ——《模仿游戏》\n期待你的翻译", 'attitudes': None, 'comments': 13, 'reposts': 5}
+{'id': '4307376025326685', 'text': '#华南理工大学66周年校庆#\n云山珠水，崛起南国育栋梁。\n华工汝校，桃李万千尽芬芳。\n自强不息，名校风范。\n追求卓越，学术辉煌。\n博学慎思踏实地，明辨笃行志图强。\n六十六载共奋进，厚德载物谱华章。\n@中南财经政法大学 祝@华南理工大学 66岁生日快乐！\n望两校友谊长存，携手共进，一起做更好的大学 ...全文', 'attitudes': None, 'comments': 2, 'reposts': 2}
+{'id': '4307322156619465', 'text': '#乐活中南# 双十一已经过去近一周了，Zuelers的快递都收到了吗？还是…正在排队呢？', 'attitudes': None, 'comments': 13, 'reposts': 2}
+{'id': '4307290628571927', 'text': '#文澜微课堂# 离四六级考试还有不到一个月的时间，大家都准备好了吗？戳图看学霸亲自撰写的作文模板笔记和名师作文话题预测！ via微课堂', 'attitudes': None, 'comments': 2, 'reposts': 38}
+{'id': '4307250258266527', 'text': '文澜心语 心美一切皆美，情深万象皆深。——林清玄\n早安！中南大', 'attitudes': None, 'comments': 6, 'reposts': 3}
+{'id': '4307132210377502', 'text': '中南财经政法大学文澜心语\n那些旖旎到神奇程度的山林湖泊，仍然是存在的，也许比白天更美丽，只是人们看不到而已。\n——季羡林\n晚安，中南大', 'attitudes': None, 'comments': 3, 'reposts': 1}
+{'id': '4307115570944519', 'text': '#深夜语人生# 离四六级笔试还有一个月，你们都准备好了吗就现在！离你右手最近的物体！用英语怎么说？', 'attitudes': None, 'comments': 73, 'reposts': 2}
+{'id': '4307084508018484', 'text': '#文澜推荐# 2018上半年豆瓣电影评分榜Top50 via.实用干货', 'attitudes': None, 'comments': 3, 'reposts': 38}
+{'id': '4307045974414804', 'text': '#文澜贴士# 【“留白”的技法，同样适用于人生】认识许多人，但真正担得起“朋友”二字的不过寥寥几个；总有做不完的事，见不完的人，永远忙碌却迷茫。人生没有折返的路，不把时间浪费在无谓的人和事上，是对自己最大的尊重和成全。放弃无用社交，抛弃烦恼情绪，思考什么最重要，然后集中精力，专注追 ...全文', 'attitudes': None, 'comments': 2, 'reposts': 11}
+{'id': '4306978551230752', 'text': '#文澜译站# “We, the rustling leaves, have a voice that answers the storms, but who are you so silent?"\n“I am a mere flower.”\n“我们萧萧的树叶都有声响回答那风和雨。你是谁呢，那样的沉默着？”\n“我不过是一朵花。”\n——泰戈尔《飞鸟集》', 'attitudes': None, 'comments': 5, 'reposts': 15}
+{'id': '4306948587586315', 'text': '#文澜微课堂# 英语四六级翻译，必背中国文化特色词汇。 via.学霸课长', 'attitudes': None, 'comments': 7, 'reposts': 97}
+{'id': '4306890076860761', 'text': '中南财经政法大学文澜心语\n休对故人思故国，且将新火试新茶。\n诗酒趁年华。\n——苏轼\n早安，中南大', 'attitudes': None, 'comments': 10, 'reposts': 5}
+{'id': '4306757855068013', 'text': '#深夜语人生#\n@ 你的微信/QQ昵称，看看你艾特的是谁', 'attitudes': None, 'comments': 161, 'reposts': 1}
+{'id': '4306747030298176', 'text': '文澜心语\n人并不是要活的多长，而是是否痛快的活过。\n\n——三毛《哭泣的骆驼》\n晚安，中南大', 'attitudes': None, 'comments': 4, 'reposts': 3}
+{'id': '4306733638125981', 'text': '#光影中南#\n当浩瀚星辰与中南大相遇', 'attitudes': None, 'comments': 12, 'reposts': 10}
+{'id': '4306699559257821', 'text': '“就地证法”', 'attitudes': None, 'comments': 180, 'reposts': 430}
+{'id': '4306694009851239', 'text': '#乐活中南#\n后续…', 'attitudes': None, 'comments': 117, 'reposts': 31}
+{'id': '4306671615900258', 'text': '#文澜译站#\nWe are all in the gutter,but some of us are looking at the star.\n——Oscar Wilde\n期待你的解读[小仙女]', 'attitudes': None, 'comments': 16, 'reposts': 3}
+{'id': '4306643929294575', 'text': '#乐活中南#\n听说，今天武汉金谷很热闹\n大家拿到大螃蟹了吗？', 'attitudes': None, 'comments': 387, 'reposts': 345}
+{'id': '4306580385678402', 'text': '#文澜公告#\n关于2018年七校联合办学跨校辅修双学位报名（限招专业）摇号结果的公示\n网页链接', 'attitudes': None, 'comments': 9, 'reposts': 4}
+{'id': '4306558382748432', 'text': '#文澜微课堂# 【科普：为什么人们恰恰在自己不擅长的领域拥有迷之自信？】1999年，两位社会心理学家做了一场有趣的实验，结果发现，越是无能的人，反而越会认为自己无所不能。这一现象，就是著名的“达克效应”via.柴知道 柴知道的秒拍视频', 'attitudes': None, 'comments': 6, 'reposts': 24}
+{'id': '4306521635976432', 'text': '文澜心语\n人生最重要的结局是:\n我们终有一天，要学会和自己平凡不完美的父母达成和解。\n我们终有一天，要学会和自己、和这个世界达成和解。\n无论它在你看来美丽，或丑陋。\n——北野武\n早安～中南大', 'attitudes': None, 'comments': 17, 'reposts': 8}
+{'id': '4306412705753042', 'text': '中南财经政法大学文澜心语\n纵然伤心，也不要愁眉不展，因为你不知是谁会爱上你的笑容。\n——泰戈尔\n\n晚安，中南大', 'attitudes': None, 'comments': 3, 'reposts': 6}
+{'id': '4306377516062450', 'text': '中南财经政法大学#深夜语人生#\n分享一下你的相册里的第一张照片和最舍不得删的那张照片吧～', 'attitudes': None, 'comments': 44, 'reposts': 2}
+{'id': '4306373220741988', 'text': '中南财经政法大学\n当浩瀚星辰与中南大相遇……\n\n推文链接当浩瀚星辰与中南大相遇\n\n你绝不会想到她可以这么美，美得让你行色匆匆时获得宁静的快乐，美得让你孤独踯躅时获得温柔的抚慰。浩瀚宇宙里的这一颗星辰那么渺小，如宇宙尘埃，似星河光尘，却依旧能照亮你的整个大学生活，给你最美的未来与回 ...全文', 'attitudes': None, 'comments': 2, 'reposts': 0}
+{'id': '4306331970648478', 'text': '中南财经政法大学#文澜译站#\n此情可待成追忆，只是当时已惘然。\nSometimes you will never know the true value of a moment until it becomes a memory.\n\n这句古诗，你会怎么翻译呢？', 'attitudes': None, 'comments': 3, 'reposts': 4}
+{'id': '4306218938051198', 'text': '中南财经政法大学#文澜微课堂#\n311个英语写作常用词语，有多少是你熟悉掌握的呢？赶紧转发码住哦 via.实用干货', 'attitudes': None, 'comments': 1, 'reposts': 30}
+{'id': '4306155227026281', 'text': '中南财经政法大学文澜心语\n即使已然知晓旅程和它的归宿，\n我仍迎接它，\n迎接它的每分每秒。\n——《降临》\n\n早安，中南大', 'attitudes': None, 'comments': 3, 'reposts': 1}
+{'id': '4306042450037617', 'text': '#深夜语人生#\n你每天晚上最后一个关掉的app是什么呀', 'attitudes': None, 'comments': 35, 'reposts': 1}
+{'id': '4306026053795896', 'text': '中南财经政法大学文澜心语\n迷失的人迷失了，相逢的人会再相逢。\n/村上春树《挪威的森林》\n晚安，中南大⭐️', 'attitudes': None, 'comments': 4, 'reposts': 4}
+{'id': '4305972367500746', 'text': '#乐活中南#\n你的待发货和待收货数量是', 'attitudes': None, 'comments': 21, 'reposts': 1}
+{'id': '4305957666300227', 'text': '中南财经政法大学#文澜微课堂#\nExcel实用技能get！via实用干货', 'attitudes': None, 'comments': 0, 'reposts': 26}
+{'id': '4305923792777699', 'text': '中南财经政法大学#文澜译站#\nA goal is not always meant to be reached, and it often serves simply as something to aim at.', 'attitudes': None, 'comments': 2, 'reposts': 1}
+{'id': '4305861138687492', 'text': '中南财经政法大学#乐活中南##光影中南#\n菁菁校园 荏苒时光\n这些年我们一起走过的点滴瞬间中\n是哪里传来清晨的书声琅琅\n是哪里洒下恣意的汗水飞扬\n又是哪里 成为回忆里的秘密\n跟菌菌一起来看看这些\n只有我们知道的地方\n有一个地方只有我们知道（上篇）', 'attitudes': None, 'comments': 0, 'reposts': 0}
+{'id': '4305805396907666', 'text': '中南财经政法大学文澜心语\n快意时早回首，拂心处莫放手。—《菜根谭》\n早安，中南大', 'attitudes': None, 'comments': 4, 'reposts': 3}
+{'id': '4305665533084856', 'text': '文澜心语把人生当作饼干罐就可以了。饼干罐不是装了各种各样的饼干，喜欢的和不喜欢的都在里面吗？如果先一个劲儿地挑你喜欢吃的，那么剩下的就全是不大喜欢的。每次遇到麻烦我就这样想，先把这个应付过去，接下来就好办了。——村上春树《挪威的森林》\n晚安，中南大', 'attitudes': None, 'comments': 2, 'reposts': 4}
+{'id': '4305661493741719', 'text': '中南财经政法大学祝@中山大学 生日快乐🎂，愿两校友谊长存', 'attitudes': None, 'comments': 5, 'reposts': 0}
+{'id': '4305660654564490', 'text': '#深夜语人生# 你的家乡现在多少度阿（图片via德卡先生的信箱）', 'attitudes': None, 'comments': 23, 'reposts': 0}
+{'id': '4305653511606521', 'text': '#文澜贴士# 【8分钟高强度腹肌训练】针对核心肌群，把握好动作节奏，一组下来会暴汗。冬天是容易堆积脂肪的季节，赶紧练起来！\n（via人民日报） 人人视频的秒拍视频', 'attitudes': None, 'comments': 2, 'reposts': 19}
+{'id': '4305614430038131', 'text': '#文澜译站# Did you ever stop to notice all the children dead from war? Did you ever stop to notice the crying Earth, the weeping shores?', 'attitudes': None, 'comments': 2, 'reposts': 0}
+{'id': '4305495998983893', 'text': '#乐活中南# 从前的日光很慢。 车，马，邮件都慢。一个问候，要等上好多天。', 'attitudes': None, 'comments': 6, 'reposts': 6}
+{'id': '4305442945601355', 'text': '文澜心语不是所有坚持都有结果，但是总有一些坚持，\n能从一寸冰封的土地里，培育出十万朵怒放的蔷薇。\n——八月长安\n早安，中南大', 'attitudes': None, 'comments': 8, 'reposts': 6}
+{'id': '4305308459506433', 'text': '文澜心语\n由于我的无知，我对生存方式只有一个非常普通的信条：“不许后悔。”\n——坂口安吾\n晚安，中南大', 'attitudes': None, 'comments': 6, 'reposts': 12}
+{'id': '4305261135284229', 'text': '#深夜语人生# 听说，冬天和火锅更配哦，你每次吃火锅必点的是什么呢？', 'attitudes': None, 'comments': 25, 'reposts': 1}
+{'id': '4305214074598455', 'text': '#文澜译站#\nIn the ways of life,every trauma is a mature, every loss is a gain.\n\n生命里的每一次创伤都是一种成熟 每一次失去都是一种获得 。', 'attitudes': None, 'comments': 0, 'reposts': 8}
+{'id': '4305170663748001', 'text': '#文澜贴士#\n距离双十一结束还有十个小时\n来自菌菌的温馨贴士：\n\n量入为出，适度消费\n避免盲从，理性消费\n保护环境，绿色消费\n勤俭节约，艰苦奋斗', 'attitudes': None, 'comments': 5, 'reposts': 1}
+{'id': '4305150263178908', 'text': '#乐活中南#\n限时抢购！中南大版双十一限定，快来加购~\n\n戳链接看全文\n网页链接', 'attitudes': None, 'comments': 3, 'reposts': 1}
+{'id': '4305106205886820', 'text': '#文澜微课堂#【单身的科学原因】其实单身背后科学原因很多，有心理也有生理，不仅跟童年养成的情感依附类型有关，还可能受个人选择和基因影响。科学研究证实，与其草率开始一段不尽人意的恋爱关系，还不如单身快快乐乐。说说你的想法和故事吧！ 谷大白话的秒拍视频', 'attitudes': None, 'comments': 4, 'reposts': 8}
+{'id': '4305071698988043', 'text': '文澜心语\n如果你是条船，\n漂泊就是你的命运，\n可别靠岸。\n——北岛\n早安，中南大', 'attitudes': None, 'comments': 3, 'reposts': 3}
+{'id': '4304940337936556', 'text': '文澜心语 “我的恋人，是这个国家”\n——安室透\n晚安💤中南大', 'attitudes': None, 'comments': 12, 'reposts': 3}
+{'id': '4304933786329489', 'text': '#深夜语人生# 明天就是双十一了，大家准备好了吗如果你微博表情的第十一个代表了你明天的心情，你的是…', 'attitudes': None, 'comments': 57, 'reposts': 0}
+{'id': '4304840681332714', 'text': '#文澜推荐# 豆瓣评分9.4！这部堪比《舌尖上的中国》的神作看饿了无数人 ，《风味人间》你值得拥有[米奇比心]\nvia思想聚焦', 'attitudes': None, 'comments': 2, 'reposts': 3}
+{'id': '4304825258473506', 'text': '#中南大校运会# 叮叮叮🔔！图集来啦！ 中南财经政法大学2018年田径运动会回顾快来看看有没有你熟悉的身影？\n图集 | 中南财经政法大学2018年田径运动会回顾', 'attitudes': None, 'comments': 3, 'reposts': 0}
+{'id': '4304823278937188', 'text': '#文澜译站# What you are you do not see, what you see is your shadow. ——泰戈尔\n期待你的翻译', 'attitudes': None, 'comments': 7, 'reposts': 3}
+{'id': '4304710732831981', 'text': '文澜心语 后海有树的院子，夏代有工的玉，此时此刻的云，二十来岁的你。——冯唐\n早安，中南大', 'attitudes': None, 'comments': 5, 'reposts': 4}
+{'id': '4304596777762194', 'text': '中南财经政法大学#文澜心语#\n若逢新雪初霁，满月当空，下面平铺着皓影，上面流转着亮银，而你带笑的向我走来，月色和雪色之间，你是第三种绝色。\n——余光中《绝色》\n晚安，中南大', 'attitudes': None, 'comments': 0, 'reposts': 7}
+{'id': '4304588406655774', 'text': '#中南大校运会##深夜语人生#\n为期三天的校运会结束啦，这一届校运会，对你来说有什么回忆吗？', 'attitudes': None, 'comments': 20, 'reposts': 1}
+{'id': '4304553090327035', 'text': '#中南大校运会#\n【战报】\n【拔河 学生组】\n法学院获得第一名\n金融学院获得第二名\n刑司学院获得第三名\n【100米 学生女子组】\n来自会计学院的邹玲思以13.92s的成绩获得第一名\n来自法学院的李琪以14.17s的成绩获得第二名\n来自统数学院的张帆月以14.57s的成绩获得第三名\n【100米 学生男子组】\n来自刑司学 ...全文', 'attitudes': None, 'comments': 7, 'reposts': 7}
+{'id': '4304498006573196', 'text': '#中南大校运会#\n【战报】\n【60米 教工男子乙组】\n恭喜工商学院的朱汉彬以8.63s的成绩获得第一名\n恭喜公管学院的龚家友以8.86s的成绩获得第二名\n恭喜哲学院的笪宁以9.27s的成绩获得第三名\n【跳远 教工男子甲组】\n恭喜工商学院的曾紫荣以5.09m的成绩获得第一名\n恭喜公管学院的张广科以4.45m的成绩获得第 ...全文', 'attitudes': None, 'comments': 4, 'reposts': 0}
+{'id': '4304491861563526', 'text': '#中南大校运会#\n【战报】\n【200米 学生男子组】\n来自经济学院的曾靖然以24.57s的成绩获得第一名\n来自中韩学院的朱希哲以25.79s的成绩获得第二名\n来自法学院的高祥宇以25.86s的成绩获得第三名\n【1500米 学生男子组】\n来自工商学院的朱航以4:38.51的成绩获得第一名\n来自法学院的徐志勇以4:56.60的成绩获 ...全文', 'attitudes': None, 'comments': 3, 'reposts': 1}
+{'id': '4304437809590289', 'text': '#中南大校运会#\n【战报】\n【跳远 教工女子甲组】\n来自工商学院的李芳以4.01m的成绩获得第一名\n来自金融学院的莎吉丹姆以3.49m的成绩获得第二名\n来自金融学院的邓翔以3.41m的成绩获得第三名\n【200米 学生女子组】\n来自统数学院的张帆月以31.14s的成绩获得第一名\n来自工商学院的谢宛珊以31.66s的成绩获 ...全文', 'attitudes': None, 'comments': 1, 'reposts': 1}
+{'id': '4304415458843500', 'text': '#中南大校运会#\n【战报】\n【10人×30米同心协力跑 学生组】\n工商学院以6.14s的成绩获得第一名\n金融学院以6.30s的成绩获得第二名\n统数学院以6.62s的成绩获得第三名\n【呼啦行进 学生女子组】\n来自法学院的李文秀以10.47s的成绩获得第一名\n来自法学院的王依倩以10.66s的成绩获得第二名\n来自金融学院的钟梦 ...全文', 'attitudes': None, 'comments': 1, 'reposts': 0}
+{'id': '4304355425241933', 'text': '中南财经政法大学#文澜心语#\n所有随风而逝的都属于昨天的，所有历经风雨留下来的才是面向未来的。\n—— 玛格丽特•米切尔 《飘》\n早安，中南大', 'attitudes': None, 'comments': 2, 'reposts': 8}
+{'id': '4304229000647248', 'text': '#茶山刘radio#\n冬天到了，还有孤单一人的ZUELers吗？你们是否还单身？是否和忙碌的室友生活在一起？是否想回家吃父母包的饺子？有人说：“冬天到了，说话要小声”，就让陈奕迅的《Sleep Alone》在你的耳边低吟，哄你入睡，陪伴你度过ZUEL漫长的冬天吧。\nSleep Alone', 'attitudes': None, 'comments': 10, 'reposts': 2}
+{'id': '4304216703140970', 'text': '#深夜语人生# 现在你的购物车里最贵的和最便宜的东西分别是什么鸭', 'attitudes': None, 'comments': 19, 'reposts': 0}
+{'id': '4304207080969416', 'text': '#文澜心语#\n把自己内心整得精致了\n真的会遇上好多很精致的东西\n人最需要的是迷上自己的生活\n\n——《半山文集》\n\n晚安，中南大', 'attitudes': None, 'comments': 1, 'reposts': 4}
+{'id': '4304192987984080', 'text': '#中南大校运会#\n【战报】\n【学生女子组袋鼠跳】\n来自金融学院的张鑫丽以11.04s的成绩获得第一名\n来自公管学院的陈诺以11.40s的成绩获得第二名\n来自法学院的王巍以11.51s的成绩获得第三名\n【学生男子组袋鼠跳】\n来自法学院的江哲轩以13.03s的成绩获得第一名\n来自工商学院的何仁斌以13.63s的成绩获得第 ...全文', 'attitudes': None, 'comments': 8, 'reposts': 1}
+{'id': '4304172474001394', 'text': '#文澜贴士#\n【两周速成瘦大腿】再粗壮的腿10天也能缩小，整套动作下来，对腿部刺激非常明显！坚持就是胜利via.健身美容养生 健身美容养生的秒拍视频', 'attitudes': None, 'comments': 4, 'reposts': 71}
+{'id': '4304159375247368', 'text': '#乐活中南#\n答案是多少呢？via.微课堂', 'attitudes': None, 'comments': 37, 'reposts': 0}
+{'id': '4304144388648149', 'text': '#中南大校运会#\n【战报】\n【学生女子组4×100接力】\n法学院以59.21s的成绩获得第一名\n工商学院以59.38s的成绩获得第二名\n统数学院以1:03.26s的成绩获得第三名\n【学生男子组4×100接力】\n法学院以48.11s的成绩获得第一名\n经济学院以49.03s的成绩获得第二名\n刑司学院以49.24s的成绩获得第三名\n【学生组4×1 ...全文', 'attitudes': None, 'comments': 20, 'reposts': 3}
+{'id': '4304075967478349', 'text': '#中南大校运会#\n【战报】\n【时代列车】\n统数学院以48.10s的成绩获得第一\n财税学院以49.41s的成绩获得第二\n金融学院以53.00s的成绩获得第三\n【学生男子组跳高】\n来自统数学院的邹中阳以1.65m的成绩获得第一\n来自金融学院的刘凯文以1.65m的成绩获得第二\n来自刑司学院的刘晨翼以1.60m的成绩获得第三\n【学 ...全文', 'attitudes': None, 'comments': 10, 'reposts': 1}
+{'id': '4304023421709922', 'text': '#文澜译站#\nYou can either travel or read\nAnd either your body or soul must be on the road.\n（期待你的翻译👇）', 'attitudes': None, 'comments': 19, 'reposts': 12}
+{'id': '4303991250398396', 'text': '#文澜心语#在某个年纪之前，你可以靠透支身体，小聪明和老天给你的运气一直取巧地活着。然而到了某个年纪之后，真正能让你走远的，都是自律，积极和勤奋。\n—— 卢思浩\n早安，中南大', 'attitudes': None, 'comments': 5, 'reposts': 10}
+{'id': '4303864322596021', 'text': '中南财经政法大学文澜心语\n只有诗人和圣徒才能坚信，在沥青路面上辛勤浇水会培植出百合花来。\n——毛姆《月亮与六便士》\n\n晚安，中南大', 'attitudes': None, 'comments': 4, 'reposts': 1}
+{'id': '4303839773536760', 'text': '中南财经政法大学#深夜语人生#\n在立冬的冷雨夜，裹紧小被子来说一下你的购物车里囤了什么过冬呢？', 'attitudes': None, 'comments': 16, 'reposts': 0}
+{'id': '4303777807410786', 'text': '中南财经政法大学文澜心语\nA beautiful life begins with a beautiful mind.\n\n美丽的生活来源于美丽的思想。', 'attitudes': None, 'comments': 0, 'reposts': 3}
+{'id': '4303731808076996', 'text': '#中国地质大学66岁生日快乐#\n东湖十里雨色朦，南望山下书香传。\n艰苦朴素，是你的文化积累和思想沉淀；\n求真务实，是你的精神内涵与价值追求。\n六十六载的光辉岁月在血脉中流淌，\n明日未来的继往开来在不远处等待。\n@中南财经政法大学 祝@中国地质大学 继往开来，再登高峰，续谱华章！\n愿两校友谊长 ...全文', 'attitudes': None, 'comments': 3, 'reposts': 6}
+{'id': '4303695048549046', 'text': '中南财经政法大学#乐活中南#\n今天校运会开幕啦，虽然有点冷，但是Zuelers还是朝气蓬勃，奋发向上的样子呢～\n运动员们要加油哦！[加油]', 'attitudes': None, 'comments': 22, 'reposts': 6}
+{'id': '4303657996169782', 'text': '中南财经政法大学#文澜贴士#\n北风萧瑟送寒霜，冰雪梅枝芳草香。三五好音斟美酒，茶余饭后嘘篇章。 ——立冬\n\n今日19时32分，立冬。\n水始冰，地始冻，三日寒、四日暖。\nZuelers注意御寒呀 via.国史古风', 'attitudes': None, 'comments': 5, 'reposts': 7}
+{'id': '4303636219611669', 'text': '中南财经政法大学文澜心语\n刚刚好，看见你幸福的样子，于是幸福着\n你的幸福。\n—— 村上春树\n\n早安，中南大💞\n今日立冬，Zuelers记得添衣御寒哦～', 'attitudes': None, 'comments': 3, 'reposts': 0}
+{'id': '4303509807729197', 'text': '#深夜语人生#\n在评论区留下让你感到温暖的东西吧\n\n菌菌的\n\n火锅 糖炒栗子 烤红薯', 'attitudes': None, 'comments': 23, 'reposts': 0}
+{'id': '4303495924148002', 'text': '文澜心语美好事物-房东的猫\n“你说要忘却所有不愉快的片段\n把美好事物纯真的走完”\n\n晚安，中南大', 'attitudes': None, 'comments': 2, 'reposts': 6}
+{'id': '4303463686872569', 'text': '中南财经政法大学#文澜推荐#\n\n《风味人间》\n\n“以美食入画，成了山峦，弦乐和云海。”\n\nvia 豆瓣电影', 'attitudes': None, 'comments': 4, 'reposts': 5}
+{'id': '4303423421217871', 'text': '中南财经政法大学#文澜微课堂#\n公共场所的英文翻译规范～\n距离你的四级/六级考试还有38天\n来源：人民日报', 'attitudes': None, 'comments': 2, 'reposts': 17}
+{'id': '4303323974161314', 'text': '#乐活中南#\n我不冷\n真的\n阿嚏！', 'attitudes': None, 'comments': 12, 'reposts': 3}
+{'id': '4303311555067284', 'text': '中南财经政法大学#文澜译站#\nNo matter where you run,\nyou just end up running into yourself.\n无论你奔向何方，最终都会抵达自己的内心。\n—《蒂凡尼的早餐》', 'attitudes': None, 'comments': 1, 'reposts': 4}
+{'id': '4303268630716840', 'text': '中南财经政法大学文澜心语\n昨日种种，皆成今我，\n切莫思量，更莫哀，\n从今往后，怎么收获怎么栽。\n——胡适\n早安，中南大[给你小心心]\n（图片：欧昌宏）', 'attitudes': None, 'comments': 5, 'reposts': 8}
+{'id': '4303141078305253', 'text': '#文澜心语# 人生的价值，并不是用时间，而是用深度去衡量的。——列夫•托尔斯泰\n晚安，中南大', 'attitudes': None, 'comments': 1, 'reposts': 1}
+{'id': '4303140889139527', 'text': '#深夜语人生# 明天要大降温啦，秋裤准备好了吗', 'attitudes': None, 'comments': 3, 'reposts': 2}
+{'id': '4303103538444916', 'text': '#文澜译站# The vision that was planted in my brain still remains, within the sound of silence.', 'attitudes': None, 'comments': 4, 'reposts': 2}
+{'id': '4302985057973707', 'text': '#文澜微课堂# 【百岁老人的人生哲学】活到100岁是怎样一种体验？长久岁月里什么值得珍惜、什么需要放下？期颐之年，三位英国老人不约而同表示：“日子还长着呢，完全不觉得自己老！” 百年时光铸就的智慧蕴含在这13分钟的视频里，润物无声。看完视频的你对生活有了什么新感触？via英国 ...全文', 'attitudes': None, 'comments': 0, 'reposts': 8}
+{'id': '4302910147867650', 'text': '#文澜心语# 从手头的开始看起；单词总是背不完，那就不要去寻求捷径，从第一个开始背；旅行下不了决心，那就放弃攻略从订机票开始。打败焦虑的最好办法，就是去做那些让你焦虑的事情。出发永远是最有意义的事，去做就是了。——卢思浩\n早安，中南大', 'attitudes': None, 'comments': 4, 'reposts': 7}
+{'id': '4302779453302114', 'text': '#文澜心语#\n我对自己的要求很低：我活在世上，无非想要明白些道理，遇见些有趣的事。倘若能如我愿，我的一生就算成功。 ——王小波\n晚安，中南大 💤', 'attitudes': None, 'comments': 5, 'reposts': 5}
+{'id': '4302755072399400', 'text': '#乐活中南# 一等奖🎉', 'attitudes': None, 'comments': 3, 'reposts': 3}
+{'id': '4302752241116221', 'text': '明天又是周一啦！！！', 'attitudes': None, 'comments': 102, 'reposts': 0}
+{'id': '4302660419077230', 'text': '#文澜译站#\nBeauty begins the moment you decide to be yourself. ---Coco Chanel', 'attitudes': None, 'comments': 1, 'reposts': 5}
+{'id': '4302621789631338', 'text': '#文澜贴士# 【别让愤怒“污染”你！ 做好自己的情绪救援】在吵架生气的时候，很多人总是无法控制自己的怒火而大发脾气。愤怒、抱怨、冲突……你的思维模式影响了你看事情的角度和心情，让我们跟讲者一起，做好“情绪救援”，不再被愤怒情绪“污染”。 via.微课堂\nTED君学演讲的微博视频', 'attitudes': None, 'comments': 0, 'reposts': 10}
+{'id': '4302534938697625', 'text': '#文澜心语#\n你看这年复一年，春光不必趁早，冬霜不会迟到，相聚别离，都是刚刚好。\n——张嘉佳\n早安，中南大～', 'attitudes': None, 'comments': 7, 'reposts': 19}
+{'id': '4302418584059527', 'text': '文澜心语 我们都喜欢光，虽然转瞬即逝。但你还是你，有我一喊就颤心的名字。\n——余秀华《风吹》\n晚安，中南大', 'attitudes': None, 'comments': 3, 'reposts': 12}
+{'id': '4302405698978774', 'text': '#深夜语人生# 留下你名字的缩写，让广大网友给你起个名', 'attitudes': None, 'comments': 330, 'reposts': 3}
+{'id': '4302404352665858', 'text': '中南财经政法大学 七秩中南情，你我齐相聚\n母校华诞，校园里有众多校友的身影，然而未能回校的Zuelers也为母校拍下了祝福照片\n让我们一起来看看吧！\n我们在世界各地祝福您！', 'attitudes': None, 'comments': 2, 'reposts': 0}
+{'id': '4302334508533629', 'text': '#文澜贴士# 90后是一个开始失去的年纪，就连头发也渐渐失去，所以快来看看如何才能留住你的头发吧 via微课堂\n环球时报的秒拍视频', 'attitudes': None, 'comments': 1, 'reposts': 6}
+{'id': '4302304871665215', 'text': '#文澜推荐# 20部人生必看的纪录片推荐！每一部都堪称经典，让人叹为观止！ via思想聚焦', 'attitudes': None, 'comments': 1, 'reposts': 27}
+{'id': '4302225843628614', 'text': '#文澜译站# For you, a thousand times over. ——《追风筝的人》', 'attitudes': None, 'comments': 4, 'reposts': 3}
+{'id': '4302175246835510', 'text': '文澜心语 努力把答应自己的事全都做到，那一定很酷。\n早安！中南大', 'attitudes': None, 'comments': 12, 'reposts': 9}
+{'id': '4302050596903509', 'text': '中南财经政法大学文澜心语\n“如果你爱上了某个星球的一朵花。\n那么，只要在夜晚仰望星空，\n就会觉得漫天的繁星就像一朵朵盛开的花。”\n——《小王子》\n\n晚安，中南大', 'attitudes': None, 'comments': 1, 'reposts': 4}
+{'id': '4302046456860103', 'text': '#深夜语人生# 敢不敢数一数你手机里有多少个APP？', 'attitudes': None, 'comments': 27, 'reposts': 1}
+{'id': '4302038966057647', 'text': '#乐活中南# 为献礼中南大建校70周年，我校优秀学生音乐团队创作了歌曲《一九四八》，在歌曲中回顾了中南大70年的砥砺奋进，表达对中南大美好未来的无限祝福与期待。\n\n晓南湖间晨风起，希贤岭上暮色苍。\n风雨兼程群英汇，举樽踏笙识一场。\n\n详情戳→学生团队原创歌曲《一九四八》献给亲爱的中南大', 'attitudes': None, 'comments': 2, 'reposts': 3}
+{'id': '4302009345733578', 'text': '#文澜贴士# 9张图，32张表帮你搞定13个英语语法重点。 via.实用干货', 'attitudes': None, 'comments': 1, 'reposts': 29}
+{'id': '4301945445635931', 'text': '#光影中南#\n城市或无涯荒野 白昼或长夜\n万象都是你眉眼\n摄影：@何囧JS', 'attitudes': None, 'comments': 2, 'reposts': 12}
+{'id': '4301924289729273', 'text': '#文澜译站# My final wish is for those people who love me even though I am not perfect.\n我最后的祝福是要给那些人，他们知道我不完美还爱着我。\n——泰戈尔', 'attitudes': None, 'comments': 3, 'reposts': 7}
+{'id': '4301859881674038', 'text': '#文澜微课堂# 【超实用！送你一份升学就业月历】前天，考研、国考报名截止。即将毕业的你，有明确规划了吗？无论是考研、考公务员、求职还是准备留学，千万别忘了这些关键时间点！超实用升学就业月历↓↓ via.央视新闻', 'attitudes': None, 'comments': 1, 'reposts': 6}
+{'id': '4301816801549001', 'text': '中南财经政法大学文澜心语\n要真正的注视，必须一个人走路。\n一个人走路，才是你和风景之间的单独私会。\n——龙应台《目送》\n早安，中南大', 'attitudes': None, 'comments': 2, 'reposts': 5}
+{'id': '4301687759832217', 'text': '文澜心语\n你要做一个不动声色的大人了。不准情绪化，不准偷偷想念，不准回头看。去过自己另外的生活。你要听话，不是所有的鱼都会生活在同一片海里。\n——村上春树\n晚安，中南大💕', 'attitudes': None, 'comments': 8, 'reposts': 17}
+{'id': '4301674933752042', 'text': '#深夜语人生# 当你情绪低落时会怎么发泄呢[给你小心心]', 'attitudes': None, 'comments': 44, 'reposts': 1}
+{'id': '4301637231133276', 'text': '#文澜译站#\nLife itself is the most wonderful fairytale.\n\n生活本身就是最美妙的童话故事。——安徒生', 'attitudes': None, 'comments': 0, 'reposts': 6}
+{'id': '4301595053163511', 'text': '#文澜微课堂# 公共场所常用的100个英语标示大全！via.思想聚焦', 'attitudes': None, 'comments': 1, 'reposts': 13}
+{'id': '4301568059303969', 'text': '#乐活中南# 今天你们去献血了吗', 'attitudes': None, 'comments': 9, 'reposts': 1}
+{'id': '4301516862559313', 'text': '#文澜贴士# 【9个实用又有趣的心理学技巧】①别人找你借笔，取下笔帽再借给他，用完后他会马上还给你，因为没人想要一支不完整的笔；②嚼口香糖能缓解紧张，阻止引发紧张感的激素释放；③想约会，先邀请对方一起简单喝个饮料，这样对方接受的可能性更大…9个有趣实用的小技巧↓↓让你成为情绪的主人。v ...全文', 'attitudes': None, 'comments': 2, 'reposts': 11}
+{'id': '4301483459238572', 'text': '中南财经政法大学70周年校庆\n【校庆回顾】\n校友回家，中南大是你永远的温暖[给你小心心]\n历经千帆，归来仍是少年[给你小心心]\n校友回家：中南大是你永远的温暖', 'attitudes': None, 'comments': 3, 'reposts': 2}
+{'id': '4301442988432275', 'text': '文澜心语\n一个人最好的模样大概是平静一点，坦然接受自己所有的弱点，不再因为别人过得好而焦虑，在没有人看得到你的时候依旧能保持节奏。这样或许会走得很慢，但会走的比谁都坚实，不用害怕一脚踩空，也不用害怕走到别人的轨道上去。\n——《我只是不想和大多数一样》\n\n早安，中南大~', 'attitudes': None, 'comments': 13, 'reposts': 8}
+{'id': '4301335706700846', 'text': '中南财经政法大学文澜心语\n生命中曾经有过的所有灿烂，终究都需要用寂寞来偿还。\n—— 马尔克斯《百年孤独》\n\n晚安，中南大', 'attitudes': None, 'comments': 6, 'reposts': 9}
+{'id': '4301311178490354', 'text': '中南财经政法大学#深夜语人生#\n马上就要体测了，你开始准备了吗？说说800/1000米时你的内心活动吧', 'attitudes': None, 'comments': 53, 'reposts': 0}
+{'id': '4301250566491277', 'text': '中南财经政法大学#文澜译站#\n寻寻觅觅，冷冷清清，凄凄惨惨戚戚。\nSo dim, so dark. So dense, so dull. so damp, so dank, so dead.\n\n菌菌期待你的翻译', 'attitudes': None, 'comments': 7, 'reposts': 1}
+{'id': '4301194048268074', 'text': '中南财经政法大学70周年校庆\n十年树木，百年树人\n七秩中南，桃李芬芳\n\n大学之大，在大师之大，快和菌菌一起看我们的《中南大校庆——名师系列》视频\n视频链接网页链接', 'attitudes': None, 'comments': 1, 'reposts': 1}
+{'id': '4301175967082011', 'text': '中南财经政法大学70周年校庆\n70年栉风沐雨，70年奋斗不息。已经70岁的中南大邀请你来看《铭心》学校宣传片啦\n回溯历史，展现辉煌成就\n视频链接中南财经政法大学70周年校庆宣传片', 'attitudes': None, 'comments': 19, 'reposts': 38}
+{'id': '4301137345380001', 'text': '飞雪连天射白鹿，笑书神侠倚碧鸳。让我们共同缅怀一代大师，先生一路走好', 'attitudes': None, 'comments': 3, 'reposts': 17}
+{'id': '4301123294855016', 'text': '中南财经政法大学#文澜贴士#\n今天，10月的最后一天，距离2019年还有两个月，你还有多少目标没有实现🤔？中南大都70岁啦，Zueler还在等什么？成为一个自律的人，想做什么就从现在开始，但行好事，莫问前程。via.人民日报', 'attitudes': None, 'comments': 2, 'reposts': 10}
+{'id': '4301113304001687', 'text': '中南财经政法大学\n【中南财经政法大学11月献血活动开始啦】🎉\n\n时间：\n2018年11月1日\n地点：\n中南财经政法大学首义校区图书馆门口\n中南财经政法大学南湖校区图书馆门口\n\n七轶芳华杏坛荣，点点滴滴热血浓\n莘莘学子献爱心，涓涓碧血汇南湖\n枯草清水浇，滴血润新生\n共铸中南大，同享生命源\n献血 ...全文', 'attitudes': None, 'comments': 8, 'reposts': 4}
+{'id': '4301083617226478', 'text': '中南财经政法大学文澜心语\n世上最美好的事莫过于——我长大，你未老；我有能力报答，你仍然健康。\n\n早安，中南大[给你小心心]', 'attitudes': None, 'comments': 5, 'reposts': 5}
+{'id': '4300974808628091', 'text': '中南财经政法大学#深夜语人生#\n@ 一个你最想见到的人吧', 'attitudes': None, 'comments': 73, 'reposts': 7}
+{'id': '4300953873956349', 'text': '因错过通知或时间冲突没有来领取奖品的可在明天中午十二点半来中原楼一楼大厅哦！可以找人代领或是选择邮寄到付！邮寄到付请留下您的具体地址和联系方式！若有任何疑问请私戳菌菌', 'attitudes': None, 'comments': 4, 'reposts': 0}
+{'id': '4300943271551997', 'text': '中南财经政法大学文澜心语\n“人遇事还是要多存理解和善意啊。”\n\n/德卡先生的信箱\n\n晚安，中南大⭐️', 'attitudes': None, 'comments': 5, 'reposts': 1}
+{'id': '4300861997623063', 'text': '中南财经政法大学\n【学术校庆】10月27日下午两点，来自世界五大洲60多所大学的校长或代表，齐聚中南财经政法大学中原楼7楼会议室，就“一流大学与一流学科建设的战略选择”这一主题开讲，为我校七十周年校庆献上了一份丰厚而有意义的贺礼。推文链接：【学术校庆】“一流大学与一流学科建设的战略选择”大学校长论坛', 'attitudes': None, 'comments': 0, 'reposts': 2}
+{'id': '4300836408566557', 'text': '中南财经政法大学#乐活中南#\n跟菌菌一起，回顾纪念大会和校庆晚会的精彩瞬间吧！【图说校庆】海量大图带你回顾校庆纪念大会、校庆晚会', 'attitudes': None, 'comments': 23, 'reposts': 13}
+{'id': '4300754467956600', 'text': '请中奖用户在对应平台的后台回复“姓名+希望奖品+来校领取/邮寄到付”，若找他人代领，请回复代领人姓名。申请邮寄到付的用户请将个人信息发送到后台，菌菌会尽快寄出哒。 菌菌今天在中原楼一楼等大家哦', 'attitudes': None, 'comments': 10, 'reposts': 0}
+{'id': '4300717302691372', 'text': '中南财经政法大学文澜心语\n怕什么真理无穷，\n进一寸有一寸的欢喜。\n—— 胡适\n早安，中南大', 'attitudes': None, 'comments': 14, 'reposts': 5}
+{'id': '4300604232870455', 'text': '文澜心语不管前方的路有多苦，只要走的方向正确，不管多么崎岖不平，都比站在原地更接近幸福。\n——宫崎骏《千与千寻》\n晚安，中南大', 'attitudes': None, 'comments': 9, 'reposts': 13}
+{'id': '4300591087828205', 'text': '#深夜语人生# 在你的小时候有哪些经典难忘的节目与主持人吗？', 'attitudes': None, 'comments': 20, 'reposts': 1}
+{'id': '4300589128944096', 'text': "#文澜译站# If you're not prepared to be wrong, you'll never come up with anything original.\n期待你的翻译哦", 'attitudes': None, 'comments': 11, 'reposts': 1}
+{'id': '4300556530653733', 'text': '东揽钟山紫气，北拥扬子银涛，六朝松下听箫韶，齐梁遗韵在。感谢@东南大学 的祝福，愿两校携手共进，友谊长存', 'attitudes': None, 'comments': 4, 'reposts': 4}
+{'id': '4300556040265517', 'text': '求实求真，大气大为。感谢@电子科技大学 的祝福，愿两校携手共进，友谊长存', 'attitudes': None, 'comments': 2, 'reposts': 0}
+{'id': '4300545999119665', 'text': '#文澜微课堂# 【中式英语小测试，这些外国人能得几分？ 】不久前add oil (加油)一词正式被《牛津英语词典》(Oxford English Dictionary，简称OED)收入，成为继lose face，long time no see 之后又一个认可的中式英语。随机街访了几位来自不同国家的歪果仁，结果enmmm..... via微课堂 ...全文', 'attitudes': None, 'comments': 3, 'reposts': 2}
+{'id': '4300493985165883', 'text': '忠诚，团结，求实，创新。感谢@中央财经大学 的祝福，愿两校携手同行，友谊长存', 'attitudes': None, 'comments': 2, 'reposts': 4}
+{'id': '4300417037166524', 'text': '公诚勤朴，汉唐胜地，西北上庠；人文渊薮，科技殿堂，滋兰树蕙满庭芳。感谢@西北大学 的祝福，愿两校携手共进，友谊长存', 'attitudes': None, 'comments': 4, 'reposts': 1}
+{'id': '4300406270354279', 'text': '勤慎公忠，感谢@河北工业大学 的祝福，愿两校携手共进，友谊长存', 'attitudes': None, 'comments': 1, 'reposts': 1}
+{'id': '4300405795785875', 'text': '厚德明法，格物致公，感谢@中国政法大学 的祝福，愿两校友谊长存', 'attitudes': None, 'comments': 0, 'reposts': 4}
+{'id': '4300405020209939', 'text': '一个人最好的模样大概是平静一点，坦然接受自己所有的弱点，不再因为别人过得好而焦虑，在没有人看得到你的时候依旧能保持节奏。这样或许会走得很慢，但会走的比谁都坚实，不用害怕一脚踩空，也不用害怕走到别人的轨道上去。——《我只是不想和大多数一样》\n早安，中南大', 'attitudes': None, 'comments': 1, 'reposts': 15}
+{'id': '4300230524782948', 'text': '文澜心语\n一个人只要有意志力，就能超越他的环境。\n——【美】杰克·伦敦《马丁·伊登》\n晚安，中南大', 'attitudes': None, 'comments': 1, 'reposts': 4}
+{'id': '4300226682562574', 'text': '依石城，饮长江；弦歌清凉，报效国邦。河海人，水之子；奔腾浩瀚灵动飞扬。感谢@河海大学 的祝福~愿两校友谊长存，携手并进', 'attitudes': None, 'comments': 3, 'reposts': 2}
+{'id': '4300225965969521', 'text': '#江西财经大学95周年校庆#\n四十年星移斗转，九五载万物枯荣。\n河海为酒，天地设宴！\n中南财经政法大学诚挚祝福@江西财经大学 建校95周年快乐！', 'attitudes': None, 'comments': 4, 'reposts': 3}
+{'id': '4300218335612728', 'text': '中南财经政法大学70周年校庆 #光影中南#', 'attitudes': None, 'comments': 3, 'reposts': 10}
+{'id': '4300205958984546', 'text': '群山逶迤，两江回环。巍巍学府，屹立西南。自强不息，历创业之维艰。精思睿智，穷学术之浩瀚。 博学笃行，育时代之英才。感谢@西南政法大学 的祝福，愿两校友谊长存，携手并进', 'attitudes': None, 'comments': 4, 'reposts': 4}
+{'id': '4300203705735147', 'text': '❗️关于近期互动活动\n时值中南大七十华诞，正正盈盈近期为大家带来了多次赠送校庆纪念礼品活动，所有中奖用户均已发送消息，未收到即未中奖，因近期后台消息量过大，正正盈盈未能全部回复大家的消息非常抱歉。请中奖用户在对应平台的后台回复“姓名+希望奖品+来校领取/邮寄到付”，已和后台确认部分 ...全文', 'attitudes': None, 'comments': 31, 'reposts': 3}
+{'id': '4300176233677846', 'text': '精勤求学，敦笃励志。果毅力行，忠恕任事。感谢@西安交通大学 的祝福~愿两校友谊长青，共同进步', 'attitudes': None, 'comments': 2, 'reposts': 4}
+{'id': '4300175327374344', 'text': '感谢卓尔对中南大的支持，愿你们在中超的足球场上突破自我，再创辉煌//@武汉卓尔职业足球俱乐部:博文明理，厚德济世！@武汉卓尔职业足球俱乐部 祝@中南财经政法大学 七十岁生日快乐🎂🎂🎂', 'attitudes': None, 'comments': 3, 'reposts': 18}
+{'id': '4300165654983283', 'text': '白山迎旭日，黑水泛金光。求实创新，励志图强，艰苦创业，奋发向上。感谢@吉林大学 的祝福！愿两校共同发展，共同进步', 'attitudes': None, 'comments': 2, 'reposts': 2}
+{'id': '4300164812869787', 'text': '渤海之滨，白河之津，汲汲駸駸，月异日新。美哉大仁，智勇真纯，以铸以陶，文质彬彬。感谢@南开大学 的祝福！愿两校携手共进，共做更好的大学！', 'attitudes': None, 'comments': 0, 'reposts': 6}
+{'id': '4300164388384744', 'text': '感谢@华北电力大学 的祝福~有缘于今日共贺校庆，愿两校友谊长青', 'attitudes': None, 'comments': 4, 'reposts': 0}
+{'id': '4300163755711435', 'text': '风云际会，焕发崇高理想。洪波涌起，激荡赤子情怀。感谢@中国人民大学 的祝福~愿两校友谊长存，在浩荡弦歌中共同奋进于时代前列！', 'attitudes': None, 'comments': 1, 'reposts': 6}
+{'id': '4300151877611565', 'text': '中南财经政法大学70周年校庆', 'attitudes': None, 'comments': 5, 'reposts': 13}
+{'id': '4300145505471690', 'text': '厚德，求真，砺学，笃行。感谢@西安电子科技大学 的祝福~携手共进，未来可期', 'attitudes': None, 'comments': 2, 'reposts': 1}
+{'id': '4300139227495215', 'text': '#甲子华电#\n巍巍学府 电力之光\n乘风破浪万里长\n自强不息 团结奋进\n求实创新铸辉煌\n@中南财经政法大学 遥祝@华北电力大学 60周年生日快乐！', 'attitudes': None, 'comments': 8, 'reposts': 9}
+{'id': '4300134798037715', 'text': '耐劳苦，尚俭朴，勤学业，爱国家。感谢@重庆大学 的祝福~友谊长存，一同进步', 'attitudes': None, 'comments': 0, 'reposts': 6}
+{'id': '4300132088349558', 'text': '同舟共济，格物穷理。感谢@同济大学 的祝福~我们同有星辰空气，愿能同舟共济', 'attitudes': None, 'comments': 1, 'reposts': 4}
+{'id': '4300130804645089', 'text': '团结勤奋，严谨求实。开拓创新，坚韧不拔。交通世界，通达古今。感谢@北京交通大学 的祝福~原两校友谊长存，共同进步', 'attitudes': None, 'comments': 3, 'reposts': 2}
+{'id': '4300128837766051', 'text': '学子来天涯，高楼一片瓦。明德能自强，厚学学风飒。感谢@华中科技大学 的祝福~愿两校友谊长存，携手同行', 'attitudes': None, 'comments': 10, 'reposts': 8}
+{'id': '4300127273894187', 'text': '艰苦朴素是你，求真务实是你。感谢@中国地质大学 的祝福~愿一路有你', 'attitudes': None, 'comments': 1, 'reposts': 1}
+{'id': '4300125800791090', 'text': '红专并进是你，理实交融是你。感谢@中国科学技术大学 的祝福~愿两校团结互助，共同进取！', 'attitudes': None, 'comments': 0, 'reposts': 2}
+{'id': '4300117660542427', 'text': '西岳轩昂，北斗辉煌，公诚勇毅，辈出栋梁 。感谢@西北工业大学 的祝福！携手并进，未来可期！', 'attitudes': None, 'comments': 1, 'reposts': 1}
+{'id': '4300116980445859', 'text': '燕山脚下，书声琅琅。桃李满园，天高地广。感谢@中国农业大学 的祝福！愿两校共同发展，长足进步！', 'attitudes': None, 'comments': 3, 'reposts': 2}
+{'id': '4300096487655809', 'text': '仁爱身修，精勤业广。堂堂学府，源远流长。感谢@湖南师范大学 的祝福！愿两校友谊长存，携手并进！', 'attitudes': None, 'comments': 2, 'reposts': 3}
+{'id': '4300084034598593', 'text': '中南财经政法大学70周年校庆纪念大会的最后一个环节，全体起立唱校歌，祝福中南大生日快乐！ 中南财经政法大学的秒拍视频', 'attitudes': None, 'comments': 21, 'reposts': 48}
+{'id': '4300083971603553', 'text': '花堤蔼蔼，北运滔滔。穷学理，振科工，重实验，薄雕虫。感谢@天津大学 的祝福，愿两校都能一心一德，扬校誉于无穷。', 'attitudes': None, 'comments': 1, 'reposts': 4}
+{'id': '4300082045913495', 'text': '巍巍岳麓，滔滔湘水。经世致用，务实求真。感谢@中南大学 的祝福！两个“中南”同框啦～愿两校携手并进，共筑荣光', 'attitudes': None, 'comments': 3, 'reposts': 6}
+{'id': '4300079487009439', 'text': '南湖浪涌，桂香灵动，百年求索路，桃红李白映苍 穹。仰望星空，立言立功，江山任指点，青春飞扬火样红。感谢@华中师范大学 的祝福鸭～', 'attitudes': None, 'comments': 4, 'reposts': 3}
+{'id': '4300075674672959', 'text': '海纳百川，取则行长。如海如洋，无限风光。感谢@中国海洋大学 的祝福！愿两校友谊长青，共做更好的大学！', 'attitudes': None, 'comments': 2, 'reposts': 7}
+{'id': '4300074592603669', 'text': '#乐活中南#\n中南财经政法大学校庆纪念宣传片首发！\n\n【七秩校庆倒计时1天】中南财经政法大学校庆纪念宣传片首发（文末有惊喜）', 'attitudes': None, 'comments': 2, 'reposts': 14}
+{'id': '4300073988679348', 'text': '勤恳朴诚，厚学致新。求真求善，与时俱进。感谢@广西大学 的祝福！愿两校友谊长存，共同进步！', 'attitudes': None, 'comments': 1, 'reposts': 4}
+{'id': '4300051415718345', 'text': '说点什么，开始直播之旅... 微博直播', 'attitudes': None, 'comments': 6, 'reposts': 2}
+{'id': '4300047653317244', 'text': '挹江流浩浩荡荡，挟沃野郁郁苍苍。 勤读力耕肩重任，立己达人图自强。 收到@华中农业大学 的祝福了 余生还请多多指教呀', 'attitudes': None, 'comments': 20, 'reposts': 16}
+{'id': '4300046914320877', 'text': '中南财经政法大学70周年校庆\n纪念大会现场有几个70呢~\n\nvia中韩新媒体学院李清逸', 'attitudes': None, 'comments': 1, 'reposts': 2}
+{'id': '4300044427036565', 'text': '造就英才，科教兴国。团结进取，求实创新。 感谢@大连理工大学 的祝福！ 愿两校一起在拼搏中发展，与新时代同行。', 'attitudes': None, 'comments': 0, 'reposts': 3}
+{'id': '4300042715889959', 'text': '探秘首义游园会 微博直播', 'attitudes': None, 'comments': 3, 'reposts': 2}
+{'id': '4300042519381509', 'text': '黄埔浣花风雨长，光华柳林谱华章。经邦济世，强国富民。朝夕孜孜，上下求索。 @西南财经大学 的祝福我收到啦~ 感谢！', 'attitudes': None, 'comments': 0, 'reposts': 0}
+{'id': '4300039860242335', 'text': '带你一起探秘首义校庆游园会 微博直播', 'attitudes': None, 'comments': 5, 'reposts': 2}
+{'id': '4300038236022442', 'text': '“自强、弘毅、求是、拓新”是你的风骨。 感谢来自@武汉大学 的祝福 愿两校友谊长存，开拓并进~', 'attitudes': None, 'comments': 3, 'reposts': 18}
+{'id': '4300035648698449', 'text': '中南财经政法大学70周年校庆\n庆祝建校70周年纪念大会现场奏唱国歌🇨🇳\n\n指挥：郑小瑛 ，中华人民共和国第一位交响乐女指挥家，曾在中原大学（现中南财经政法大学）文工团工作 中南财经政法大学的微博视频', 'attitudes': None, 'comments': 3, 'reposts': 22}
+{'id': '4300030762536091', 'text': '中南财经政法大学 校社联举办的游园会马上就要开始了，地点在首义校区官博稍后会给大家带来直播，敬请期待！', 'attitudes': None, 'comments': 5, 'reposts': 5}
+{'id': '4300028094359790', 'text': '天行健，君子以自强不息；地势坤，君子以厚德载物。上下求索百年，孕育桃李万千。非常感谢@清华大学 的祝福！！愿两校友谊长存！携手共进！', 'attitudes': None, 'comments': 11, 'reposts': 58}
+{'id': '4300006724525067', 'text': '文澜心语\n在什么事物消失之前，我们先要让它存在啊。\n——王小波\n早安，中南大~', 'attitudes': None, 'comments': 15, 'reposts': 7}
+{'id': '4299878799087254', 'text': '文澜心语 且听风吟，静待花开。\n——村上春树《且听风吟》\n晚安，中南大❤️', 'attitudes': None, 'comments': 7, 'reposts': 4}
+{'id': '4299867611842903', 'text': '#深夜语人生# 明天就是我70岁生日了，你想对我说___\n祝福当然是越多越好我准备好了', 'attitudes': None, 'comments': 157, 'reposts': 42}
+{'id': '4299833734811205', 'text': '中南财经政法大学70周年校庆来自保安叔叔、志愿者、记者和同学校友们的生日祝福，我都收到啦[给你小心心]', 'attitudes': None, 'comments': 11, 'reposts': 11}
+{'id': '4299832036932202', 'text': '你有“诚朴雄伟，励学敦行”的追求，我有“博文明理，厚德济世”的志向，感谢来自@南京大学 的祝福[给你小心心]！愿与南大携手同行，做最好的大学', 'attitudes': None, 'comments': 3, 'reposts': 8}
+{'id': '4299783868261036', 'text': '严于治学，潜心育人，建功四海，专攻术业，弘毅明德，笃学创新。感谢来自@长安大学 的祝福！愿两校携手前行，不忘初心，共创美好的未来！[给你小心心]', 'attitudes': None, 'comments': 3, 'reposts': 4}
+{'id': '4299758300195026', 'text': '中南财经政法大学70周年校庆\n圆满', 'attitudes': None, 'comments': 7, 'reposts': 20}
+{'id': '4299756236415452', 'text': '厚德博学，立德树人 崇实去浮，知行合一 感谢@武汉科技大学 的祝福，未来可期，愿两校友谊常青，共求卓越！', 'attitudes': None, 'comments': 1, 'reposts': 1}
+{'id': '4299755352037911', 'text': '“博学之，审问之，慎思之，明辨之，笃行之。”历经风雨，培英育俊，赢得桃李满园。感谢@中山大学 的祝福！愿两校友谊长存，携手前行！', 'attitudes': None, 'comments': 1, 'reposts': 4}
+{'id': '4299751698430854', 'text': '饮水思源，爱国荣校。秉持信念，砥砺前行。上下求索，广纳贤才。感谢@上海交通大学 的生日祝福，愿携手共同进步，祝两校友谊长存！', 'attitudes': None, 'comments': 2, 'reposts': 7}
+{'id': '4299737345047379', 'text': '精勤求学，敦笃励志。 果毅力行，忠恕任事。 璨兮如金在熔，璀兮如玉相攻。 @中南财经政法大学 感谢@西南交通大学 的诚挚祝福！愿两校友谊常青，携手并进，做更好的大学！', 'attitudes': None, 'comments': 4, 'reposts': 5}
+{'id': '4299722959161458', 'text': '中南财经政法大学70周年校庆\n黄鹤之下，南湖之滨。\n七十载岁月悠悠。\n桥楼里的别样风景，你看见了吗？', 'attitudes': None, 'comments': 13, 'reposts': 9}
+{'id': '4299711647360414', 'text': '#光影中南# 平流雾下的中南大[给你小心心]，这也是自然给70岁中南大的馈赠\n你能认出来几个地标性建筑？\n图源：@不想取这破名儿', 'attitudes': None, 'comments': 7, 'reposts': 15}
+{'id': '4299700590811437', 'text': '自强不息，独树一帜。坚韧挺拔，气度非凡。已经收到来自小兰的祝福啦[给你小心心]，愿两校携手同行，共同成长', 'attitudes': None, 'comments': 3, 'reposts': 6}
+{'id': '4299698027815855', 'text': '学无止境，气有浩然。胸怀五洲，广纳人才。感谢来自@山东大学 的祝福～愿两校友谊长存，携手共进！', 'attitudes': None, 'comments': 1, 'reposts': 8}
+{'id': '4299692299435746', 'text': '厚德、笃学是你的坚守，崇实、尚新是你的旗帜，感谢来自合肥工业大学的祝福！愿两校友谊长青，共同进步！❤️', 'attitudes': None, 'comments': 0, 'reposts': 3}
+{'id': '4299689325368964', 'text': '#湖南师范大学八十周年校庆#\n筚路蓝缕，从蓝田迁至南岳，教育事业薪火相传；\n继往开来，从湖南走向世界，一流名校踏步向前。\n八十年栉风沐雨，八十年沧海桑田；\n初心不改，仁爱精勤；目标未变，桃李满园。\n@中南财经政法大学 遥祝@湖南师范大学 80周年生日快乐！望两校友谊长青、共育英才！\n我们 ...全文', 'attitudes': None, 'comments': 6, 'reposts': 3}
+{'id': '4299686561197211', 'text': '中南财经政法大学70周年校庆潘梓年铜像落成揭幕仪式于27日上午10:30在文波楼前举行，潘梓年先生的后人潘渝伯和潘新伯出席了本次仪式并发言，党委书记栾永玉、校长杨灿明也出席了揭幕仪式并讲话。', 'attitudes': None, 'comments': 12, 'reposts': 7}
+{'id': '4299132908553616', 'text': '文澜心语\n白天有光，夜晚有星，水中有鱼，天空有飞鸟，而在这善变且繁华的世界，难得有你。\n晚安，中南大', 'attitudes': None, 'comments': 4, 'reposts': 4}
+{'id': '4299118387687530', 'text': '#文澜译站#\nI have but one lamp wait which my feet are guided, and that is the lamp of experience. I know of no way of judging of the future but by the past.\n\n期待你的解读', 'attitudes': None, 'comments': 3, 'reposts': 3}
+{'id': '4299111333077519', 'text': '中南财经政法大学70周年校庆💕\n#中南大七秩校庆倒计时#\n或许你听过中南大的校歌吗？\n快和菌菌一起唱吧\n【七秩校庆倒计时3天】中南财经政法大学校歌首发', 'attitudes': None, 'comments': 12, 'reposts': 11}
+{'id': '4299079943475031', 'text': '中南财经政法大学70周年校庆#中南大七秩校庆倒计时#\n时光荏苒，岁月如歌，中南财经政法大学已走过七十岁月。国以史为鉴，校以史明志。和菌菌一起走近校史吧。[给你小心心]【七秩校庆倒计时4天】《中南财经政法大学校史（2000-2018）》首发', 'attitudes': None, 'comments': 1, 'reposts': 3}
+{'id': '4299014872967806', 'text': '#文澜微课堂#\n确认过眼神，是快要考四六级的人\n35个超实用的写作句型送给你们[小仙女]\nvia.微课堂', 'attitudes': None, 'comments': 0, 'reposts': 19}
+{'id': '4298959965124202', 'text': '中南财经政法大学70周年校庆\n学子游天下，情系中南大。七十年春华秋实，风雨兼程，育无数栋梁之才。七十年开拓进取，沧桑砥砺，树众多领域丰碑。值此中南大七十周年华诞之际，在评论区留下你对中南大的祝福，并转发本条微博。10月26日我们将从转发中抽取一名校庆锦鲤，送出校庆锦鲤大礼包。此 ...全文', 'attitudes': None, 'comments': 1168, 'reposts': 1052}
+{'id': '4298951974263100', 'text': '#文澜贴士# 【你的头发还好吗？或许还能抢救一下？速转实用防脱发指南】via.人民日报', 'attitudes': None, 'comments': 4, 'reposts': 6}
+{'id': '4298907741186327', 'text': '文澜心语\n世界上最快乐的事/\n莫过于为理想而奋斗/\n——苏格拉底\n早安，中南大[小仙女]', 'attitudes': None, 'comments': 7, 'reposts': 3}
+{'id': '4298793001781357', 'text': '中南财经政法大学文澜心语\n做你想做的人\n这件事 没有时间的限制\n只要愿意\n什么时候都可以开始\n——《本杰明写给女儿的信》\n\n晚安，中南大🌃', 'attitudes': None, 'comments': 6, 'reposts': 8}
+{'id': '4298757975703832', 'text': '中南财经政法大学70周年校庆#深夜语人生#\n【校庆找不同】看到最近中南大的那些小小改变了吗？Zuelers快到评论区留下你的足迹吧！', 'attitudes': None, 'comments': 28, 'reposts': 5}
+{'id': '4299281433666305', 'text': '中南财经政法大学文澜心语\n凡是过去，皆为序章。\n——莎士比亚\n\n早安，中南大', 'attitudes': None, 'comments': 4, 'reposts': 3}
+{'id': '4299143772597060', 'text': '#深夜语人生# 你现在最想拥有的东西是什么？', 'attitudes': None, 'comments': 61, 'reposts': 1}
+{'id': '4299132908553616', 'text': '文澜心语\n白天有光，夜晚有星，水中有鱼，天空有飞鸟，而在这善变且繁华的世界，难得有你。\n晚安，中南大', 'attitudes': None, 'comments': 4, 'reposts': 4}
+{'id': '4299118387687530', 'text': '#文澜译站#\nI have but one lamp wait which my feet are guided, and that is the lamp of experience. I know of no way of judging of the future but by the past.\n\n期待你的解读', 'attitudes': None, 'comments': 3, 'reposts': 3}
+{'id': '4299111333077519', 'text': '中南财经政法大学70周年校庆💕\n#中南大七秩校庆倒计时#\n或许你听过中南大的校歌吗？\n快和菌菌一起唱吧\n【七秩校庆倒计时3天】中南财经政法大学校歌首发', 'attitudes': None, 'comments': 12, 'reposts': 11}
+{'id': '4299079943475031', 'text': '中南财经政法大学70周年校庆#中南大七秩校庆倒计时#\n时光荏苒，岁月如歌，中南财经政法大学已走过七十岁月。国以史为鉴，校以史明志。和菌菌一起走近校史吧。[给你小心心]【七秩校庆倒计时4天】《中南财经政法大学校史（2000-2018）》首发', 'attitudes': None, 'comments': 1, 'reposts': 3}
+{'id': '4299014872967806', 'text': '#文澜微课堂#\n确认过眼神，是快要考四六级的人\n35个超实用的写作句型送给你们[小仙女]\nvia.微课堂', 'attitudes': None, 'comments': 0, 'reposts': 19}
+{'id': '4298959965124202', 'text': '中南财经政法大学70周年校庆\n学子游天下，情系中南大。七十年春华秋实，风雨兼程，育无数栋梁之才。七十年开拓进取，沧桑砥砺，树众多领域丰碑。值此中南大七十周年华诞之际，在评论区留下你对中南大的祝福，并转发本条微博。10月26日我们将从转发中抽取一名校庆锦鲤，送出校庆锦鲤大礼包。此 ...全文', 'attitudes': None, 'comments': 1168, 'reposts': 1052}
+{'id': '4298951974263100', 'text': '#文澜贴士# 【你的头发还好吗？或许还能抢救一下？速转实用防脱发指南】via.人民日报', 'attitudes': None, 'comments': 4, 'reposts': 6}
+{'id': '4298907741186327', 'text': '文澜心语\n世界上最快乐的事/\n莫过于为理想而奋斗/\n——苏格拉底\n早安，中南大[小仙女]', 'attitudes': None, 'comments': 7, 'reposts': 3}
+{'id': '4298793001781357', 'text': '中南财经政法大学文澜心语\n做你想做的人\n这件事 没有时间的限制\n只要愿意\n什么时候都可以开始\n——《本杰明写给女儿的信》\n\n晚安，中南大🌃', 'attitudes': None, 'comments': 6, 'reposts': 8}
+{'id': '4298757975703832', 'text': '中南财经政法大学70周年校庆#深夜语人生#\n【校庆找不同】看到最近中南大的那些小小改变了吗？Zuelers快到评论区留下你的足迹吧！', 'attitudes': None, 'comments': 28, 'reposts': 5}
+{'id': '4298746650746601', 'text': "中南财经政法大学#文澜译站#\nYou got a dream, you gotta protect it. People can't do something themselves,they wanna tell you you can't do it.If you want something, go get it.\n\n如果你有梦想的话，就要去捍卫它。那些一事无成的人总想告诉你你也成不了大器。如果你有梦想的话，就 ...全文", 'attitudes': None, 'comments': 5, 'reposts': 8}
+{'id': '4298707211618041', 'text': '中南财经政法大学70周年校庆\n【七秩校庆倒计时】\n今逢七秩校庆，为追溯来时路，续写华章，我校推出建校70周年纪念画册快和菌菌一起欣赏\n\n推文链接【七秩校庆倒计时5天】中南财经政法大学校庆纪念画册首发', 'attitudes': None, 'comments': 1, 'reposts': 2}
+{'id': '4298674643575887', 'text': '中南财经政法大学#文澜贴士#\n【求职简历邮件 你应该注意这些】①邮件主题注明“应聘岗位+姓名”；②邮件正文写上自己对应聘岗位的认知；③按要求附上Word或PDF格式的简历，简历应突出与求职岗位相关的素质；④简历命名为“应聘岗位+姓名”，便于HR保存、查找。戳图了解找工作必备中英文 ...全文', 'attitudes': None, 'comments': 0, 'reposts': 10}
+{'id': '4298649557386665', 'text': '中南财经政法大学#文澜微课堂#\n【人文、法律、地理：行测常识模拟100题】\n备考就要上要知天文，下要知地理，常识判断怎能心里没底？100道行测常识判断题精选↓↓涵盖人文＋法律＋地理相关知识点，一题一分，你能得多少分？转给身边考公、考教师的Zuelers，多积累，同进步！via.微课堂', 'attitudes': None, 'comments': 2, 'reposts': 17}
+{'id': '4298578102969920', 'text': '中南财经政法大学#新时代@ 教育#\n15年磨一剑，港珠澳大桥正式开通，55公里桥岛隧连接三地，让伶仃洋不再叹息。从广深港高铁到港珠澳大桥，粤港澳大湾区不断织密纽带，将散落的珍珠串成华丽的珍珠项链，让“半小时经济圈”贴得更近。桥通了，人心会更畅通。“超级工程”中国桥，彰显中国人的精 ...全文', 'attitudes': None, 'comments': 0, 'reposts': 3}
+{'id': '4298541008183167', 'text': '中南财经政法大学文澜心语\n人的一生很像是在雾中行走，远远望去，只是迷蒙一片，辨不出方向和吉凶。可是，当你鼓起勇气，放下忧惧和怀疑，一步一步向前走去的时候，你就会发现，每走一步，你都能把下一步路看得清楚一点。往前走，别站在远远的地方观望！你就可以找到你的方向。—— 罗 ...全文', 'attitudes': None, 'comments': 5, 'reposts': 3}
+{'id': '4298433554358068', 'text': '中南财经政法大学#深夜语人生#\n在评论区留下你最喜欢/最常用的表情包吧', 'attitudes': None, 'comments': 45, 'reposts': 0}
+{'id': '4298420242011220', 'text': '中南财经政法大学文澜心语\n见到你，我觉得多少适应了这个世界。\n\n/村上春树\n\n晚安，中南大⭐️', 'attitudes': None, 'comments': 10, 'reposts': 3}
+{'id': '4298402998905756', 'text': '中南财经政法大学#光影中南#\n“每朵云都下落不明。\n每轮月亮都不知所终。”\n—八月长安\n\n今天中南大的月亮很美呀 图片by陈佩瑶', 'attitudes': None, 'comments': 0, 'reposts': 2}
+{'id': '4298371902857561', 'text': '中南财经政法大学#乐活中南#\n图书馆前的喷泉\nZuelers都注意到了吗\n\n欢迎大家带图补充哦[给你小心心] 中南财经政法大学的秒拍视频', 'attitudes': None, 'comments': 15, 'reposts': 2}
+{'id': '4298336360700016', 'text': '中南财经政法大学70周年校庆\n【七秩校庆倒计时】\n邀请函送给你，中南大等你回家\n\n推文链接【七秩校庆倒计时6天】邀请函送给你 中南大等你回家\n\n点击下方二维码并长按进行识别\n打开中南财经政法大学七秩校庆邀请函（H5）', 'attitudes': None, 'comments': 0, 'reposts': 2}
+{'id': '4298260136510742', 'text': '中南财经政法大学#文澜译站#\nI will not change, no matter how U change.\n\n任君千变万化 我自岿然如山[给你小心心]\n\n电流不随电压的改变而改变\n\n期待你的翻译哦', 'attitudes': None, 'comments': 18, 'reposts': 7}
+{'id': '4298223445793908', 'text': '中南财经政法大学#文澜贴士#\n【霜降】霜寒露重 万望珍重 via人民日报', 'attitudes': None, 'comments': 1, 'reposts': 3}
+{'id': '4298188368045506', 'text': '中南财经政法大学文澜心语\n“你知道人类最大的武器是什么吗?”\n“是豁出去的决心。”\n——伊坂幸太郎\n早安，中南大', 'attitudes': None, 'comments': 14, 'reposts': 9}
+{'id': '4298062245614969', 'text': '文澜心语一个人有两个我，一个在黑暗里醒着，一个在光明中睡着 。——纪伯伦\n晚安，中南大', 'attitudes': None, 'comments': 3, 'reposts': 2}
+{'id': '4298062047823026', 'text': '#深夜语人生# 武汉的天冷的猝不及防，你为冬天准备了什么呢？菌菌几天买了两双雪地靴', 'attitudes': None, 'comments': 8, 'reposts': 0}
+{'id': '4298037423744681', 'text': '#文澜译站# Grit is passion and perseverance for very long-term goals. Grit is having a stamina.', 'attitudes': None, 'comments': 1, 'reposts': 0}
+{'id': '4298031488570709', 'text': '#文澜贴士# 【6个动作，缓解背部酸痛】只需要一把椅子，跟着做这6个动作，缓解久坐一族的背部酸痛。加强锻炼好过任何按摩。实用干货的秒拍视频', 'attitudes': None, 'comments': 0, 'reposts': 10}
+{'id': '4297858398195138', 'text': '#文澜微课堂# 【 TED演讲：怎样走出负面情绪】生活中有成功和喜悦，也有失败和挫折，但是人们会更很容易陷入负面情绪。思维方式的不同影响着我们看事情的角度和心情。来看看有效走出负面情绪的方法吧via微课堂雅思口语的秒拍视频', 'attitudes': None, 'comments': 1, 'reposts': 25}
+{'id': '4297832255311584', 'text': '文澜心语生活，就是一种永恒沉重的努力，努力使自己在自我之中，努力不至迷失方向，努力在原位中坚定存在。\n——米兰·昆德拉《被背叛的遗嘱》\n早安，中南大', 'attitudes': None, 'comments': 3, 'reposts': 4}
+{'id': '4297692371411005', 'text': '文澜心语\n我愿意深深地扎入生活，吮尽生活的骨髓，过得扎实，简单，把一切不属于生活的内容剔除得干净利落，把生活逼到绝处，用最基本的形式，简单，简单，再简单。——梭罗 《瓦尔登湖》\n晚安，中南大', 'attitudes': None, 'comments': 5, 'reposts': 4}
+{'id': '4297654270063931', 'text': '#深夜语人生#\n给你一个机会选三个', 'attitudes': None, 'comments': 55, 'reposts': 5}
+{'id': '4297638074973344', 'text': "#文澜译站#\nI don't like work—— no man does—— but i like what is in the work—— the chance to find yourself.\n\n期待你的答案~", 'attitudes': None, 'comments': 4, 'reposts': 0}
+{'id': '4297585718161462', 'text': '#文澜贴士# 【50种怀旧的童年零食，你吃过几种】还记得小学时校门口的小卖部吗？那小小的货架，总是让你流连忘返；几毛钱一袋的零食，却承包了你一整天的快乐！跳跳糖、无花果、钻石糖…糖果的滋味或许已经淡忘，但快乐的记忆却愈发浓郁。戳图↓↓这些零食你吃过几样？转发！ via.人民日 ...全文', 'attitudes': None, 'comments': 4, 'reposts': 1}
+{'id': '4297570681351737', 'text': '#中南大七秩校庆倒计时#\n校庆赋首发\n弦歌中南，芳华天涯\n网页链接', 'attitudes': None, 'comments': 3, 'reposts': 1}
+{'id': '4297514158631284', 'text': '恭喜@平生欢hhhhhhhan 和suki成为快乐食间双锦鲤请两位锦鲤宝宝尽快联系菌菌领取奖品喔', 'attitudes': None, 'comments': 6, 'reposts': 3}
+{'id': '4297509658758635', 'text': '恭喜@平生欢hhhhhhhan 1名用户获得【快乐食间锦鲤】。微博官方唯一抽奖工具@微博抽奖平台 对本次抽奖进行监督，结果公正有效。公示链接：微博抽奖平台', 'attitudes': None, 'comments': 5, 'reposts': 0}
+{'id': '4297509537232893', 'text': '#文澜微课堂# 英语一般般的人参加口语考试，怎样让考官知道你说的是啥？怎样在真实水平的基础上把分数尽量拔高？\n除了多运用经典句型，用好连接词和过渡词也是个很重要的技巧哦~\n四六级口语考试实用句型拿走不谢！via.微课堂', 'attitudes': None, 'comments': 0, 'reposts': 17}
+{'id': '4296976235568595', 'text': '#深夜语人生# 最近大家都在转发锦鲤呀，如果是你，你觉得你最有可能成为什么锦鲤？', 'attitudes': None, 'comments': 15, 'reposts': 0}
+{'id': '4296903707224843', 'text': '#文澜贴士# 一百个容易望文生义的词语 via.实用干货', 'attitudes': None, 'comments': 1, 'reposts': 18}
+{'id': '4296859659464659', 'text': '#文澜译站#\nTime is not cruelty. Just for it we are too fragile.\n时光并不残忍。只是对于它来说我们太脆弱。', 'attitudes': None, 'comments': 1, 'reposts': 1}
+{'id': '4296808475876822', 'text': '#文澜微课堂# 【除了add oil(加油)，牛津词典收录的“中式英文”还有……】最近，Add oil（加油）被收入《牛津英语词典》。其实，这本词典还收录了一些你很熟悉的词：lose face（丢脸）、no can do（做不到）……你还期待哪些单词收入词典？ via.中国日报', 'attitudes': None, 'comments': 4, 'reposts': 4}
+{'id': '4296744890678282', 'text': '中南财经政法大学文澜心语\n要得到你想要的某件东西，最可靠的办法是让你自己配得上它。\n——查理·芒格\n早安，中南大', 'attitudes': None, 'comments': 7, 'reposts': 6}
+{'id': '4296609925732782', 'text': '“温润岁月，执着善良。”\n\n——《夏目友人帐》\n\n晚安，中南大', 'attitudes': None, 'comments': 9, 'reposts': 12}
+{'id': '4296593689625954', 'text': '#深夜语人生# 你会如何选择呢', 'attitudes': None, 'comments': 63, 'reposts': 7}
+{'id': '4296564522175383', 'text': '#文澜贴士# 【时间别荒废！45本好书读起来[加油]】把阅读纳入每日计划，趁着时间充裕，给自己充充电吧！《人类简史》、《渴望生活》、《思考，快与慢》…9大种类，45本好书↓↓总有一本让你受益匪浅。转发收藏！好好读书，充实自己。via.实用干货', 'attitudes': None, 'comments': 1, 'reposts': 32}
+{'id': '4296543860945002', 'text': '#乐活中南# 无限循环动画大神Andreas Wannerstedt的作品， 从配色到内容，感觉都引起观众的强烈舒适！via.全球创意', 'attitudes': None, 'comments': 6, 'reposts': 5}
+{'id': '4296509921530342', 'text': '#文澜译站# A bird is safe in its nest,but that is not what its wings are made for.\n\n期待你的解读[小仙女]', 'attitudes': None, 'comments': 5, 'reposts': 4}
+{'id': '4296986071589280', 'text': '中南财经政法大学文澜心语\n“星光不问赶路人，时光不负有心人。”\n\n晚安，中南大', 'attitudes': None, 'comments': 3, 'reposts': 1}
+{'id': '4296980081043672', 'text': '#茶山刘radio# 今天是 @是是是婷宝呀 小可爱的点歌\n点一首华晨宇《山海》，所爱隔山海，山海不可平，小华好好休息呀\n山海 (Live)', 'attitudes': None, 'comments': 12, 'reposts': 2}
+{'id': '4296976235568595', 'text': '#深夜语人生# 最近大家都在转发锦鲤呀，如果是你，你觉得你最有可能成为什么锦鲤？', 'attitudes': None, 'comments': 15, 'reposts': 0}
+{'id': '4296903707224843', 'text': '#文澜贴士# 一百个容易望文生义的词语 via.实用干货', 'attitudes': None, 'comments': 1, 'reposts': 18}
+{'id': '4296859659464659', 'text': '#文澜译站#\nTime is not cruelty. Just for it we are too fragile.\n时光并不残忍。只是对于它来说我们太脆弱。', 'attitudes': None, 'comments': 1, 'reposts': 1}
+{'id': '4296808475876822', 'text': '#文澜微课堂# 【除了add oil(加油)，牛津词典收录的“中式英文”还有……】最近，Add oil（加油）被收入《牛津英语词典》。其实，这本词典还收录了一些你很熟悉的词：lose face（丢脸）、no can do（做不到）……你还期待哪些单词收入词典？ via.中国日报', 'attitudes': None, 'comments': 4, 'reposts': 4}
+{'id': '4296744890678282', 'text': '中南财经政法大学文澜心语\n要得到你想要的某件东西，最可靠的办法是让你自己配得上它。\n——查理·芒格\n早安，中南大', 'attitudes': None, 'comments': 7, 'reposts': 6}
+{'id': '4296609925732782', 'text': '“温润岁月，执着善良。”\n\n——《夏目友人帐》\n\n晚安，中南大', 'attitudes': None, 'comments': 9, 'reposts': 12}
+{'id': '4296593689625954', 'text': '#深夜语人生# 你会如何选择呢', 'attitudes': None, 'comments': 63, 'reposts': 7}
+{'id': '4296564522175383', 'text': '#文澜贴士# 【时间别荒废！45本好书读起来[加油]】把阅读纳入每日计划，趁着时间充裕，给自己充充电吧！《人类简史》、《渴望生活》、《思考，快与慢》…9大种类，45本好书↓↓总有一本让你受益匪浅。转发收藏！好好读书，充实自己。via.实用干货', 'attitudes': None, 'comments': 1, 'reposts': 32}
+{'id': '4296543860945002', 'text': '#乐活中南# 无限循环动画大神Andreas Wannerstedt的作品， 从配色到内容，感觉都引起观众的强烈舒适！via.全球创意', 'attitudes': None, 'comments': 6, 'reposts': 5}
+{'id': '4296509921530342', 'text': '#文澜译站# A bird is safe in its nest,but that is not what its wings are made for.\n\n期待你的解读[小仙女]', 'attitudes': None, 'comments': 5, 'reposts': 4}
+{'id': '4296480422420979', 'text': '想送你晓南湖的微风，吹散所有秋日的忧愁 查看图片', 'attitudes': None, 'comments': 2, 'reposts': 3}
+{'id': '4296473594464986', 'text': '#文澜微课堂# 不近视的人都是天选之子， 古人如果用眼过度近视了怎么办？via.动历史 动历史的秒拍视频', 'attitudes': None, 'comments': 0, 'reposts': 2}
+{'id': '4296404320722383', 'text': '【官宣】\n10月18日中南大网红食堂——快乐食间正式开业啦！想免费吃遍网红食堂吗？话不多说，戳图👇10月21日我们将在微博和微信平台各抽取一名快乐食间锦鲤！ 网红食堂，等你pick[小仙女]\n微信推文指路👉 这一次，中南大校园也有了网红食堂！', 'attitudes': None, 'comments': 231, 'reposts': 166}
+{'id': '4296375930351664', 'text': '文澜心语未来很长，爱你的人，正在路上，他没来的时间，愿你能做自己的太阳，与山川湖海为伴，自信勇敢，保持善良。\n早安，中南大[小仙女]', 'attitudes': None, 'comments': 10, 'reposts': 4}
+{'id': '4296252247750577', 'text': '中南财经政法大学70周年校庆文澜心语\n走好选择的路，别选择好走的路，你才能拥有真正的自己。\n—— 杨绛\n\n晚安 ，中南大🐿', 'attitudes': None, 'comments': 9, 'reposts': 9}
+{'id': '4296221382750432', 'text': '中南财经政法大学#深夜语人生#\n如果可以拥有一个多啦a梦的道具，你最想要什么呢？菌菌觉得任意门不错', 'attitudes': None, 'comments': 25, 'reposts': 5}
+{'id': '4296203900208577', 'text': '中南财经政法大学#乐活中南#\n错误的洗头方法让秀发“枯萎”，快来看看洗头公式 via.生命时报', 'attitudes': None, 'comments': 7, 'reposts': 12}
+{'id': '4296164876691092', 'text': "中南财经政法大学70周年校庆#文澜译站#\nIf you are lucky enough to be different, don't ever change.\n--Taylor Swift.\n如果你很幸运地与众不同，不要改变它。\n\n期待你的翻译🙈", 'attitudes': None, 'comments': 13, 'reposts': 3}
+{'id': '4296114649251459', 'text': '中南财经政法大学#乐活中南#\n【武汉军运会形象宣传片：我们在一起】第七届世界军人运动会，简称“武汉军运会”，将于2019年10月18日起在湖北武汉举行，届时，将有来自100多个国家的近万名现役军人同台竞技。听说看过这部片子的人，发现了原来兵哥哥还有神秘的另一面↓↓ ...全文', 'attitudes': None, 'comments': 4, 'reposts': 3}
+{'id': '4296083007496488', 'text': '#北京林业大学66周年校庆#\n替山河妆成锦绣，\n把国土绘成丹青\n无山不绿，有水皆清\n四时花香，万壑鸟鸣\n知山知水，树木树人\n六十六年，北林人不忘初心扎根大地\n@中南财经政法大学 祝@北京林业大学\n建校66周年生日快乐\n愿两校友谊常青，携手共进，做更好的大学！', 'attitudes': None, 'comments': 1, 'reposts': 0}
+{'id': '4296041215770829', 'text': '中南财经政法大学#文澜贴士#\n爱别等，孝别迟。常回家看看，别总说什么来日方长。九九重阳节，记得告诉爸爸妈妈，爷爷奶奶，外公外婆，至亲家人，任岁月倏忽，我们陪他们一起变老 via.瞭望东方周刊', 'attitudes': None, 'comments': 1, 'reposts': 6}
+{'id': '4296033171163403', 'text': '#南开大学生日快乐# 巍巍南开精神 泱泱学府北辰 九九南开，作育英才 @中南财经政法大学 遥祝@南开大学 99周岁生日快乐 愿两校友谊长存，携手做更好的大学！ 查看图片', 'attitudes': None, 'comments': 4, 'reposts': 10}
+{'id': '4295996429110245', 'text': '中南财经政法大学文澜心语\n如果有天堂，那里应该是图书馆的模样。\n——博尔赫斯\n\n早安，中南大🍁', 'attitudes': None, 'comments': 20, 'reposts': 9}
+{'id': '4295891811029102', 'text': '中南财经政法大学#深夜语人生#\n大家最近有吃到什么好吃的嘛\n图片来源：发现instagram', 'attitudes': None, 'comments': 10, 'reposts': 9}
+{'id': '4295879559144778', 'text': '中南财经政法大学文澜心语\n\n白天要好好读书，\n书里有你不知道的。\n\n夜晚要好好睡觉，\n梦里有你想要的。\n晚安，中南大', 'attitudes': None, 'comments': 8, 'reposts': 7}
+{'id': '4295847195230459', 'text': '中南财经政法大学#文澜译站#\n“Find yourself,\nand find something bigger than yourself.”\n找到自我，\n然后再去寻找比“自我”更伟大的的东西。\n\n一一《比利·林恩的中场战事》', 'attitudes': None, 'comments': 1, 'reposts': 2}
+{'id': '4295807736011090', 'text': '中南财经政法大学#文澜微课堂#\n十月的风留在十月底，见面的人留在见面里。\n\n读十月的诗，@ 想见的人\n\nvia 知书少年果麦麦', 'attitudes': None, 'comments': 1, 'reposts': 11}
+{'id': '4295723133147553', 'text': '看吧看吧', 'attitudes': None, 'comments': 53, 'reposts': 32}
+{'id': '4295709911531246', 'text': '#乐活中南#\n官宣@华中农业大学', 'attitudes': None, 'comments': 165, 'reposts': 118}
+{'id': '4295689167164997', 'text': '#文澜推荐#\n要住电影院，一大波电影中国内地定档！！\n\n「胡桃夹子与四个王国」11月2日\n「毒液：致命守护者」11月9日\n「名侦探柯南：零之执行者」11月9日\n「神奇动物：格林德沃之罪」11月16日\n「无敌破坏王2：大闹互联网」11月23日\n「摘金奇缘」11月30日\n「海王」12月7日，领先北美\n\nvia 热门 ...全文', 'attitudes': None, 'comments': 18, 'reposts': 13}
+{'id': '4295649358988279', 'text': '中南财经政法大学文澜心语\n和你在一起的日子才叫时光，\n否则只是时钟无意义的游摆。\n——李健\n早安，中南大', 'attitudes': None, 'comments': 8, 'reposts': 3}
+{'id': '4295525605785729', 'text': '文澜心语回忆这东西若是有气味的话，那就是樟脑的香，甜而稳妥，像记得分明的快乐，甜而怅惘，像忘却了的忧愁。——张爱玲\n晚安，中南大', 'attitudes': None, 'comments': 4, 'reposts': 5}
+{'id': '4295525047865917', 'text': '#深夜语人生# 今天的你，有什么开心的事吗', 'attitudes': None, 'comments': 19, 'reposts': 1}
+{'id': '4295476587339943', 'text': '#乐活中南# 今天的直播你们看了吗，小编吃完饭之后就去介绍的打卡点打卡了哦？希望我们的摆拍能给大家参考\n出镜:主播张雁玮 袁泽衡\n摄影:沈祝芳', 'attitudes': None, 'comments': 13, 'reposts': 3}
+{'id': '4295454617419954', 'text': '探秘网红五食堂~ 中南财经政法大学的微博直播 .', 'attitudes': None, 'comments': 50, 'reposts': 24}
+{'id': '4295419821687894', 'text': '#乐活中南# 五食堂开张啦！为了给大家最及时的体验预告，今天小编将于下午六点半在五食堂进行一场直播哦，大家记得收看', 'attitudes': None, 'comments': 12, 'reposts': 1}
+{'id': '4295370487972843', 'text': '中南财经政法大学70周年校庆country roads，take me home.\n航拍下的中南大，光影交错，你见过吗？\n视频来源:动漫1702史同钦 中南财经政法大学的秒拍视频', 'attitudes': None, 'comments': 8, 'reposts': 21}
+{'id': '4295358555316358', 'text': '#乐活中南# 五食堂开张啦！[小仙女]今天去五食堂吃到什么美食了呢？\nPS:可以使用支付宝微信哦', 'attitudes': None, 'comments': 18, 'reposts': 5}
+{'id': '4295336908148043', 'text': '中南财经政法大学在此祝@西安电子科技大学 87周年快乐！', 'attitudes': None, 'comments': 6, 'reposts': 0}
+{'id': '4295317945402464', 'text': '#西北大学116周年校庆#\n巍巍终南，泱泱河汉\n公诚勤朴，懿德远扬\n忆往昔，春秋代序\n风雨设帐历沧桑\n看今朝，人文渊薮\n滋兰树蕙满庭芳\n\n至朴而栉风沐雨，辉煌史永驻\n至勤而自强不息，谱写新蓝图\n一百一十六载矢志不渝，立足现在\n师生凝心聚力、携手共庆华诞\n中南财经政法大学祝 ...全文', 'attitudes': None, 'comments': 3, 'reposts': 4}
+{'id': '4295316738020900', 'text': '文澜心语努力把答应自己的事全都做到，那一定很酷 。\n早安，中南大', 'attitudes': None, 'comments': 4, 'reposts': 10}
+{'id': '4295160647173999', 'text': '文澜心语 对他人的私事不关心，不介入，允许他人的道德观、生活方式和自己不同，这将消除世上90%以上的烦恼。——连岳\n晚安，中南大～', 'attitudes': None, 'comments': 2, 'reposts': 8}
+{'id': '4295129160887208', 'text': '#深夜语人生#\n有没有什么你坚信的真理想分享给大家呢~\n\n菌菌：要让自己更强大！为了自己，为了所爱之人。', 'attitudes': None, 'comments': 9, 'reposts': 4}
+{'id': '4295084977273197', 'text': '#文澜译站#\nMan errs as long as he strives.-- Goethe\n\n失误是进取的代价。——歌德', 'attitudes': None, 'comments': 0, 'reposts': 2}
+{'id': '4295042807607707', 'text': '#文澜微课堂#\n史上最难认的22个汉字\nzuelers都会几个呀\n菌菌不认识\n菌菌好槑', 'attitudes': None, 'comments': 2, 'reposts': 10}
+{'id': '4295026009823204', 'text': '#乐活中南#\n首义图书馆的新朋友\n南湖：我不羡慕 我不！！！\n武汉的秋天\n好冷......', 'attitudes': None, 'comments': 33, 'reposts': 27}
+{'id': '4294976806654330', 'text': '#文澜贴士# 【关乎衣食住行！你知道吗？这些都有国家标准】打车时司机有哪些事情不能做？同城快递多长时间内必须送到？什么样的插座才安全？杏仁露蛋白质含量要达到多少？…这些问题，国家标准委和相关部门都帮你回答了！今天，世界标准日。戳图了解↓↓日常生活中，你一定要知道的国标！有用， ...全文', 'attitudes': None, 'comments': 0, 'reposts': 1}
+{'id': '4294961081706451', 'text': '#乐活中南#\n\n下雨天\n云烟成雨 (动画《我是江小白》片尾曲)', 'attitudes': None, 'comments': 6, 'reposts': 1}
+{'id': '4294935550886633', 'text': '文澜心语\n“以后要做到对他人减少依赖，降低期待，并爱自己。”\n早安，中南大～', 'attitudes': None, 'comments': 6, 'reposts': 8}
+{'id': '4294789521887137', 'text': '文澜心语 醒来明月，醉时清风。\n——元好问《黄钟·人月圆》\n晚安，中南大！', 'attitudes': None, 'comments': 4, 'reposts': 1}
+{'id': '4294780425412420', 'text': '中南财经政法大学 这些中南大的声音，你听过吗？这一次，想邀请你用耳朵和心倾听中南大的声音\n这些中南大的声音，你听过吗？', 'attitudes': None, 'comments': 2, 'reposts': 1}
+{'id': '4294703962214467', 'text': '#乐活中南# 金融学院06届的校友在母校七十周年之际回校重温青春岁月\n难忘同窗情，难忘母校情。', 'attitudes': None, 'comments': 3, 'reposts': 3}
+{'id': '4294699818982141', 'text': '#乐活中南# 今天是百团大战的第一天，首义校区可以说很热闹了，各家都拿出看家本领来招新。各位萌新们都pick了哪些社团组织呢？\n菌菌在文澜新闻网与新媒体中心等你哦首义会堂前，不见不散[给你小心心]\n图源：@风烟一页散@小艾小星星@RRRran-', 'attitudes': None, 'comments': 4, 'reposts': 1}
+{'id': '4294695372547624', 'text': '首义广场官微团队等你来pick喔❤ 微博视频', 'attitudes': None, 'comments': 2, 'reposts': 1}
+{'id': '4294640729657736', 'text': '中南财经政法大学 万里蛟龙出云雾，一马平川开楚天。第十五届中国模拟联合国大会今天已是第三天了', 'attitudes': None, 'comments': 3, 'reposts': 7}
+{'id': '4294618512301800', 'text': "#文澜译站# I know these will all be stories someday;\nAnd our pictures will become old photographs;\nAnd we'll all become somebody's mom or dad.\nBut right now , these moments are not srories.\nThis is happening. I am here.\n——《The Perks of Being a Wallflower》", 'attitudes': None, 'comments': 0, 'reposts': 2}
+{'id': '4294558423976729', 'text': '中南财经政法大学 今天百团大战，各位萌新们都准备好了吗？菌菌在这里强烈安利一下文澜新闻网与新媒体中心，详细请戳👇\n期待你的加入！首义会堂前等你', 'attitudes': None, 'comments': 7, 'reposts': 1}
+{'id': '4294555798598472', 'text': '文澜心语 我们穷，只此一身青春。——木心\n早安！中南大 ～', 'attitudes': None, 'comments': 7, 'reposts': 3}
+{'id': '4294442170841468', 'text': '中南财经政法大学文澜心语\n我的晚色从陌生的树木中走来，\n它用我的晓星所不懂得的语言说话。\n——泰戈尔《飞鸟集》\n晚安，中南大', 'attitudes': None, 'comments': 2, 'reposts': 1}
+{'id': '4294410134833595', 'text': '#深夜语人生# 你有没有什么特别想见的人？', 'attitudes': None, 'comments': 65, 'reposts': 3}
+{'id': '4294321115753438', 'text': '#文澜译站# Drink to me, only, with thine eyes,\nAnd I will pledge with mine.\n你仅用你的双眸与我对饮，我就用我的双眸与你相酬。\n——《西丽亚颂歌》', 'attitudes': None, 'comments': 0, 'reposts': 0}
+{'id': '4294260607993581', 'text': '#文澜微课堂# 一些手机摄影技巧了解一下？via.知书少年', 'attitudes': None, 'comments': 9, 'reposts': 139}
+{'id': '4294207633718836', 'text': '中南财经政法大学文澜心语\n“山河远阔，人间烟火。无一是你，无一不是你。”\n\n早安，中南大', 'attitudes': None, 'comments': 10, 'reposts': 7}
+{'id': '4293617927473996', 'text': '中南财经政法大学#新时代@ 教育#\n【五星红旗，你是我的骄傲】近日，国旗护卫队一名战士弯腰捡国旗的视频帅到无数网友！其实，生活中还有许多人在用自己简单的方式，表达着对国旗、对祖国朴素的爱意。或许那只是些微小的举动，却足以温暖你我。我们每个人，每一点努力都会成就一个更好的中 ...全文', 'attitudes': None, 'comments': 0, 'reposts': 1}
+{'id': '4293597099081828', 'text': '中南财经政法大学#文澜微课堂#\n【如果熬夜无法避免，做这几点降低伤害】①熬夜前先睡1-2小时；②饮食少油腻，避免造成肠胃负担；③及时补充水分；④注意室内通风；⑤不保持固定姿势，随时活动身体；⑥第二天适当午睡小憩；⑦食用小米粥、牛奶等助眠食物；⑧读懂身体发出的停止熬夜警报。别再 ...全文', 'attitudes': None, 'comments': 1, 'reposts': 13}
+{'id': '4293590098153522', 'text': '中南财经政法大学#文澜贴士#\n【2019考研网上报名已开始 看看这些注意事项！】①报名时间：10月10日至10月31日每天9:00-22:00；②考生信息在报名结束前都可以修改，网报时间结束后任何信息均不能修改！③一旦生成报名号则不可修改，如确实需要修改，须取消已有的报名再添加新的报考信息 ...全文', 'attitudes': None, 'comments': 4, 'reposts': 3}
+{'id': '4293584968852771', 'text': '中南财经政法大学\n太阳花招新啦\n我们是隶属于校党委宣传部的志愿组织～\n每周定期放映电影，体会不一样的电影操作～\n还有志愿工时和优秀志愿者～\n爱好志愿爱好电影的你，还不来？\n报名时间截止到 10月10日晚十点\n网报链接：太阳花 | 这skr正经的招新\n欢迎加入QQ群一起来交流哇^^：523069036', 'attitudes': None, 'comments': 1, 'reposts': 1}
+{'id': '4293567881399612', 'text': '中南财经政法大学#乐活中南#\n【给我59秒钟，让我告诉你，你的钱包发生了什么变化】国庆假期已经结束。这个假期您过得怎么样？钱包还是鼓鼓的？心情仍是美美的？给我59秒钟，让我告诉你，你的钱包发生了什么变化。via央视网 央视网的微博视频', 'attitudes': None, 'comments': 2, 'reposts': 0}
+{'id': '4293359331185984', 'text': '中南财经政法大学#深夜语人生#\n你和你好朋友的群名称是什么', 'attitudes': None, 'comments': 82, 'reposts': 6}
+{'id': '4293345725213441', 'text': '文澜心语\n话语里包含着真心，\n所以哪怕是一句话，\n也带有说话人的体温。\n——《请回答1988》\n晚安，中南大', 'attitudes': None, 'comments': 7, 'reposts': 2}
+{'id': '4293314503312449', 'text': '#重庆大学89周年校庆#\n崇德尚志 岁月变迁难改学子雄风；\n厚积薄发 沧桑风雨难掩薪火精神。\n“耐劳苦、尚俭朴、勤学业、爱国家”是学子心中不变的谆谆训诫；\n立足西南，远望将来；\n巍巍学府，德才尽传。\n@中南财经政法大学 祝@重庆大学 89岁生日快乐，愿两校友谊长存，一起做更好的大学。', 'attitudes': None, 'comments': 1, 'reposts': 4}
+{'id': '4293276393318056', 'text': '中南财经政法大学#文澜贴士#\n【2019考研网上正式报名明天开始，注意这35个填报细节！】①报名时间为10月10日至31日每天9点至22点；②姓名生僻字要用拼音代替；③通讯地址是接收通知书的有效地址，须准确填写。更多↓↓转发，提醒备考的小伙伴！via人民日报', 'attitudes': None, 'comments': 4, 'reposts': 4}
+{'id': '4293254176819178', 'text': '中南财经政法大学#文澜译站#\nSomething attempted, something done.\n\n——Henry Wadsworth Longfellow\n\n有所尝试，就等于有所作为。\n\n也期待你的解读哦', 'attitudes': None, 'comments': 1, 'reposts': 3}
+{'id': '4293677582638769', 'text': '中南财经政法大学#文澜贴士#\n【8招教你如何与抑郁症朋友相处】目前，全球有3亿多人罹患抑郁症。面对身边的抑郁症朋友，请多一些关爱！世界精神卫生日，一起转发，让更多的抑郁症患者感受到这世界的温情！ via.新华视点', 'attitudes': None, 'comments': 2, 'reposts': 9}
+{'id': '4293631420206914', 'text': '中南财经政法大学#文澜译站#\nEvery calling is great when greatly pursued.\n——Oliver Wendell Holmes Jr.\n\n每一项被孜孜以求地去从事的工作都是非凡的。', 'attitudes': None, 'comments': 1, 'reposts': 2}
+{'id': '4293617927473996', 'text': '中南财经政法大学#新时代@ 教育#\n【五星红旗，你是我的骄傲】近日，国旗护卫队一名战士弯腰捡国旗的视频帅到无数网友！其实，生活中还有许多人在用自己简单的方式，表达着对国旗、对祖国朴素的爱意。或许那只是些微小的举动，却足以温暖你我。我们每个人，每一点努力都会成就一个更好的中 ...全文', 'attitudes': None, 'comments': 0, 'reposts': 1}
+{'id': '4293597099081828', 'text': '中南财经政法大学#文澜微课堂#\n【如果熬夜无法避免，做这几点降低伤害】①熬夜前先睡1-2小时；②饮食少油腻，避免造成肠胃负担；③及时补充水分；④注意室内通风；⑤不保持固定姿势，随时活动身体；⑥第二天适当午睡小憩；⑦食用小米粥、牛奶等助眠食物；⑧读懂身体发出的停止熬夜警报。别再 ...全文', 'attitudes': None, 'comments': 1, 'reposts': 13}
+{'id': '4293590098153522', 'text': '中南财经政法大学#文澜贴士#\n【2019考研网上报名已开始 看看这些注意事项！】①报名时间：10月10日至10月31日每天9:00-22:00；②考生信息在报名结束前都可以修改，网报时间结束后任何信息均不能修改！③一旦生成报名号则不可修改，如确实需要修改，须取消已有的报名再添加新的报考信息 ...全文', 'attitudes': None, 'comments': 4, 'reposts': 3}
+{'id': '4293584968852771', 'text': '中南财经政法大学\n太阳花招新啦\n我们是隶属于校党委宣传部的志愿组织～\n每周定期放映电影，体会不一样的电影操作～\n还有志愿工时和优秀志愿者～\n爱好志愿爱好电影的你，还不来？\n报名时间截止到 10月10日晚十点\n网报链接：太阳花 | 这skr正经的招新\n欢迎加入QQ群一起来交流哇^^：523069036', 'attitudes': None, 'comments': 1, 'reposts': 1}
+{'id': '4293567881399612', 'text': '中南财经政法大学#乐活中南#\n【给我59秒钟，让我告诉你，你的钱包发生了什么变化】国庆假期已经结束。这个假期您过得怎么样？钱包还是鼓鼓的？心情仍是美美的？给我59秒钟，让我告诉你，你的钱包发生了什么变化。via央视网 央视网的微博视频', 'attitudes': None, 'comments': 2, 'reposts': 0}
+{'id': '4293359331185984', 'text': '中南财经政法大学#深夜语人生#\n你和你好朋友的群名称是什么', 'attitudes': None, 'comments': 82, 'reposts': 6}
+{'id': '4293345725213441', 'text': '文澜心语\n话语里包含着真心，\n所以哪怕是一句话，\n也带有说话人的体温。\n——《请回答1988》\n晚安，中南大', 'attitudes': None, 'comments': 7, 'reposts': 2}
+{'id': '4293314503312449', 'text': '#重庆大学89周年校庆#\n崇德尚志 岁月变迁难改学子雄风；\n厚积薄发 沧桑风雨难掩薪火精神。\n“耐劳苦、尚俭朴、勤学业、爱国家”是学子心中不变的谆谆训诫；\n立足西南，远望将来；\n巍巍学府，德才尽传。\n@中南财经政法大学 祝@重庆大学 89岁生日快乐，愿两校友谊长存，一起做更好的大学。', 'attitudes': None, 'comments': 1, 'reposts': 4}
+{'id': '4293276393318056', 'text': '中南财经政法大学#文澜贴士#\n【2019考研网上正式报名明天开始，注意这35个填报细节！】①报名时间为10月10日至31日每天9点至22点；②姓名生僻字要用拼音代替；③通讯地址是接收通知书的有效地址，须准确填写。更多↓↓转发，提醒备考的小伙伴！via人民日报', 'attitudes': None, 'comments': 4, 'reposts': 4}
+{'id': '4293254176819178', 'text': '中南财经政法大学#文澜译站#\nSomething attempted, something done.\n\n——Henry Wadsworth Longfellow\n\n有所尝试，就等于有所作为。\n\n也期待你的解读哦', 'attitudes': None, 'comments': 1, 'reposts': 3}
+{'id': '4293185440630893', 'text': '中南财经政法大学#文澜微课堂#\n凉爽的秋天到了，当然要拍美美的照片啦\n手机摄影及后期学起来～ via @旅行酱', 'attitudes': None, 'comments': 3, 'reposts': 19}
+{'id': '4293111947687451', 'text': '中南财经政法大学文澜心语\n日子，\n是时光写给人们的信，\n但是不落言筌。\n\n《我的孤独是一座花园》 | 阿多尼斯\n\n早安，中南大', 'attitudes': None, 'comments': 6, 'reposts': 4}
+{'id': '4292991667369540', 'text': '文澜心语面向阳光时，阴影在你背后。背向阳光时，阴影在你眼前。世界从未改变，改变的只是我们面对世界的方向！——苏芩', 'attitudes': None, 'comments': 0, 'reposts': 2}
+{'id': '4292991185840981', 'text': '#深夜语人生# 开学第一天，四字形容一下？', 'attitudes': None, 'comments': 12, 'reposts': 2}
+{'id': '4292980778797902', 'text': '#文澜贴士# 【腰酸背痛的同学看过来！6个动作助你缓解久坐腰疼】平时在桌椅久坐，假期又长时间窝沙发刷剧？腰酸背痛怎么办？不用在微博羡慕别人，六个简单动作，不需要复杂的辅具，每个动作保持3分钟左右，每天坚持做，帮你缓解腰痛。（via人民日报） 石头姑娘喵喵的秒拍视频', 'attitudes': None, 'comments': 0, 'reposts': 18}
+{'id': '4292906011227695', 'text': "#文澜译站# Don't you stop running and don't you ever look behind you. There's nothing for you behind you. All that exists is what's ahead.", 'attitudes': None, 'comments': 4, 'reposts': 1}
+{'id': '4292764457556566', 'text': '文澜心语人一辈子要为自己的热爱献身一次，才不白走这一趟。——朱一龙\n早安，中南大', 'attitudes': None, 'comments': 193, 'reposts': 120}
+{'id': '4292613127191145', 'text': '文澜心语 心之何如，有似万丈迷津，遥亘千里，其中并无舟子可以渡人，除了自渡，他人爱莫能助。 ——三毛\n晚安，中南大～', 'attitudes': None, 'comments': 6, 'reposts': 5}
+{'id': '4292575365827354', 'text': '#深夜语人生#\n吸吸中国锦鲤信小呆的欧气，把你的昵称中的一个字改成小，看看是什么吧～', 'attitudes': None, 'comments': 27, 'reposts': 2}
+{'id': '4292554214612061', 'text': '#文澜译站#\nEither life entails courage, or it ceases to be life.\n\n人生若不含有勇气的成分，它就不是人生。', 'attitudes': None, 'comments': 0, 'reposts': 4}
+{'id': '4292545095479453', 'text': '#光影中南# 假期快结束了，一起看看zuelers的脚步到了哪里吧\n\nvia.会计学院 熊梦真 @梦莲薇薰', 'attitudes': None, 'comments': 1, 'reposts': 1}
+{'id': '4292508089839205', 'text': '#湖南农业大学115周岁生日快乐#\n她从热血澎湃的修业学堂走来\n她从抗日救亡的硝烟烽火中走来\n她从新中国扬帆起航的号角声中走来\n她从改革开放的滚滚滚春雷中走来\n······\n她 于马坡岭下桃李芳菲\n她 于浏阳河边尽展风华\n@中南财经政法大学 祝@湖南农业大学 115周岁生日快乐\n愿两校友谊长存，共同进步！', 'attitudes': None, 'comments': 2, 'reposts': 2}
+{'id': '4292462606294656', 'text': '#乐活中南# (通讯员 赵家耀 王运达）9月30日下午，湖北省第十五届大学生运动会暨湖北省第十二届大学生运动会足球比赛决赛在武汉体育学院打响，中南财经政法大学校足球队力克武汉理工大学，捧起了省冠军奖杯，为期10天的比赛就此落幕。我校近五年参加省足球赛，三冠两亚，这个冠军也宣布着“财大王朝” ...全文', 'attitudes': None, 'comments': 15, 'reposts': 9}
+{'id': '4292432864224319', 'text': '#文澜贴士# 【实用！“秋招模式”开启，经典32题助你变“面霸”！】假期一结束，各大招聘机构又要陆续开启“秋招模式”。经典的自我介绍题、难解的薪资待遇题、让你为难的陷阱题，你都会答吗？面试后总觉得发挥不好，知道自己还能从哪方面改进吗？32道经典面试题↓↓给你应对思路。转存参考！ via.人民 ...全文', 'attitudes': None, 'comments': 0, 'reposts': 17}
+{'id': '4292393651810882', 'text': '#乐活中南#\n10月6日，在中南财经政法大学体育场，武汉卓尔与梅县铁汉生态2:2战平，由此，武汉卓尔以15胜9平3负54分的成绩提前三轮重返中超。\n祝贺', 'attitudes': None, 'comments': 27, 'reposts': 26}
+{'id': '4292384244297719', 'text': '文澜心语\n“我知道这世上有人在等我.尽管我不知道他是谁.但是因为这样，我每天都非常快乐.”\n——《返老还童》\n早安，中南大', 'attitudes': None, 'comments': 3, 'reposts': 3}
+{'id': '4292255764408441', 'text': '文澜心语 天可补，海可填，南山可移。日月既往，不可复追。—— 曾国藩\n晚安💤中南大！', 'attitudes': None, 'comments': 8, 'reposts': 5}
+{'id': '4292248310805529', 'text': '#深夜语人生# 据说，你按下@ 后出现的第三个人是你的有缘人，那么你的有缘人是谁呢', 'attitudes': None, 'comments': 85, 'reposts': 3}
+{'id': '4292227969209826', 'text': '#文澜推荐# 抖森读狄更斯名著，英音描述伦敦大雾【双语字幕】10月2日，在一场狄更斯 VS 托尔斯泰的活动中，抖森现场诵读了狄更斯名著《荒凉山庄》中一段描写伦敦泰晤士河上大雾的文字。男神不愧是剑桥大学古典文学专业毕业的，诵读名著的样子气质优雅，太迷人了[米奇比心] via雅思口语\n...全文', 'attitudes': None, 'comments': 3, 'reposts': 14}
+{'id': '4292159714976359', 'text': '#文澜贴士# 【转存！2019届毕业生升学求职必备，你需要的都在这里】国庆假期步入尾声，即将毕业的同学又要开始为未来忙碌。考研、就业、出国留学…你，准备好了吗？确定了目标，就只管风雨兼程。最全毕业生升学求职攻略↓↓无论是准备考研、求职，还是留学，统统用得上！转发收藏，快人一步准备 ...全文', 'attitudes': None, 'comments': 2, 'reposts': 14}
+{'id': '4292134150292387', 'text': '#乐活中南# 这种桌面可以说是很实用了\n\n图源网络，侵删', 'attitudes': None, 'comments': 8, 'reposts': 7}
+{'id': '4292092568404329', 'text': '#文澜译站# Working hard is important. But there is something that matters even more: believing in yourself. 努力很重要，然而更重要的是：相信自己。——《哈利·波特与凤凰社》\n图源网络', 'attitudes': None, 'comments': 5, 'reposts': 5}
+{'id': '4292057058913403', 'text': '#新时代@ 教育##文澜微课堂# 【100个常用英语单词词根，巧记单词无压力】你的单词还是背过就忘？词汇的记忆方法中，最科学合理、事半功倍的莫过于词根记忆法，不仅帮你短期内迅速提高词汇量，而且遗忘率低！100个常用英语词根↓↓送给准备考研、四六级、专四专八、托福、雅思…各种英语考试的你！有用 ...全文', 'attitudes': None, 'comments': 0, 'reposts': 15}
+{'id': '4292019310527559', 'text': '文澜心语 不要问我心里有没有你，我余光中都是你。 ——余光中\n早安，中南大！', 'attitudes': None, 'comments': 11, 'reposts': 9}
+{'id': '4291910015580220', 'text': '中南财经政法大学文澜心语\n爱从不知疲倦，星辰的轮回也绝不会让他们放慢舞步。\n——叶芝\n晚安，中南大', 'attitudes': None, 'comments': 3, 'reposts': 3}
+{'id': '4291896035697571', 'text': '#深夜语人生# 学了这么久的英语，你最喜欢的单词是_____？', 'attitudes': None, 'comments': 69, 'reposts': 3}
+{'id': '4291181212694679', 'text': '中南财经政法大学文澜心语\n只要生命没有结束，永远有下一个明天，永远可以希望着下一刻就是我们想要的幸福。\n——桐华《那些回不去的年少时光》\n\n晚安，中南大🌛', 'attitudes': None, 'comments': 2, 'reposts': 5}
+{'id': '4291162406100616', 'text': '中南财经政法大学#深夜语人生#\n说一下地球哪个角落在国庆期间不会有人海，菌菌规划一下明年的出行计划', 'attitudes': None, 'comments': 27, 'reposts': 0}
+{'id': '4291106508760437', 'text': '中南财经政法大学#文澜译站#\nNo matter how hard the past is, you can always begin again.\n不管过去有多么困难，你都可以重新开始。\n— Jack Kornfield', 'attitudes': None, 'comments': 0, 'reposts': 6}
+{'id': '4291077336504311', 'text': '中南财经政法大学#乐活中南#\n【手势舞：中国有我，我有中国】中国有我手势舞来了！这个国庆，用最走心的手势，向祖国表白！快来看看有没有你喜欢的那个人人民日报的秒拍视频', 'attitudes': None, 'comments': 3, 'reposts': 1}
+{'id': '4291043946584203', 'text': '中南财经政法大学#文澜推荐#\n【《朗读者》第二季完整书单请收好 假期充充电】国庆假期，不妨给自己一个安静的时间！《朗读者》第二季完整书单↓转发收藏！via.央视新闻', 'attitudes': None, 'comments': 1, 'reposts': 29}
+{'id': '4290989377978671', 'text': '中南财经政法大学#文澜贴士#\n【十一假期出行丢了身份证，9图教你怎么办】十一假期出游，赶到机场、火车站却发现忘带身份证；到了酒店，因为身份证丢了无法入住…旅途中遇到这些突发状况有什么补救措施？在户籍地、异地如何补办身份证？手机、银行卡和身份证一起丢了又咋办？\n菌菌 ...全文', 'attitudes': None, 'comments': 0, 'reposts': 10}
+{'id': '4290970722367297', 'text': '#中国人民大学81周年校庆#\n八十一载岁月沧桑\n牢记立学为民、治学报国的坚定信念\n八十一度光阴荏苒\n铭刻忠诚团结、紧张活泼的革命印记\n国民表率 社会栋梁\n引重致远 沛然无疆\n愿你在新征程上书写新的篇章\n愿你在新时代里迈向新的辉煌\n@中南财经政法大学 祝@中国人民大学 八十一周年生日快乐\n愿两校 ...全文', 'attitudes': None, 'comments': 5, 'reposts': 10}
+{'id': '4290961985169483', 'text': '中南财经政法大学#新时代@ 教育#\n【帅！国旗卫士用96个正步迎接共和国69岁生日】为了成为一名合格的国旗卫士，新兵排每天早上4点40起床训练。每天踢正步距离25000米，经常震得脚腕疼，但他们却说：“我们没有困难，我们只有克服困难。”[加油][加油]新华视点的秒拍视频', 'attitudes': None, 'comments': 0, 'reposts': 3}
+{'id': '4290929931945461', 'text': '中南财经政法大学文澜心语\n平凡如我们\n拥有的第一个秘密\n就叫作喜欢\n——八月长安\n\n早安，中南大🌱', 'attitudes': None, 'comments': 6, 'reposts': 2}
+{'id': '4290821320208147', 'text': '中南财经政法大学#深夜语人生#\n留下你此时此刻的坐标👇', 'attitudes': None, 'comments': 98, 'reposts': 0}
+{'id': '4291335278739061', 'text': '#文澜贴士# 短片《熬夜的危害》，你还在熬夜吗？via.实用小百科 实用小百科的秒拍视频', 'attitudes': None, 'comments': 2, 'reposts': 15}
+{'id': '4291292106729032', 'text': '文澜心语\n一味沉湎于过去是毫无意义的。一直看着后视镜是很危险的，会出交通事故哦。开车的时候必须专心地看着前进的方向，已经走过的路，只要时不时得回顾一下就可以了。\n——伊坂幸太郎《余生皆假期》\n早安，中南大', 'attitudes': None, 'comments': 6, 'reposts': 7}
+{'id': '4291181212694679', 'text': '中南财经政法大学文澜心语\n只要生命没有结束，永远有下一个明天，永远可以希望着下一刻就是我们想要的幸福。\n——桐华《那些回不去的年少时光》\n\n晚安，中南大🌛', 'attitudes': None, 'comments': 2, 'reposts': 5}
+{'id': '4291162406100616', 'text': '中南财经政法大学#深夜语人生#\n说一下地球哪个角落在国庆期间不会有人海，菌菌规划一下明年的出行计划', 'attitudes': None, 'comments': 27, 'reposts': 0}
+{'id': '4291106508760437', 'text': '中南财经政法大学#文澜译站#\nNo matter how hard the past is, you can always begin again.\n不管过去有多么困难，你都可以重新开始。\n— Jack Kornfield', 'attitudes': None, 'comments': 0, 'reposts': 6}
+{'id': '4291077336504311', 'text': '中南财经政法大学#乐活中南#\n【手势舞：中国有我，我有中国】中国有我手势舞来了！这个国庆，用最走心的手势，向祖国表白！快来看看有没有你喜欢的那个人人民日报的秒拍视频', 'attitudes': None, 'comments': 3, 'reposts': 1}
+{'id': '4291043946584203', 'text': '中南财经政法大学#文澜推荐#\n【《朗读者》第二季完整书单请收好 假期充充电】国庆假期，不妨给自己一个安静的时间！《朗读者》第二季完整书单↓转发收藏！via.央视新闻', 'attitudes': None, 'comments': 1, 'reposts': 29}
+{'id': '4290989377978671', 'text': '中南财经政法大学#文澜贴士#\n【十一假期出行丢了身份证，9图教你怎么办】十一假期出游，赶到机场、火车站却发现忘带身份证；到了酒店，因为身份证丢了无法入住…旅途中遇到这些突发状况有什么补救措施？在户籍地、异地如何补办身份证？手机、银行卡和身份证一起丢了又咋办？\n菌菌 ...全文', 'attitudes': None, 'comments': 0, 'reposts': 10}
+{'id': '4290970722367297', 'text': '#中国人民大学81周年校庆#\n八十一载岁月沧桑\n牢记立学为民、治学报国的坚定信念\n八十一度光阴荏苒\n铭刻忠诚团结、紧张活泼的革命印记\n国民表率 社会栋梁\n引重致远 沛然无疆\n愿你在新征程上书写新的篇章\n愿你在新时代里迈向新的辉煌\n@中南财经政法大学 祝@中国人民大学 八十一周年生日快乐\n愿两校 ...全文', 'attitudes': None, 'comments': 5, 'reposts': 10}
+{'id': '4290961985169483', 'text': '中南财经政法大学#新时代@ 教育#\n【帅！国旗卫士用96个正步迎接共和国69岁生日】为了成为一名合格的国旗卫士，新兵排每天早上4点40起床训练。每天踢正步距离25000米，经常震得脚腕疼，但他们却说：“我们没有困难，我们只有克服困难。”[加油][加油]新华视点的秒拍视频', 'attitudes': None, 'comments': 0, 'reposts': 3}
+{'id': '4290929931945461', 'text': '中南财经政法大学文澜心语\n平凡如我们\n拥有的第一个秘密\n就叫作喜欢\n——八月长安\n\n早安，中南大🌱', 'attitudes': None, 'comments': 6, 'reposts': 2}
+{'id': '4290821320208147', 'text': '中南财经政法大学#深夜语人生#\n留下你此时此刻的坐标👇', 'attitudes': None, 'comments': 98, 'reposts': 0}
+{'id': '4290812773049806', 'text': '中南财经政法大学文澜心语\n把路灯挂到天上，把月亮偷给你。\n晚安，中南大', 'attitudes': None, 'comments': 7, 'reposts': 1}
+{'id': '4290800374247047', 'text': '中南财经政法大学\n校友共聚环校长跑 助力母校七十华诞\n校庆献礼 | 校友共聚环校长跑 助力母校七十华诞（内附多图＋航拍视频）\n内附多图+航拍', 'attitudes': None, 'comments': 3, 'reposts': 3}
+{'id': '4290727921589016', 'text': '中南财经政法大学#乐活中南#\n从空中俯瞰中南大也太漂亮了吧\n\n参加环校跑的同学们有找到自己的身影吗\n\n高清视频请戳👇网页链接 中南财经政法大学的秒拍视频\n视频via动漫1702史同钦 @史同钦32126', 'attitudes': None, 'comments': 10, 'reposts': 36}
+{'id': '4290689254198417', 'text': '#华中师范大学115周年校庆#\n南湖水畔，沧浪悠悠露风雅；\n桂子山巅，英才济济育桃李。\n从1903年的文华书院，到如今的“双一流”高校，你忠诚博雅，朴实刚毅，115载孕育万千桃李芬芳！@中南财经政法大学 祝@华中师范大学 115岁生日快乐！愿两校友谊长存，携手并进，共为华夏育英才！', 'attitudes': None, 'comments': 9, 'reposts': 7}
+{'id': '4290653229726241', 'text': '#天大123周年#\n花堤霭霭，北运滔滔，巍巍学府北洋高。一百二十三载悠悠岁月，穷学理，振科工，重实验，薄雕虫，如此才铸就了现在的天津大学。在此祝@天津大学 123岁生日快乐！\n\ue34b愿两校友谊长存，携手并进！', 'attitudes': None, 'comments': 7, 'reposts': 1}
+{'id': '4290628231933211', 'text': '#华中农业大学双甲子校庆#\n隔着南湖相望，一定是拥有特别的缘分\n你秉承“勤读力耕，立己达人”的信仰，\n我心怀“博文明理，厚德济世”的志向。\n你于风雨飘摇时诞生，在艰苦卓绝中坚守。\n“耕读双甲子 薪火传天下”\n祝你120岁生日快乐，@华中农业大学\n未来的日子多多指教，一起加油', 'attitudes': None, 'comments': 47, 'reposts': 37}
+{'id': '4290570953706241', 'text': '中南财经政法大学文澜心语\n我生活在妙不可言的的等待中，等待随便哪种未来。—安德烈·纪德\n早安，中南大', 'attitudes': None, 'comments': 7, 'reposts': 2}
+{'id': '4290433532154987', 'text': '文澜心语性格的作用比智力大得多，头脑的作用不如心情，天资不如由判断力所节制着的自制、耐心和规律。开始在内心生活得更严肃的人，也会在外表上开始生活得更朴素。悔恨自己的错误，而且力求不再重蹈覆辙，这才是真正的悔悟。优于别人，并不高贵，真正的高贵应该是优于过去的自己。 ——海明 ...全文', 'attitudes': None, 'comments': 2, 'reposts': 11}
+{'id': '4290432202181902', 'text': '#深夜语人生# 是国庆出游的你吗', 'attitudes': None, 'comments': 3, 'reposts': 1}
+{'id': '4290426997865787', 'text': '#新时代@ 教育##比心中国#【他们在“云中哨所”，让国旗高高飘扬！】詹娘舍哨所，被称 “云中哨所”，是西藏军区最危险的哨所之一。但在这里，官兵们长年坚守！只要太阳升起，他们就会沿着山脊，跳过峭壁，在不足6平米的悬崖平台上，让国旗高高飘扬。有我，请祖国放心！致敬！注意：恐高慎点视频↓ ...全文', 'attitudes': None, 'comments': 0, 'reposts': 1}
+{'id': '4290426263584645', 'text': '#文澜微课堂# TED演讲：如何训练一个人的逻辑思维能力！——如果你逻辑思维能力很差，不妨看看这个视频！\xa0 （大电影院）大电影院的秒拍视频', 'attitudes': None, 'comments': 0, 'reposts': 23}
+{'id': '4290400477212493', 'text': '#我比祖国小四岁#\n六十五载辛勤耕耘,培育桃李满园\n六十五载历史沉淀，积累深厚底蕴\n六十五载风雨兼程，铸就石大辉煌\n勤奋严谨求实创新激励石油人不断前行惟真惟实艰苦奋斗引领中石大再创辉煌\n@中南财经政法大学祝贺 @中国石油大学华东65岁生日快乐!愿两校友谊长存!', 'attitudes': None, 'comments': 4, 'reposts': 1}
+{'id': '4290395548870468', 'text': '#文澜贴士# 【假期聚会多？教你几招让你们的合影在朋友圈里“躺赢”！】美好的长假开始啦，亲朋好友相聚当然得合影留念，不想让你们的合影变成朋友圈里的路人甲乙丙？赶紧@ 好友，一起掌握下面这几个合影小技巧，让你们的合照在朋友圈里最闪耀！ via新闻网', 'attitudes': None, 'comments': 0, 'reposts': 1}
+{'id': '4290377651318132', 'text': '#文澜译站# Why am I always in my eyes brimming tears\nBecause I love the Land so dearly…', 'attitudes': None, 'comments': 1, 'reposts': 0}
+{'id': '4290221305180581', 'text': '#我爱你中国# 对你而言，什么是中国？她曾积贫积弱，如今重焕生机。六十九载，汗水与泪水，光荣与梦想。中国未来的成就与辉煌，由你、我、他共同创造。转发，一起努力，#中国有我#！人民日报的秒拍视频', 'attitudes': None, 'comments': 2, 'reposts': 7}
+{'id': '4290220201112651', 'text': '文澜心语四方食事，不过一碗人间烟火。——汪曾祺\n早安，中南大', 'attitudes': None, 'comments': 6, 'reposts': 6}
+{'id': '4290067046966891', 'text': '文澜心语\n一样是明月 一样是隔山灯火\n满天的星 只有人不见\n\n—— 林徽因\n晚安，中南大', 'attitudes': None, 'comments': 3, 'reposts': 1}
+{'id': '4290043264512594', 'text': '#文澜译站#\nThe mass of men lead lives of quiet desperation and go to the grave with the song still in them.\n\n大多数人过着一种平静的绝望生活，他们心中的歌和他们一起埋入坟墓。', 'attitudes': None, 'comments': 4, 'reposts': 6}
+{'id': '4290039825430407', 'text': '#深夜语人生#\n如果微博表情里的第7个，将是你今年国庆长假的心情。你会是哪个？我是', 'attitudes': None, 'comments': 45, 'reposts': 0}
+{'id': '4289938793120741', 'text': '恭喜@橘子汽水_Alica 1名用户获得【定制版kindle】。微博官方唯一抽奖工具@微博抽奖平台 对本次抽奖进行监督，结果公正有效。公示链接：微博抽奖平台', 'attitudes': None, 'comments': 3, 'reposts': 1}
+{'id': '4289871243357892', 'text': '文澜心语\n人生的刺，就在这里，留恋着不肯快走的，偏是你所不留恋的东西。\n\n——钱钟书 《围城》\n\n早安，中南大', 'attitudes': None, 'comments': 5, 'reposts': 1}
+{'id': '4289724376149279', 'text': '文澜心语 生活对于我来说是一次艰难的航行，我不知道潮水会不会上涨，乃至没过嘴唇，甚至更高。 但是我要前行。—— 欧文•斯通《渴望生活——梵高传》\n晚安💤中南大', 'attitudes': None, 'comments': 1, 'reposts': 3}
+{'id': '4289717841765140', 'text': '#深夜语人生# 就是现在，离你左手边最近的一样东西是什么？', 'attitudes': None, 'comments': 90, 'reposts': 3}
+{'id': '4289680964979835', 'text': '#乐活中南# 【晚上好，你有一份美食记得查收】不管你在何方，中南大的美食都一直等着你 武汉·中南财经政法大学', 'attitudes': None, 'comments': 35, 'reposts': 4}
+{'id': '4289606407106645', 'text': '#文澜译站# Knowing is not enough, we must apply. Willing is not enough, we must do. 光知道不够，得学会运用。光有决心不行，得付出行动。—— 歌德', 'attitudes': None, 'comments': 2, 'reposts': 3}
+{'id': '4289563385718077', 'text': '#新时代@ 教育##文澜微课堂# 120个中国传统文化名词中英文对照，备考四六级、考研的同学们，需要了解一下；英文、翻译专业的同学请重点掌握！via人民日报', 'attitudes': None, 'comments': 0, 'reposts': 19}
+{'id': '4289535187483496', 'text': '#文澜贴士# 【国庆出游，这些消防安全知识要记牢！】国庆长假就要到了，很多朋友会选择外出旅游或出门逛街。无论走到哪里，都要时刻留意身边的消防安全。遇到火灾怎么办？哪些消防安全隐患要及时举报？关乎生命安全，赶快转给TA！ via央视新闻', 'attitudes': None, 'comments': 0, 'reposts': 0}
+{'id': '4289519295030906', 'text': '#电子科大建校62周年#\n求实求真，大气大为。\n六十二年，桃李满天。\n忆往年，峥嵘岁月；看今朝，意气风发。\n中南财经政法大学遥祝@电子科技大学 六十二岁生日快乐！\n逐梦路上，携手同行，未来可期，友谊长存！ 武汉·中南财经政法大学', 'attitudes': None, 'comments': 9, 'reposts': 3}
+{'id': '4289483744214337', 'text': '文澜心语 我要有能做我自己的自由， 和敢做我自己的胆量。\n——林语堂\n早安，中南大[米奇比心]', 'attitudes': None, 'comments': 8, 'reposts': 6}
+{'id': '4289373480289067', 'text': '中南财经政法大学文澜心语\n月光还是少年的月光，九州一色还是李白的霜。\n―― 余光中《独白》\n晚安，中南大', 'attitudes': None, 'comments': 3, 'reposts': 3}
+{'id': '4289368010984671', 'text': '#深夜语人生# 用三个词形容一下你喜欢的人？', 'attitudes': None, 'comments': 59, 'reposts': 7}
+{'id': '4289320238351544', 'text': '#文澜贴士# 【子曰】①学而不思则罔，思而不学则殆；②知之为知之，不知为不知，是知也；③君子成人之美，不成人之恶；④名不正，则言不顺；言不顺，则事不成；⑤知之者不如好之者，好之者不如乐之者；⑥己所不欲，勿施于人…这些曾经熟读背诵的论语，你还记得吗？今天，孔子诞辰2569周年，重温教诲↓ ...全文', 'attitudes': None, 'comments': 0, 'reposts': 4}
+{'id': '4289251519219639', 'text': '#文澜译站# "It is the time you have wasted for your rose that makes your rose so important."\n“正因为你为你的玫瑰花费了时间，这才使你的玫瑰变得如此重要。”\n一一《小王子》', 'attitudes': None, 'comments': 3, 'reposts': 6}
+{'id': '4289204000705883', 'text': '中南财经政法大学#乐活中南#\n为进一步增强师生反恐防暴意识，切实提升学校应急处置队伍快速反应能力，学校于9月27日下午在南湖校区新体育场，联合东湖高新分局、铁箕山派出所、东新消防支队举行了“2018年中南财经政法大学—东新公安反恐防暴、应急处突联合演练”。\n视频：校报学通社 凌月婷 ...全文', 'attitudes': None, 'comments': 1, 'reposts': 1}
+{'id': '4289186683260979', 'text': '#文澜微课堂# TED-ed：增进自信的3种方法。 via.实用干货', 'attitudes': None, 'comments': 0, 'reposts': 5}
+{'id': '4289125659742264', 'text': '中南财经政法大学文澜心语\n情贵淡，气贵和，唯淡唯和，乃得其养，苟得其养，无物不长。\n——梁漱溟\n早安，中南大', 'attitudes': None, 'comments': 6, 'reposts': 7}
+{'id': '4288995632060456', 'text': '#深夜语人生# 说一件最近最让你开心的事吧[给你小心心]', 'attitudes': None, 'comments': 44, 'reposts': 2}
+{'id': '4288971665917060', 'text': '文澜心语\n一个人至少拥有一个梦想， 有一个理由去坚强。心若没有栖息的地方，到哪里都是流浪。\n——三毛\n晚安，中南大~', 'attitudes': None, 'comments': 3, 'reposts': 1}
+{'id': '4288938535599339', 'text': '#茶山刘radio#\n今天是来自@一朵大王花 小可爱的投稿。\n点一首华晨宇的《寒鸦少年》，送给中南大所有的火星人，今天对他们来说是一个特殊的日子，是五年的约定。我们用五年相逢，相知，相随，相爱，相伴。感谢五年，因爱而生，因乐永恒。HUAHUA-LOOK的秒拍视频 查看图片', 'attitudes': None, 'comments': 112, 'reposts': 158}
+{'id': '4288923968528137', 'text': '#乐活中南# 此时一位恶人经过九孔桥…', 'attitudes': None, 'comments': 15, 'reposts': 21}
+{'id': '4288910924018113', 'text': '#文澜译站#\nLove is the only thing that holds thedark at bay.\n\n唯有爱可以把黑暗囚在波港湾里。', 'attitudes': None, 'comments': 1, 'reposts': 4}
+{'id': '4288867454905701', 'text': '#文澜微课堂# 【249家5A级景区全名单】十一长假就要到了！据国家发改委，一波5A级景区将在十一前降价或免费。你想好去哪儿玩了吗？今天，世界旅游日，奉上5A级景区全名单↓↓转给爱出门游玩的小伙伴！转发收藏！ via.人民日报', 'attitudes': None, 'comments': 1, 'reposts': 7}
+{'id': '4288839557975646', 'text': '#文澜贴士# 38幅英文漫画，告诉你真实的人生感悟 。via.实用干货', 'attitudes': None, 'comments': 2, 'reposts': 5}
+{'id': '4288814136537945', 'text': '#深圳大学35周年校庆#\n三十五载，风雨兼程\n继往开来，砥砺前行\n脚踏实地，逐梦未来\n立志高远，未来可期\n@中南财经政法大学 遥祝@深圳大学\n三十五周年生日快乐！[给你小心心]\n愿两校携手共进，共创未来。', 'attitudes': None, 'comments': 13, 'reposts': 7}
+{'id': '4288768066379526', 'text': '文澜心语\n总之岁月漫长，然而值得等待。\n——村上春树\n早安，中南大~', 'attitudes': None, 'comments': 6, 'reposts': 6}
+{'id': '4288615045587711', 'text': '中南财经政法大学#深夜语人生#\n你和小学最好的朋友还有联系吗？ 如果有，那也太幸福啦吧！', 'attitudes': None, 'comments': 38, 'reposts': 3}
+{'id': '4288567162801463', 'text': '中南财经政法大学#文澜译站#\nEver youngful, ever weeping.\n永远年轻，永远热泪盈眶。\n——凯鲁亚克', 'attitudes': None, 'comments': 1, 'reposts': 3}
+{'id': '4288523404078921', 'text': '中南财经政法大学#文澜微课堂#\n摄影师的后期照片处理的一些方法，新技能get√ via.实用干货', 'attitudes': None, 'comments': 0, 'reposts': 13}
+{'id': '4288433674970316', 'text': '中南财经政法大学#乐活中南#\n萌猫到底有什么用via.萌猫小百科 武汉 · 流芳街区', 'attitudes': None, 'comments': 2, 'reposts': 6}
+{'id': '4288427769833305', 'text': '#文澜公告# 国庆节的放假通知新鲜出炉啦！\n详情请戳👉 网页链接', 'attitudes': None, 'comments': 16, 'reposts': 4}
+{'id': '4288395146634209', 'text': '中南财经政法大学文澜心语\n不确定为什么要去，正是出发的理由。\n——村上春树\n\n早安，中南大🌿', 'attitudes': None, 'comments': 7, 'reposts': 16}
+{'id': '4288295326300527', 'text': '中南财经政法大学#深夜语人生#\n我想要你们最喜欢的电影推荐', 'attitudes': None, 'comments': 54, 'reposts': 1}
+{'id': '4288266763235122', 'text': '中南财经政法大学文澜心语\n每一天和每个微不足道的成绩都是一种礼物。\n——卡夫卡\n享受这份礼物吧！\n晚安，中南大', 'attitudes': None, 'comments': 2, 'reposts': 3}
+{'id': '4288207237027906', 'text': '竖双一流标杆，育新时代英才。\n百年风雨，铸河大岁月之辉煌；\n百年春露，成铁塔学子之天下。\n聚嵩岳云气 ，千年黄河照八朝古都；\n挹大河长风，百年河大耀九州桃李。\n@中南财经政法大学 祝@河南大学 106岁生日快乐。\n愿两校友谊长存，砥砺前行，携手并进！', 'attitudes': None, 'comments': 17, 'reposts': 7}
+{'id': '4288180486296092', 'text': '中南财经政法大学#乐活中南#\n\n“这位小生，眉清目秀，甚是喜欢”\n\n大家在校园里有没有遇到这位帅帅的小姐姐', 'attitudes': None, 'comments': 15, 'reposts': 3}
+{'id': '4287361691118984', 'text': '#文澜贴士# 【今日秋分，正式入秋】今天9时54分，秋分至。①太阳几乎直射在赤道上，昼夜平分，故称“秋分”；②自秋分始，我国大部分地区进入秋季，雨水频繁，天气变得寒冷；③昼夜温差加大，要注意保暖，及时添秋衣。夜晚睡眠盖好被子，小心腹部受凉；④注意饮食均衡，多食新鲜果蔬。正式入秋了，你感 ...全文', 'attitudes': None, 'comments': 1, 'reposts': 3}
+{'id': '4287318771206471', 'text': '文澜心语\n每一个不曾起舞的日子，都是对生命的辜负。\n早安，中南大～', 'attitudes': None, 'comments': 3, 'reposts': 2}
+{'id': '4287193596102746', 'text': '#新时代@教育# 我们的军训，我们的新时代！ 中南财经政法大学的秒拍视频', 'attitudes': None, 'comments': 2, 'reposts': 10}
+{'id': '4287190604987244', 'text': '文澜心语 大喜大悲看清自己，大起大落看清朋友。没有一个足够宽容的心，就看不到一个春光明媚的世界。 ——沈从文\n晚安💤中南大[给你小心心]', 'attitudes': None, 'comments': 8, 'reposts': 9}
+{'id': '4287186901661715', 'text': '#深夜语人生# 来玩一个深夜小游戏：打出我要 看看后面是什么', 'attitudes': None, 'comments': 179, 'reposts': 0}
+{'id': '4287101103378760', 'text': '#文澜推荐# 20个超有趣的心理学发现，拉开你与他人的思维距离\nvia阅读手册', 'attitudes': None, 'comments': 0, 'reposts': 22}
+{'id': '4287075060086838', 'text': '#文澜微课堂#【转需！2018年9-12月考试日历】今天是#司法考试# 开考日！祝参加考试的同学考试顺利[加油]，期待你们的好消息！2018的剩下几个月，还有这些考试值得你关注赶紧备考起来吧！\nvia微课堂', 'attitudes': None, 'comments': 3, 'reposts': 52}
+{'id': '4287055758239020', 'text': '恭喜@二微不二x 等2名用户获得【印象笔记T恤】, @Chrisiron 等3名用户获得【印象笔记高级帐户】。微博官方唯一抽奖工具@微博抽奖平台 对本次抽奖进行监督，结果公正有效。公示链接：微博抽奖平台', 'attitudes': None, 'comments': 4, 'reposts': 0}
+{'id': '4287516896633840', 'text': '#深夜语人生#\n中南财经政法大学是\n首义，南湖，还有你们做的\n你们呢', 'attitudes': None, 'comments': 11, 'reposts': 1}
+{'id': '4287470629219551', 'text': '#乐活中南#\n要快乐！', 'attitudes': None, 'comments': 2, 'reposts': 2}
+{'id': '4287361691118984', 'text': '#文澜贴士# 【今日秋分，正式入秋】今天9时54分，秋分至。①太阳几乎直射在赤道上，昼夜平分，故称“秋分”；②自秋分始，我国大部分地区进入秋季，雨水频繁，天气变得寒冷；③昼夜温差加大，要注意保暖，及时添秋衣。夜晚睡眠盖好被子，小心腹部受凉；④注意饮食均衡，多食新鲜果蔬。正式入秋了，你感 ...全文', 'attitudes': None, 'comments': 1, 'reposts': 3}
+{'id': '4287318771206471', 'text': '文澜心语\n每一个不曾起舞的日子，都是对生命的辜负。\n早安，中南大～', 'attitudes': None, 'comments': 3, 'reposts': 2}
+{'id': '4287193596102746', 'text': '#新时代@教育# 我们的军训，我们的新时代！ 中南财经政法大学的秒拍视频', 'attitudes': None, 'comments': 2, 'reposts': 10}
+{'id': '4287190604987244', 'text': '文澜心语 大喜大悲看清自己，大起大落看清朋友。没有一个足够宽容的心，就看不到一个春光明媚的世界。 ——沈从文\n晚安💤中南大[给你小心心]', 'attitudes': None, 'comments': 8, 'reposts': 9}
+{'id': '4287186901661715', 'text': '#深夜语人生# 来玩一个深夜小游戏：打出我要 看看后面是什么', 'attitudes': None, 'comments': 179, 'reposts': 0}
+{'id': '4287101103378760', 'text': '#文澜推荐# 20个超有趣的心理学发现，拉开你与他人的思维距离\nvia阅读手册', 'attitudes': None, 'comments': 0, 'reposts': 22}
+{'id': '4287075060086838', 'text': '#文澜微课堂#【转需！2018年9-12月考试日历】今天是#司法考试# 开考日！祝参加考试的同学考试顺利[加油]，期待你们的好消息！2018的剩下几个月，还有这些考试值得你关注赶紧备考起来吧！\nvia微课堂', 'attitudes': None, 'comments': 3, 'reposts': 52}
+{'id': '4287055758239020', 'text': '恭喜@二微不二x 等2名用户获得【印象笔记T恤】, @Chrisiron 等3名用户获得【印象笔记高级帐户】。微博官方唯一抽奖工具@微博抽奖平台 对本次抽奖进行监督，结果公正有效。公示链接：微博抽奖平台', 'attitudes': None, 'comments': 4, 'reposts': 0}
+{'id': '4287052054556339', 'text': "#文澜译站# Success is not forever and failure isn't fatal. 没有永远的成功，亦无致命的失败。—— Don Shula", 'attitudes': None, 'comments': 0, 'reposts': 2}
+{'id': '4287011785325213', 'text': '中南财经政法大学直击面试现场\n很高兴可以见到来面试的各位！还有没来的小可爱抓紧时间哦，上午一面就结束啦\n文澜新闻网与新媒体中心欢迎你！', 'attitudes': None, 'comments': 1, 'reposts': 0}
+{'id': '4286998476631910', 'text': '#文澜贴士# 健康食谱分享 ～你今天吃的健康吗[米奇比心]\nvia思想聚焦', 'attitudes': None, 'comments': 1, 'reposts': 6}
+{'id': '4286943082694321', 'text': '文澜心语 我明白你会来，所以我等。\n——沈从文\n早安！中南大', 'attitudes': None, 'comments': 11, 'reposts': 13}
+{'id': '4286836333218102', 'text': '中南财经政法大学文澜心语\n当一个人作了决定，就像跳近一股强劲的水流中，水流将会带他到作决定的最初也梦想不到的地方去。\n——《牧羊少年奇幻之旅》\n晚安，中南大', 'attitudes': None, 'comments': 2, 'reposts': 6}
+{'id': '4286811154721439', 'text': '#深夜语人生# 这两天有很多学校组织招新呀，小可爱们都pick了哪些组织呢？', 'attitudes': None, 'comments': 21, 'reposts': 1}
+{'id': '4286728514373155', 'text': '#文澜贴士# 【考研党必看！速转2019报考备考攻略】2019考研大纲已于近日公布，你准备得怎么样了？该想想报名的事了！今年考研报名有新变化，网报将分“填写考生信息”和“填写报考信息”两个步骤，目前“填写考生信息”功能已开通。具体如何填报？报名有啥要注意？考研报名、备考攻略↓转给考研 ...全文', 'attitudes': None, 'comments': 2, 'reposts': 40}
+{'id': '4286684335802926', 'text': '#文澜译站#\nMusic, when soft voices die,\nVibrates in the memory;\nOdours, when sweet violets sicken,\nLive within the sense they quicken.\n曼妙歌声虽尽，\n记忆回荡余音；\n甜蜜的紫罗兰凋零，\n芳香在感觉里苏醒。\n——雪莱', 'attitudes': None, 'comments': 0, 'reposts': 0}
+{'id': '4286670368947182', 'text': '中奖的小可爱们请于今天下午五点之前到首义会堂前文澜网络招新棚领奖呀嘻嘻//@中南财经政法大学:恭喜@绯月叶 等10名用户获得【帆布袋或自拍杆】, @虞乐哥哥的小女友 等5名用户获得【保温杯】。微博官方唯一抽奖工具@微博抽奖平台 对本次抽奖进行监督，结果公正有效。公示链接：微博抽奖平台', 'attitudes': None, 'comments': 1, 'reposts': 0}
+{'id': '4286668439042220', 'text': '#文澜微课堂# 【干货！教你如何制作优秀简历】招聘会、宣讲会、面试网申……简历都是第一关。超实用简历制作教程↓↓用心制作简历，让HR一眼看中你！ via.实用干货', 'attitudes': None, 'comments': 0, 'reposts': 29}
+{'id': '4286663809070943', 'text': '恭喜@绯月叶 等10名用户获得【帆布袋或自拍杆】, @虞乐哥哥的小女友 等5名用户获得【保温杯】。微博官方唯一抽奖工具@微博抽奖平台 对本次抽奖进行监督，结果公正有效。公示链接：微博抽奖平台', 'attitudes': None, 'comments': 3, 'reposts': 1}
+{'id': '4286607492324118', 'text': '中南财经政法大学\n这个九月，快来中南大官微开启你的新媒体之旅叭\n如果你对新闻采写、微信微博运营、摄影后期任何一方面感兴趣，如果你拥有一腔热情也不失认真和责任感，那么就来加入我们吧！\n我们在这里，等风也等你\n\n招新地点→首义会堂广场&34、35栋楼下文澜网络招新点\n另附线上 ...全文', 'attitudes': None, 'comments': 1, 'reposts': 0}
+{'id': '4286596003881798', 'text': '中南财经政法大学文澜心语\n你要让阳光洒在心上而非身上，溪流穿躯而过，而非从旁流过。\n——约翰·缪尔《夏日走过山间》\n早安，中南大', 'attitudes': None, 'comments': 1, 'reposts': 5}
+{'id': '4286468287594466', 'text': '中南财经政法大学#深夜语人生#\n距离你最近的一场考试是什么呀\n\n菌菌预约了科目一的考试', 'attitudes': None, 'comments': 26, 'reposts': 1}
+{'id': '4286458787671823', 'text': '#茶山刘radio#\n“匿名～今年是喜欢你的第七年，听到这首歌一下子哭了出来我知道和莱姆病斗争的你真的很辛苦，好在，你挺过来了，你回来了”\n#Head Above Water# 中南财经政法大学的秒拍视频', 'attitudes': None, 'comments': 3, 'reposts': 3}
+{'id': '4286447412475236', 'text': '中南财经政法大学文澜心语\n"很抱歉啊 我白天都没什么机会和你说话 只能憋到晚上给你发句晚安 但你可别小看了这两个字 它可包含着我今天清晨见到的阳光 中午看到的白云 傍晚遇见的微风 包含着我这一天每句想对你说的话 "\n晚安，中南大', 'attitudes': None, 'comments': 4, 'reposts': 6}
+{'id': '4286405235057193', 'text': '#中国大学生在线校园巡展中南财经政法大学站#中国大学生在线校园网络通讯社2018校园巡展暨第三届全国大学生网络文化节宣传推广活动火热进行中。本次巡展活动由教育部@中国大学生在线主办，中南财经政法大学党委宣传部文澜网络通讯站承办。快来首义会堂前或35栋楼下参与活动领奖吧。\n\n参与话题 ...全文', 'attitudes': None, 'comments': 7, 'reposts': 13}
+{'id': '4286399160635931', 'text': '中南财经政法大学#文澜译站#\nShallow men believe in luck. Strong men believe in cause and effect.\n——Ralph Waldo Emerson\n\n浅薄之人信运气，坚强之士信因果。', 'attitudes': None, 'comments': 0, 'reposts': 6}
+{'id': '4286343041308621', 'text': '中南财经政法大学#乐活中南#\n汇演为军训画上了完美的句号，\n却也到了说分别的时候，\n感谢相遇与陪伴，\n教官，再会', 'attitudes': None, 'comments': 12, 'reposts': 3}
+{'id': '4286294534641087', 'text': '中南财经政法大学#乐活中南#\n小可爱们看过来！\n欢迎加入文澜网络这个有爱的大家庭[给你小心心]\n首义会堂及34、35栋之间设有我们的宣传点今晚18:30，30栋305 ，不见不散！\n\n师兄师姐等撩哦', 'attitudes': None, 'comments': 1, 'reposts': 0}
+{'id': '4286292797303287', 'text': '#军训那些事儿##开学季# 军体拳摆出“70”造型，祝母校七十岁生日快乐！[给你小心心] 中南财经政法大学的秒拍视频', 'attitudes': None, 'comments': 50, 'reposts': 57}
+{'id': '4286258010781515', 'text': '中南财经政法大学军训汇报表演 微博直播', 'attitudes': None, 'comments': 18, 'reposts': 14}
+{'id': '4286247788690160', 'text': '#军训那些事儿# 军训汇演，你们准备好了吗？微博全景图片 武汉·中南财经政法大学首义校区', 'attitudes': None, 'comments': 6, 'reposts': 4}
+{'id': '4286234475634299', 'text': '中南财经政法大学文澜心语\n同伴，不一定非要一起走到最后。\n某一段路上，\n对方给自己带来的朗朗笑声，那就已经足够。\n/八月长安《你好，旧时光》\n早安，中南大', 'attitudes': None, 'comments': 4, 'reposts': 6}
+{'id': '4286111062760877', 'text': '文澜心语\n正因为生命有限，时光匆匆，所以才要加倍努力，不然以后拿什么来回忆。\n晚安，中南大', 'attitudes': None, 'comments': 0, 'reposts': 3}
+{'id': '4286090590833303', 'text': '#深夜语人生# 在这个灼热的夏天，有一群人，他们严厉却温柔，严格却体贴，铁骨柔情，秀发钢枪，他们让这个夏天变得更加刻骨铭心。离别在即，或许来不及说再见，在评论区留下你们对教官军助想说的话吧，让美好的回忆永远铭刻在这个夏天。[给你小心心]', 'attitudes': None, 'comments': 22, 'reposts': 5}
+{'id': '4286079497051186', 'text': '#军训那些事儿##开学季# 或许不够悠扬动听，或许不够气势如虹，但是我们会用最真挚的心为你唱出一首《再见》。我会牢牢记住你的脸，我会珍惜你给的思念，这些日子在我心中永远都不会抹去。感谢你们，在这个夏天，带给了我们最闪耀的光彩。 中南财经政法大学的秒拍视频', 'attitudes': None, 'comments': 17, 'reposts': 27}
+{'id': '4286017810569336', 'text': '#文澜译站#\nThe stars are beautiful, because of a flower that cannot be seen.', 'attitudes': None, 'comments': 2, 'reposts': 0}
+{'id': '4285965461249859', 'text': '#文澜微课堂# 干货锦集，15个让你相见恨晚的PPT抠图网站。via.思想聚焦', 'attitudes': None, 'comments': 0, 'reposts': 26}
+{'id': '4285926438007101', 'text': '#文澜贴士# 【15分钟HIIT减脂操】高强度有氧间歇运动，无需器械，每天跟着视频锻炼15-30分钟，马力全开，消耗全身脂肪！天气转凉，赶走秋膘，转存试试！via.人民日报 全球健身中心的秒拍视频', 'attitudes': None, 'comments': 2, 'reposts': 14}
+{'id': '4285891382304695', 'text': '#乐活中南# 网上看到的照片vs你拍的照片，太真实了', 'attitudes': None, 'comments': 27, 'reposts': 12}
+{'id': '4285863057657520', 'text': '文澜心语\n转瞬即逝的相逢与离别，每一个瞬间，我都想要珍惜。——《夏目友人帐》\n早安，中南大~', 'attitudes': None, 'comments': 5, 'reposts': 5}
+{'id': '4285735093674753', 'text': '文澜心语\n有时关不上冰箱的门，脚趾撞到了桌腿，临出门找不到想要的东西，突然忍不住掉泪。你觉得小题大作，只有我自己知道为什么。\n\n晚安，中南大', 'attitudes': None, 'comments': 3, 'reposts': 7}
+{'id': '4285721470096583', 'text': '#深夜语人生#\n你的人生到目前为止最大的遗憾是什么', 'attitudes': None, 'comments': 60, 'reposts': 1}
+{'id': '4285701774285916', 'text': '#军训那些事儿#\n今天来听听合唱方队的故事~\n\n视频来源：吕沅羲 中南财经政法大学的秒拍视频', 'attitudes': None, 'comments': 4, 'reposts': 3}
+{'id': '4285657007849250', 'text': '#乐活中南#', 'attitudes': None, 'comments': 33, 'reposts': 65}
+{'id': '4285613999531002', 'text': "#文澜译站#\nAll human values are relatives, so beauty is relative to the beholder's eyes.\n\n人类的一切价值标准都是相对的，因此美不美是相对的，由观看者的眼光而定", 'attitudes': None, 'comments': 0, 'reposts': 2}
+{'id': '4285566013176262', 'text': '#文澜贴士# 【勿忘国殇，吾辈自强！】1931年9月18日，“九一八”事变爆发。14年间，大片国土沦陷，3500万同胞伤亡。鲜血与抗争写就的历史警示国人：落后就要挨打，发展才能强大。转发传递历史！勿忘国殇，吾辈自强！', 'attitudes': None, 'comments': 1, 'reposts': 7}
+{'id': '4285534630933755', 'text': '#文澜微课堂# 【收藏！从开题到答辩，你一定用得到的论文技巧！】近期，不少高校已经陆续开始毕业论文开题。开题报告、文献综述、论文排版、论文答辩...作为学生生涯最重要的一次作业，怎样准备更充分？开题报告该怎么写？文献资料去哪里查？未来几个月内你需要的技巧这里都有↓↓送给为论文苦苦奋战的 ...全文', 'attitudes': None, 'comments': 1, 'reposts': 16}
+{'id': '4285519506213817', 'text': '文澜心语\n生活中真正的勇士向来默默无闻，喧哗不止的往往是自视高贵的一群。\n\n早安，中南大', 'attitudes': None, 'comments': 1, 'reposts': 2}
+{'id': '4285382747104955', 'text': '文澜心语我渴望从每段经历里萃取几个道理醍醐灌顶，期盼每次摸爬滚打能换来可视化的进步。\n可真正的成长是没有计量单位的，没有那么多顿悟真理然后铠甲傍身。\n急什么呢，往前走便是。\n晚安，中南大', 'attitudes': None, 'comments': 2, 'reposts': 17}
+{'id': '4285382617116725', 'text': '#深夜语人生# 很多地方都秋天了，在武汉的你想说对夏季的尾巴说些什么呢', 'attitudes': None, 'comments': 19, 'reposts': 0}
+{'id': '4285364065339090', 'text': "#文澜译站# If you want to be successful tomorrow, it's impossible. If you want to be successful a year later, it's impossible. But if you want to win ten years later, you have a chance.", 'attitudes': None, 'comments': 5, 'reposts': 0}
+{'id': '4285352300343391', 'text': '#军训那些事儿# 军训进行时，青春正当时，一起来看看zueler的军训吧\n👉新时代@教育 | 军训进行时 青春正当时', 'attitudes': None, 'comments': 3, 'reposts': 0}
+{'id': '4285282331096833', 'text': '#文澜微课堂##九月开学季# 【假如你拥有过目不忘的能力，你真的想要吗？】上学的时候，总希望自己有过目不忘的能力，但你有没有想过，万一真的无法忘记任何事，生活又会变成什么样？人类的记忆如何工作？听上去很酷的“超忆症”到底是什么？ 全球视频大魔王的秒拍视频 #微课堂#', 'attitudes': None, 'comments': 2, 'reposts': 7}
+{'id': '4285247476637207', 'text': '#印象开学季# 为了留住课堂上一闪而过的重点，为了不让记忆长出青苔，我们把宝贵的信息，都留在了印象笔记里。\n关注@中南财经政法大学 ，转发本条微博，我们将于9月22日抽两名同学送出印象笔记T恤一件，三位同学送上印象笔记高级账户一份，9月30日抽一名同学送出由@印象笔记 提供的定制版kindle一份。', 'attitudes': None, 'comments': 278, 'reposts': 715}
+{'id': '4285151649645421', 'text': '文澜心语“我最崇拜的人 是我自己 只有我才会帮自己 度过一山又一山 克服一次又一次难关 ”\n早安，中南大', 'attitudes': None, 'comments': 5, 'reposts': 4}
+{'id': '4285006484452247', 'text': '文澜心语\n飘风不终朝，骤雨不终日。\n\n——老子\n\n晚安，中南大~', 'attitudes': None, 'comments': 1, 'reposts': 2}
+{'id': '4284968416469986', 'text': '#深夜语人生# QQ宠物走的第二天，想它\n你的qq宠物叫什么呢？', 'attitudes': None, 'comments': 13, 'reposts': 1}
+{'id': '4284959693186485', 'text': '#军训那些事儿#\n公共管理学院迎新典礼\n中南财经政法大学公共管理学院2018级迎新典礼\n点开链接可看全程完整视频\n\n\n视频来源：公管1804祁婧仪', 'attitudes': None, 'comments': 2, 'reposts': 4}
+{'id': '4284924355365261', 'text': '#军训那些事儿#\n军体拳方阵的“70”队列\n祝中南大七十岁生日快乐~\n\n图源：哲学院 李银钊', 'attitudes': None, 'comments': 20, 'reposts': 5}
+{'id': '4284907268054958', 'text': '#乐活中南#\n放！\n着！\n我！\n来！', 'attitudes': None, 'comments': 2, 'reposts': 4}
+{'id': '4284896698288961', 'text': '#军训那些事儿#\n💖💖💖\n\n图源：信息1802梅嘉元', 'attitudes': None, 'comments': 3, 'reposts': 2}
+{'id': '4284878012518578', 'text': '#文澜译站# 岁月从不败美人。\n【奥黛丽·赫本的珍藏版英语演讲视频】\nFor what is friendship\n试问何为友谊\nif not a willingness to give\n友谊是润物细无声\nto give laughter\n让你破涕为笑\nwhere there are tears\n当你伤心落泪时\ncomfort where there are fears\n担惊受怕时让你安心落意\npleasure， ...全文', 'attitudes': None, 'comments': 0, 'reposts': 34}
+{'id': '4284875467336288', 'text': '#军训那些事儿#\n目不转睛\n\n图源：公管1804祁婧仪', 'attitudes': None, 'comments': 9, 'reposts': 1}
+{'id': '4284832215259047', 'text': '#文澜贴士# 一分钟小贴士，让我们的生活更高效。\nvia.人民日报', 'attitudes': None, 'comments': 0, 'reposts': 15}
+{'id': '4284811944316726', 'text': '#军训那些事儿#\n首义校区的慰问演出\n给师兄师姐们打call~\n\n图源：\np1：工商管理学院 刘欣然\np2：工商管理学院 苏茹冰', 'attitudes': None, 'comments': 8, 'reposts': 3}
+{'id': '4284795162609365', 'text': '#文澜微课堂# 【台风名字都是咋起的？聊聊台风那些事儿】相比最近大家都被新晋网红"山竹"刷屏了，“巨大的山竹”台风“直径XXXX米”，有点谗是怎么回事。这些台风名，都是怎么起的？戳图了解↓↓ ( 图源人民日报）', 'attitudes': None, 'comments': 10, 'reposts': 43}
+{'id': '4284778561384631', 'text': '文澜心语\n你那么擅长安慰他人，\n一定度过了很多自己安慰自己的日子吧。\n— —陈亚豪\n早安，中南大～', 'attitudes': None, 'comments': 3, 'reposts': 3}
+{'id': '4284646226780910', 'text': '文澜心语 我们终此一生，就是要摆脱他人的期待，找到真正的自己。\n——《无声告白》\n晚安💤中南大\n明天会更好[米奇比心]', 'attitudes': None, 'comments': 5, 'reposts': 15}
+{'id': '4284641189408304', 'text': '#深夜语人生# 土味艺名挑战赛如果你的星座+生肖+名字的最后一个字是你的艺名，你的是什么？', 'attitudes': None, 'comments': 55, 'reposts': 2}
+{'id': '4284593999759317', 'text': '#军训那些事儿#中南财经政法大学\n在南湖校区，师姐们带来了慰问演出，舞蹈《天浴》赢得同学们的阵阵掌声 中南财经政法大学的秒拍视频', 'attitudes': None, 'comments': 12, 'reposts': 8}
+{'id': '4284559128349053', 'text': '#文澜推荐##计算机二级# 【干货贴！计算机二级Excel常考函数公式详解】Excel一共提供了数百个内部函数，但计算机二级常考的和工作中常用的，下图已经帮你们整理好了！除公式外，还配上了详细讲解＋考题示例，让你在实例中掌握要点！ 收藏转需~via微课堂\n希望考二级的同学考试顺利', 'attitudes': None, 'comments': 11, 'reposts': 142}
+{'id': '4284531085343327', 'text': '#东北大学95周年校庆#@东北大学\n九五载矢志不渝，迎百年砥砺奋进！\n栉风沐雨，不辍耕耘\n东北大学生于忧患而图自强，长于战乱而求不息。\n自强不息，知行合一\n中南财经政法大学祝东北大学生日快乐！\n愿两校携手共进，共创未来！', 'attitudes': None, 'comments': 4, 'reposts': 4}
+{'id': '4284526534385423', 'text': '#文澜贴士# 中南财经政法大学2019年招收攻读硕士学位研究生章程出炉，有意报考中南大研究生的朋友千万不要错过呀\n网页链接', 'attitudes': None, 'comments': 26, 'reposts': 19}
+{'id': '4284521920788311', 'text': '#文澜译站# I love you because the entire universe conspired to help me find you. 我爱你是因为整个宇宙都合力助我来到你的身边 。——《牧羊少年奇幻之旅》', 'attitudes': None, 'comments': 3, 'reposts': 6}
+{'id': '4284499796043410', 'text': '今天过生日的小伙伴很多呢中南财经政法大学遥祝上海海事大学109岁生日快乐！友谊长存[米奇比心]共同做更好的大学！', 'attitudes': None, 'comments': 5, 'reposts': 1}
+{'id': '4284492938149616', 'text': '#军训那些事儿#中南财经政法大学\n运动场上，你们是挺拔的标杆\n烈日炎炎，汗水是成长的见证\n加油💪为你们点赞\nvia公共管理学院祁婧仪\n法学院王雪如', 'attitudes': None, 'comments': 0, 'reposts': 0}
+{'id': '4284472712918709', 'text': '#军训那些事儿#中南财经政法大学\n“喵，是新来的小可爱吗？”\n军训中你有没有看到活跃在中南大校园里的小动物们呢\nvia金融学院 刘若薇', 'attitudes': None, 'comments': 7, 'reposts': 1}
+{'id': '4284463510604675', 'text': '#北化60岁生日快乐#@北京化工大学\n宏德博学 化育天工\n甲子薪传 筑梦百年\n中南财经政法大学祝北京化工大学建校六十周年生日快乐！\n愿未来的日子里，两校携手同行，共同进步！', 'attitudes': None, 'comments': 4, 'reposts': 3}
+{'id': '4284441360514539', 'text': '#军训那些事儿#中南财经政法大学\n今日训练继续[加油]\nvia法学院王雪如', 'attitudes': None, 'comments': 0, 'reposts': 0}
+{'id': '4284426403804715', 'text': '#安徽大学90周年校庆#\n历九十风雨，培英育俊，满园桃李芬芳。\n载千年文明，继往开来，不负岁月荣光。\n中南财经政法大学遥祝@安徽大学 九十周年校庆快乐！\n愿两校友谊长存，砥砺前行！', 'attitudes': None, 'comments': 25, 'reposts': 19}
+{'id': '4284411711402951', 'text': '文澜心语 如果说有一件事是我鼓励你们大家去做的，那就是永远不要随波逐流。要超越我们周围那些低级和颓废的影响。——石黑一雄\n早安～中南大', 'attitudes': None, 'comments': 10, 'reposts': 4}
+{'id': '4284302969342733', 'text': '中南财经政法大学文澜心语\n月亮从梳妆台的镜子里，望出千万里。\n晚安，中南大', 'attitudes': None, 'comments': 4, 'reposts': 1}
+{'id': '4284289388626058', 'text': '#深夜语人生# 你最近喜欢喝什么种类的奶茶？', 'attitudes': None, 'comments': 41, 'reposts': 0}
+{'id': '4284267104394126', 'text': '#军训那些事儿# 公共管理学院的师兄师姐来首义慰问军训啦\n视频via.工商管理学院刘欣然中南财经政法大学的秒拍视频', 'attitudes': None, 'comments': 11, 'reposts': 2}
+{'id': '4284235109695663', 'text': '#我与大学的第一张合照# 开奖啦！恭喜@之木木er @HenGyUhuANg @所谓颜色 @_YUANJIANI @柚子簏 五位小可爱中奖请私信菌菌你们的联系方式和收货地址哦', 'attitudes': None, 'comments': 6, 'reposts': 0}
+{'id': '4284230483928490', 'text': '#军训那些事儿# 来自前方战地记者对军助小哥哥小姐姐的采访\n大家都是可爱的人呀\n视频via.工商管理学院谢宛霖 中南财经政法大学的秒拍视频', 'attitudes': None, 'comments': 1, 'reposts': 4}
+{'id': '4284152612553731', 'text': "#文澜译站# But love me for love's sake that evermore Thou mayst love on, through love's eternity.\n爱我，请只是为了那爱的意念，那你就能继续地爱，爱我如深海。\n——勃朗宁夫人", 'attitudes': None, 'comments': 0, 'reposts': 4}
+{'id': '4284104227313017', 'text': '#文澜微课堂# 哪些英语用法是普通中国学生最生疏的？ via.实用干货', 'attitudes': None, 'comments': 2, 'reposts': 27}
+{'id': '4284060190171706', 'text': '中南财经政法大学文澜心语\n此情无计可消除，才下眉头，却上心头。\n——李清照《一剪梅》\n早安，中南大', 'attitudes': None, 'comments': 3, 'reposts': 0}
+{'id': '4283939642035967', 'text': '中南财经政法大学#深夜语人生#\n说说最近让你感到难过的事情，\n倾诉完，就安安心心地睡觉吧', 'attitudes': None, 'comments': 45, 'reposts': 1}
+{'id': '4283910358289136', 'text': '中南财经政法大学文澜心语\n愿你在被打击时，记起你的珍贵，抵抗恶意\n愿你在迷茫时，坚信你的珍贵\n爱你所爱，行你所行，听从你心，无问西东\n——《无问西东》\n\n晚安，中南大', 'attitudes': None, 'comments': 3, 'reposts': 19}
+{'id': '4283897120393870', 'text': '月弯弯，落晓南 查看图片 //@郑州大学:眉湖月，月弯弯 查看图片', 'attitudes': None, 'comments': 14, 'reposts': 9}
+{'id': '4283885225262433', 'text': '中南财经政法大学#文澜推荐#\n如果你喜欢在夜里读书，这里有九本还算应景的书推荐～via 书单少年', 'attitudes': None, 'comments': 1, 'reposts': 17}
+{'id': '4283844398385605', 'text': '中南财经政法大学#文澜译站#\nYou cannot escape the responsibility of tomorrow by evading it today.\n——Abraham Lincoln\n\n你不能藉由今天的回避，来逃脱明天的责任。', 'attitudes': None, 'comments': 2, 'reposts': 1}
+{'id': '4283774558641556', 'text': '中南财经政法大学#文澜微课堂#\n宇宙真浪漫啊，天文学家真浪漫啊[给你小心心]\nvia @张维托', 'attitudes': None, 'comments': 4, 'reposts': 17}
+{'id': '4283744833461180', 'text': '中南财经政法大学#乐活中南#\n快到饭点了，来互相安利一下学校的美食吧\n\n菌菌觉得八食堂的养生汤还不错哦', 'attitudes': None, 'comments': 16, 'reposts': 3}
+{'id': '4283718581195737', 'text': '文澜心语\n有时候觉得“如约而至”是个多么美好的词，等的很苦，却从不辜负。——路明\n\n早安，中南大', 'attitudes': None, 'comments': 4, 'reposts': 10}
+{'id': '4283575014783988', 'text': '#深夜语人生# 来推荐一下你最近单曲循环的歌吧[给你小心心]', 'attitudes': None, 'comments': 142, 'reposts': 3}
+{'id': '4283561874003057', 'text': '中南财经政法大学#军训那些事儿#\n知道你们都想看军助大显身手啦！\n可盐可甜会跳《青春修炼手册》的军助\n快来pick吧！\n视频:信息与安全工程学院 廖楚依 中南财经政法大学的秒拍视频', 'attitudes': None, 'comments': 16, 'reposts': 4}
+{'id': '4283553166387867', 'text': '#军训那些事儿# #开学季#\n中南·唱歌端腿·大学，大家了解一下？\n视频:法学院 高凌霄 中南财经政法大学的秒拍视频', 'attitudes': None, 'comments': 2, 'reposts': 4}
+{'id': '4283539334346219', 'text': '文澜心语\n其实，我们每个人都是天地间的过客。\n一个人的声音和足迹，\n如果能被另一个人深深的怀念和铭记，\n这就是永恒。\n——三毛\n晚安，中南大', 'attitudes': None, 'comments': 4, 'reposts': 7}
+{'id': '4283453938042968', 'text': '#文澜译站#\nNo one can make you feel inferior without your consent.\n\n未经你的许可，没人能让你妄自菲薄。\n——埃莉诺·罗斯福', 'attitudes': None, 'comments': 0, 'reposts': 1}
+{'id': '4283438351161278', 'text': '#文澜贴士# 【TED演讲：只需20个小时，你就能学会任何事情】Josh Kaufman通过研究发现，只需要20个小时，你就可以学会任何你想学的东西，不管是一门语言、一项技术还是一种乐器，只要懂得适当的方法，都可以快速的掌握。via.实用干货 实用干货的秒拍视频 实用干货的秒拍视频', 'attitudes': None, 'comments': 2, 'reposts': 24}
+{'id': '4283423273201452', 'text': '#军训那些事儿# #开学季#\n满江红·军忆\n九月艳阳，中南大、声声战歌。少年人，铁血风骨，凌云壮志。黄鹤楼下笑与泪，首义场外汗与血。看我辈，坚强不后退，军魂烈！\n旧岁月，未曾远。今年华，已书写！着军装，携手踏_上征程。江山代代人才出，一八人人不认输。观未来、有我青年在，国富强。\n\n文 ...全文', 'attitudes': None, 'comments': 10, 'reposts': 3}
+{'id': '4283401475841705', 'text': '#开学季# #军训那些事儿# 中南大新生军训采访第二期新鲜出炉啦你觉得军训让你有哪些收获呢？或者有没有想对教官军助说的话呢？快来评论区留言吧[给你小心心]\n战地记者:廖楚依 陈璇\n视频制作:工商管理学院 吕沅羲 中南财经政法大学的秒拍视频', 'attitudes': None, 'comments': 2, 'reposts': 3}
+{'id': '4283384383419021', 'text': '#就业冲锋号# 【这份面试问答集锦，转给正在找工作的TA！】 via.央视新闻', 'attitudes': None, 'comments': 3, 'reposts': 34}
+{'id': '4283363780943077', 'text': '#文澜微课堂#秋招进行时，同学们都准备好了吗？各种求职类手机APP+各地高校毕业生就业信息网+各高校就业指导中心网站……都帮你整理好啦↓↓ 总有一个你用得上！ via.人民网', 'attitudes': None, 'comments': 0, 'reposts': 21}
+{'id': '4283342637666837', 'text': '我发表了头条文章:《繁华锦里，落叶长安，不及江城秋日宴\n》 繁华锦里，落叶长安，不及江城秋日宴', 'attitudes': None, 'comments': 6, 'reposts': 4}
+{'id': '4283322106308765', 'text': '文澜心语\n给时光以生命，而不是给生命以时光。\n——帕斯卡\n早安，中南大', 'attitudes': None, 'comments': 5, 'reposts': 3}
+{'id': '4283207513767989', 'text': '文澜心语 其实，很多时候，人的价值，就是因为你放弃了什么而决定的。\n你放弃了世俗所追逐的一切，你就具有了超越世俗的价值。\n晚安，中南大', 'attitudes': None, 'comments': 2, 'reposts': 5}
+{'id': '4283159560232193', 'text': '#军训那些事儿#中南财经政法大学 三团八营五连的小姐姐自弹自唱说散就散~好听到哭泣~via. 工商管理学院 刘欣然 中南财经政法大学的秒拍视频', 'attitudes': None, 'comments': 5, 'reposts': 1}
+{'id': '4283138626756595', 'text': '#文澜微课堂# 【九关普通话读音测试，你能过到第几关】你在考场上为“请帖、碑帖、服帖”的读音纠结过吗？“啁啾”“趑趄”“扺掌而谈”，这些词你都能读对吗？每年9月第三周为全国推广普通话宣传周，你的普通话标准吗？来试试这套进阶版普通话读音小测试↓↓转发，@ 小伙伴一起来挑战！ ...全文', 'attitudes': None, 'comments': 1, 'reposts': 5}
+{'id': '4283103801310461', 'text': '#新时代@教育# 传播知识、传播思想、传播真理，塑造灵魂、塑造生命、塑造新人', 'attitudes': None, 'comments': 2, 'reposts': 3}
+{'id': '4283092518470716', 'text': '#军训那些事儿# 经济学院的同学画的教官和军助来pick一下你的教官和军助吧', 'attitudes': None, 'comments': 6, 'reposts': 4}
+{'id': '4283090769490401', 'text': '#军训那些事儿#中南财经政法大学\n正步和《观沧海》搭配，效果很好哦\n苦中作乐，诗意军训\nvia金融学院陈嘉浩 中南财经政法大学的秒拍视频', 'attitudes': None, 'comments': 7, 'reposts': 4}
+{'id': '4283057983068356', 'text': '#文澜译站# “She said that she would dance with me if I brought her red roses,”cried the young student,"but in all my garden there is no red rose."\n"她说只要我为她采一朵红玫瑰，便与我跳舞。"青年学生哭着说，"可是我的花园哪里有红玫瑰。"', 'attitudes': None, 'comments': 1, 'reposts': 2}
+{'id': '4282964152193713', 'text': '文澜心语 人与人接壤，能述说的仅是片面辰光，一两桩人情世故而已。能说的，都不是最深的孤独。\n——简媜\n早安，中南大', 'attitudes': None, 'comments': 2, 'reposts': 5}
+{'id': '4282845998217292', 'text': '文澜心语如果世间真有这么一种状态：心灵十分充实和宁静，既不怀恋过去也不奢望将来，放任光阴的流逝而仅仅掌握现在，无匮乏之感也无享受之感，不快乐也不忧愁，既无所求也无所惧，而只感受到自己的存在，处于这种状态的人就可以说自己得到了幸福。\n——卢梭\n晚安，中南大', 'attitudes': None, 'comments': 2, 'reposts': 8}
+{'id': '4282844254060183', 'text': '#深夜语人生# 想对自己的中学老师说些什么呢', 'attitudes': None, 'comments': 11, 'reposts': 3}
+{'id': '4282813689829241', 'text': '#文澜贴士# 【认为自己虚度时光的同学看过来！如何更好的管理你的时间?】你是否经常发现，工作了一天，却没有完成一件事？一整天下来，也没什么成就感？很可能是你不太擅长时间管理！虽说我们不可能百分百完全利用好自己的时间，但是，只要大部分的时间我们有效的管理好，就会进步，做得更好。 ...全文', 'attitudes': None, 'comments': 0, 'reposts': 13}
+{'id': '4282790880585905', 'text': '#文澜译站# You teach me right from wrong\n\nInspire me to be strong\n\nYou care in every way\n\nIn my heart you will always stay', 'attitudes': None, 'comments': 0, 'reposts': 0}
+{'id': '4282741783025083', 'text': '#军训那些事儿# 来自战地记者的军训实录集锦\n拍摄制作者:公共管理学院 石羽 中南财经政法大学的秒拍视频', 'attitudes': None, 'comments': 8, 'reposts': 4}
+{'id': '4282732597437513', 'text': '#军训那些事儿# 今日的升旗仪式\n拍摄者:金融学院 陈嘉浩 中南财经政法大学的秒拍视频', 'attitudes': None, 'comments': 3, 'reposts': 3}
+{'id': '4282640091547575', 'text': '#致我们可爱的老师# 尊师重教是中华美德，每一位老师都带给学生独一无二的记忆。今天小编为大家带来中南财经政法大学的八位男神女神老师，祝老师们节日快乐哦@摩天轮时光 摩天轮时光的秒拍视频', 'attitudes': None, 'comments': 81, 'reposts': 120}
+{'id': '4282618587360298', 'text': '文澜心语“悲喜自渡\n他人难悟易误”\n早安，中南大', 'attitudes': None, 'comments': 3, 'reposts': 7}
+{'id': '4282481048416569', 'text': '#军训那些事儿#中南财经政法大学\n看到预告，想必接下来军训会有更多的精彩\nvia.金融1806王伟\n中南财经政法大学的秒拍视频', 'attitudes': None, 'comments': 1, 'reposts': 2}
+{'id': '4282477286244555', 'text': '文澜心语\n老人说，\n今天他来晚了，钓的是一篓暮色。\n明天他要起早，一定能钓到一江朝阳。\n\n——《暮色里的快乐》\n\n晚安，中南大~', 'attitudes': None, 'comments': 3, 'reposts': 3}
+{'id': '4282474625767848', 'text': '#军训那些事儿#中南财经政法大学\n用一段悠扬的手风琴演奏，伴随大家进入甜蜜的梦乡吧\n\n摄影记者：信息1805廖楚依 中南财经政法大学的秒拍视频', 'attitudes': None, 'comments': 3, 'reposts': 3}
+{'id': '4282453181586854', 'text': '#军训那些事儿#中南财经政法大学\n教官沙哑的嗓音配上《故乡》 中南财经政法大学的秒拍视频', 'attitudes': None, 'comments': 23, 'reposts': 16}
+{'id': '4282446860615928', 'text': '#深夜语人生# 你最近有丢过什么东西吗', 'attitudes': None, 'comments': 19, 'reposts': 0}
+{'id': '4282435737102564', 'text': '#军训那些事儿#中南财经政法大学\n一起来欣赏来自法学院的新疆小姐姐卡迪尔亚木的异域风情舞蹈吧～\nvia.法学院 王亦婷中南财经政法大学的秒拍视频', 'attitudes': None, 'comments': 13, 'reposts': 8}
+{'id': '4282387838410093', 'text': '#军训那些事儿#中南财经政法大学\n一起来欣赏师兄师姐们的表演吧\n\nvia.工商管理学院 刘欣然\n中南财经政法大学的秒拍视频', 'attitudes': None, 'comments': 4, 'reposts': 2}
+{'id': '4282386059695148', 'text': '#文澜译站# Women must be able to deal with lies, tolerate perfunctory responses, endure deceptions, forget promises and let go of everything.\n-----人一定要经得起假话， 受得起敷衍， 忍得住欺骗， 忘得了诺言， 放得下一切。', 'attitudes': None, 'comments': 2, 'reposts': 8}
+{'id': '4282362424814703', 'text': '#军训那些事儿#中南财经政法大学\n下午的会操现场\n\n图源.工商管理学院 吕沅羲', 'attitudes': None, 'comments': 5, 'reposts': 1}
+{'id': '4282337460087142', 'text': '#军训那些事儿#中南财经政法大学\n唯一一个集体在树荫下的连\n幸福\n\nvia.法学院 王雪如', 'attitudes': None, 'comments': 4, 'reposts': 2}
+{'id': '4282314856779878', 'text': '#文澜贴士# 【一段手绘动画长知识 白露之露从何而来？】“白露秋风夜，一夜凉一夜”白露至，秋意浓，今天就是白露了，你了解这个节气吗？白露到啦，大家要注意保暖呦～戳视频↓ ↓ ↓via.cctv生活圈\n央视新闻的秒拍视频', 'attitudes': None, 'comments': 0, 'reposts': 2}
+{'id': '4282311345971016', 'text': '#军训那些事儿#中南财经政法大学\n坚毅的目光，挺拔的军姿让你更美～\n\n图源.金融学院 刘若薇', 'attitudes': None, 'comments': 6, 'reposts': 2}
+{'id': '4282280358573205', 'text': '#军训那些事儿#中南财经政法大学\n今天的军训迎来了新朋友~\nvia.工商管理学院 陈晓艺', 'attitudes': None, 'comments': 7, 'reposts': 1}
+{'id': '4282269428411068', 'text': '#文澜微课堂# 【19公务员行测常识积累：100组必备高频成语】想要出口成章、妙笔生花，成语储备不能少，写文章时想用成语，可提笔就写错字？是时候重温成语知识，提高语文水平了！100组必备成语↓转给小伙伴，多积累，同进步！ via.微课堂', 'attitudes': None, 'comments': 3, 'reposts': 54}
+{'id': '4282243897568055', 'text': '文澜心语\n有一个夜晚我烧毁了所有的记忆,从此我的梦就透明了。有一个早晨我扔掉了所有的昨天,从此我的脚步就轻盈了。\n——泰戈尔\n早安，中南大~', 'attitudes': None, 'comments': 6, 'reposts': 11}
+{'id': '4282119477580691', 'text': '文澜心语 愿你，含笑入眠，笑对朝阳，一天比一天优秀！\n晚安💤中南大', 'attitudes': None, 'comments': 5, 'reposts': 3}
+{'id': '4282108547044971', 'text': '#深夜语人生# 开学的第一个周末，你做了些什么？\n（菌菌吃了好吃的食堂，分享一下今天吃的油泼面）', 'attitudes': None, 'comments': 22, 'reposts': 0}
+{'id': '4282093322463368', 'text': '#军训那些事儿#中南财经政法大学\n古典舞《采薇》了解一下\n如此多才多艺的小姐姐\nvia工商管理学院 刘欣然 中南财经政法大学的秒拍视频', 'attitudes': None, 'comments': 13, 'reposts': 4}
+{'id': '4282076428101418', 'text': '#军训那些事儿#中南财经政法大学\n晚间训练间隙，教官演唱《告白气球》，声线很迷人呀\n我们的教官真的是才艺双全\nvia工商管理学院 苏茹冰\n中南财经政法大学的秒拍视频', 'attitudes': None, 'comments': 2, 'reposts': 2}
+{'id': '4282075219358586', 'text': '#军训那些事儿#中南财经政法大学\n晚间训练的欢乐\n菌菌友情提醒，BGM很带感哦\nvia中韩新媒体学院 罗羽洁 中南财经政法大学的秒拍视频', 'attitudes': None, 'comments': 1, 'reposts': 3}
+{'id': '4282060640782018', 'text': '#军训那些事儿#中南财经政法大学\n我虽然年纪小，但也想和你们一起军训\nvia法学院高凌霄 中南财经政法大学的微博视频', 'attitudes': None, 'comments': 4, 'reposts': 1}
+{'id': '4282038066429020', 'text': '#文澜推荐# 那些评价爆表不能错过的刑侦推理剧，每一部都可以让你看到废寝忘食，喜欢这种类型的别错过了\nvia思想聚焦', 'attitudes': None, 'comments': 3, 'reposts': 39}
+{'id': '4281999532994196', 'text': '#乐活中南#曾经的语文课本插图，有你的回忆吗？via微课堂', 'attitudes': None, 'comments': 6, 'reposts': 12}
+{'id': '4281968688575310', 'text': '#军训那些事儿#中南财经政法大学\n为了动作标准，手势得当，也是很拼了\nvia统计与数学学院 葛书乐', 'attitudes': None, 'comments': 58, 'reposts': 9}
+{'id': '4281968016934044', 'text': '#文澜贴士# 【午睡也是“技术活”10分钟？30分钟？是时候告诉你真相了】工作了一上午，中午如果不休息，下午就可能会犯困，影响工作效率。那么，午休到底需要多长时间呢？这是有讲究的。好的午觉不需太长时间，从6分钟到40分钟，你都可以收获不同的益处。\nvia新华网', 'attitudes': None, 'comments': 1, 'reposts': 10}
+{'id': '4281949838781840', 'text': '#文澜译站# The key to winning is poise under stress. —— Paul Brown', 'attitudes': None, 'comments': 0, 'reposts': 2}
+{'id': '4281927399124744', 'text': '#军训那些事儿#中南财经政法大学\n今天虽为周六，新Zuelers依然坚守在军训的第一线[加油]顶着烈日，伴着微风，飒爽英姿，为你们鼓掌！\nvia信息与安全工程学院廖楚依\n哲学院李银钊', 'attitudes': None, 'comments': 7, 'reposts': 1}
+{'id': '4281870453071830', 'text': '文澜心语 假如你不够快乐，也不要把眉头深锁，人生本来短暂为什么还要栽培苦涩。 ——汪国真\n早安！中南大～\n开学的第一个周末，祝各位周末愉快', 'attitudes': None, 'comments': 4, 'reposts': 3}
+{'id': '4281764023222501', 'text': '中南财经政法大学文澜心语\n拥有自由、书、花和月亮，哪有人会不快乐？——奥斯卡·王尔德\n晚安，中南大', 'attitudes': None, 'comments': 3, 'reposts': 4}
+{'id': '4281757811055945', 'text': '#军训那些事儿#中南财经政法大学\n今日份的夜训\nvia.工商管理学院谢宛霖\n哲学院李银钊\n统计与数学学院子濬\n法学院李佳祺\n统计与数学学院葛书乐', 'attitudes': None, 'comments': 4, 'reposts': 1}
+{'id': '4281749712073555', 'text': '#深夜语人生# 你的姓氏里，最出名的是谁？', 'attitudes': None, 'comments': 65, 'reposts': 1}
+{'id': '4281746247582570', 'text': '#军训那些事儿##开学季# 藏族小姐姐的民族舞了解一下\nvia.工商管理学院刘欣然 中南财经政法大学的秒拍视频', 'attitudes': None, 'comments': 2, 'reposts': 2}
+{'id': '4281734898063033', 'text': '#军训那些事儿##开学季#\n大运场上有个唱法语歌的小哥哥呀\nvia. 公共管理学院祁婧仪\n中南财经政法大学的秒拍视频', 'attitudes': None, 'comments': 12, 'reposts': 8}
+{'id': '4281712852253795', 'text': '#军训那些事儿##开学季##乐活中南#\n军助小姐姐教防身术了解一下？\nvia.财政税务学院董玥\n中南财经政法大学的秒拍视频', 'attitudes': None, 'comments': 0, 'reposts': 2}
+{'id': '4281711020311500', 'text': '#军训那些事儿##开学季##乐活中南#\n2018级军训进行到现在，快来看看有哪些精彩瞬间吧中南财经政法大学\n视频制作：工商管理学院吕沅羲 中南财经政法大学的秒拍视频', 'attitudes': None, 'comments': 3, 'reposts': 7}
+{'id': '4281664140169723', 'text': '#军训那些事##开学季##乐活中南#\n军训之余还能发现中南大多才多艺的小姐姐\n视频via.统计与数学学院子濬\n中南财经政法大学的秒拍视频', 'attitudes': None, 'comments': 2, 'reposts': 3}
+{'id': '4281657807115358', 'text': '#军训那些事儿##开学季##乐活中南#\n你想对军训说什么？你想对教官说什么？你想对战友说什么？\n\n戳开我们战地记者的最前线报道！ 中南财经政法大学的秒拍视频', 'attitudes': None, 'comments': 1, 'reposts': 3}
+{'id': '4281645986816742', 'text': '#文澜译站# Love alters not with his brief hours and weeks,\nBut bears it out even to the edge of doom.\n爱并不因瞬息的改变而改变，它巍然矗立直到末日的尽头。\n——莎士比亚', 'attitudes': None, 'comments': 0, 'reposts': 2}
+{'id': '4281596180192612', 'text': '#军训那些事##开学季#\n军训场上同学们英姿飒爽，军训中的那些细节，你可曾留意过？\n你还记得你军训那年的小趣闻吗？\n图via 工商管理学院陈晓艺 金融学院佘傲雪 外国语学院刘年\n哲学院李银钊 外国语学院陈钰佳 信息与安全工程学院梅嘉元', 'attitudes': None, 'comments': 2, 'reposts': 2}
+{'id': '4281566698232778', 'text': '#军训那些事##开学季##乐活中南#\n这是哪首歌，军训过的pong友们还记得吗？\nvia 新闻与文化传播学院 吴禧梅 中南财经政法大学的秒拍视频', 'attitudes': None, 'comments': 7, 'reposts': 1}
+{'id': '4281535122846401', 'text': '#军训那些事##开学季##乐活中南#\n早上好呀 今天降温啦！\n场上的小姐姐小哥哥们在军训呀，我长大后也上场吗？\nvia 金融学院陈嘉浩 工商管理学院苏茹冰 公共管理学院石羽', 'attitudes': None, 'comments': 6, 'reposts': 3}
+{'id': '4281522918020710', 'text': '中南财经政法大学文澜心语\n你应该是一场梦，我应该是一阵风。\n——顾城《你和我》\n早安，中南大', 'attitudes': None, 'comments': 3, 'reposts': 3}
+{'id': '4281402624634391', 'text': '中南财经政法大学#深夜语人生#\n在校园里你遇到了哪些可爱的小动物呢\n\n图片来源：工商管理学院 李易芹', 'attitudes': None, 'comments': 9, 'reposts': 0}
+{'id': '4281398418449429', 'text': '中南财经政法大学文澜心语\n世界上有两种长大的方式，一种是明白了，\n一种是忘记了明白不了的，心中了无牵挂。\n所有人都用后一种方式长大。\n——冯唐 《万物生长》\n晚安，中南大', 'attitudes': None, 'comments': 0, 'reposts': 2}
+{'id': '4281388109131321', 'text': '#军训那些事#\n是时候展现真正舞姿了\n不服，就来才艺battle\n视频来源：公共管理学院 石羽 中南财经政法大学的秒拍视频', 'attitudes': None, 'comments': 10, 'reposts': 3}
+{'id': '4281374796632621', 'text': '中南财经政法大学#军训那些事#\n晚训的你们也很棒哦[加油]\n腿部酸痛的话可以用热水泡脚，\n然后记得早点休息，\n明天又是元气满满的一天\n图片：外国语学院 刘年\n公共管理学院 石羽\n工商管理学院 董玥', 'attitudes': None, 'comments': 14, 'reposts': 1}
+{'id': '4281333734146956', 'text': '#军训那些事##开学季#\n点点微光伴，一起喵喵喵\nvia 金融学院 刘若薇 中南财经政法大学的微博视频', 'attitudes': None, 'comments': 35, 'reposts': 18}
+{'id': '4281324078341417', 'text': '#军训那些事##开学季##乐活中南#\n训练间隙，来欣赏一段炫酷的B-box表演吧\nvia 工商管理学院 陈璇 中南财经政法大学的秒拍视频', 'attitudes': None, 'comments': 3, 'reposts': 2}
+{'id': '4281296815756328', 'text': '#开学季# #军训那些事# #乐活中南#雨中军训，水中倒影。\n从倒影里，你是否能找到自己？\n图片via 外国语学院 陈钰佳', 'attitudes': None, 'comments': 2, 'reposts': 2}
+{'id': '4281294822872376', 'text': '中南财经政法大学#文澜译站#\nHave more than you show, speak less than you know.\n怀璧慎显，博识谨言。\n——莎士比亚《李尔王》', 'attitudes': None, 'comments': 0, 'reposts': 3}
+{'id': '4281280521186137', 'text': '#开学季# #军训那些事# #乐活中南# 不管是艳阳高照，还是风雨来临，都昂首挺立。\n那么你军训的那一年，是什么样的天气？\n\n图片via金融学院王伟 @tonriy 外国语学院刘年 金融学院陈嘉浩', 'attitudes': None, 'comments': 4, 'reposts': 3}
+{'id': '4281230666908107', 'text': '#军训那些事##开学季##乐活中南#\n军姿飒爽，挺拔前望！\nvia 外国语学院 陈钰佳\n@我的时间才刚刚流转1218', 'attitudes': None, 'comments': 2, 'reposts': 0}
+{'id': '4281202485004802', 'text': '中南财经政法大学#文澜微课堂#\n如何高效地做出精美的ppt？via实用干货', 'attitudes': None, 'comments': 3, 'reposts': 61}
+{'id': '4281154419248793', 'text': '中南财经政法大学文澜心语\n我们领教了世界是何等凶顽，同时又得知世界也可以变得温存和美好。——村上春树\n早安，中南大', 'attitudes': None, 'comments': 6, 'reposts': 6}
+{'id': '4281042011983318', 'text': '文澜心语\n我们仍需共生命的慷慨与繁华相爱，即使岁月以刻薄与荒芜相欺。\n——七堇年\n晚安，中南大', 'attitudes': None, 'comments': 6, 'reposts': 3}
+{'id': '4281027599865165', 'text': '#深夜语人生# 又是一年军训时，还记得你们喊过的口号或者教官的口头禅吗', 'attitudes': None, 'comments': 26, 'reposts': 3}
+{'id': '4281017218609444', 'text': '#军训那些事# #开学季#\n第三回:军训的夜晚，悠扬动听的歌声，似乎能洗去一天的疲惫呢。\n(想知道小哥哥是谁吗？)\n(菌菌不告诉你)\n视频via.统计与数学学院子濬 中南财经政法大学的秒拍视频', 'attitudes': None, 'comments': 5, 'reposts': 6}
+{'id': '4281012509044135', 'text': '恭喜@奋斗寻找gift的羊羔 1名用户获得【小米8手机一部】。微博官方唯一抽奖工具@微博抽奖平台 对本次抽奖进行监督，结果公正有效。公示链接：微博抽奖平台', 'attitudes': None, 'comments': 2, 'reposts': 2}
+{'id': '4281004039897343', 'text': '#军训那些事##开学季#\n“团结就是力量”\nVia.@Joyceune 中南财经政法大学的秒拍视频', 'attitudes': None, 'comments': 5, 'reposts': 11}
+{'id': '4281001381164184', 'text': '#军训那些事##开学季#\n军训进行时，夜晚的你们也依旧耀眼\nVia.@孤笁 中南财经政法大学的秒拍视频', 'attitudes': None, 'comments': 11, 'reposts': 7}
+{'id': '4280917880631324', 'text': '#乐活中南# 你打喷嚏是什么声音？', 'attitudes': None, 'comments': 79, 'reposts': 33}
+{'id': '4280912109641283', 'text': '中南大迎来新主人|故事花絮大放送(还有航拍视频哦)[给你小心心]戳链接了解一下吧👉 网页链接', 'attitudes': None, 'comments': 3, 'reposts': 1}
+{'id': '4280889317404849', 'text': '#文澜译站#\nThe longest way must have its close,the gloomiest night will wear on to amorning.\n\n最长的路也有尽头，最黑暗的夜晚也会迎接清晨。——《汤姆叔叔的小屋》', 'attitudes': None, 'comments': 2, 'reposts': 6}
+{'id': '4280866387013013', 'text': '#文澜微课堂# 到现在还不会说武汉话吗？赶快学起来吧！欢迎留言补充哦。via.武汉玩乐日记 武汉·中南财经政法大学', 'attitudes': None, 'comments': 10, 'reposts': 10}
+{'id': '4280825435009019', 'text': '#文澜贴士# 超全的生活小贴士，码走备用\ncr:大学生自学墙', 'attitudes': None, 'comments': 4, 'reposts': 32}
+{'id': '4280782781987227', 'text': '文澜心语\n与其互为人间，不如自成宇宙。\n——七堇年\n早安，中南大~', 'attitudes': None, 'comments': 7, 'reposts': 7}
+{'id': '4280673361438484', 'text': '文澜心语 在这个世界上，所有真性情的人，想法总是与众不同。\n\n——沈从文《边城》 晚安，中南大', 'attitudes': None, 'comments': 5, 'reposts': 5}
+{'id': '4280640269187321', 'text': '#深夜语人生# 开学后你上的第一堂课是什么？', 'attitudes': None, 'comments': 18, 'reposts': 0}
+{'id': '4280528016455004', 'text': '#文澜译站# The world is changing perpetually; the crowd is flowing endlessly. All that I ever want,is for you to be by my side with every sunset.\n世界变化不停，人潮川流不息。\n我只想每个日落，身边都有你。', 'attitudes': None, 'comments': 5, 'reposts': 6}
+{'id': '4280448668853810', 'text': '中南财经政法大学中南财经政法大学2018级研究生开学典礼于今日举行\n砥砺德行 守望正义 崇尚创新 止于至善\n博文明理 厚德济世\n欢迎新同学 中南财经政法大学的微博视频', 'attitudes': None, 'comments': 28, 'reposts': 7}
+{'id': '4280447611167532', 'text': '文澜心语 “口味单调一点、耳音差一点，也还不要紧，最要紧的是对生活的兴趣要广一点。”早安，中南大', 'attitudes': None, 'comments': 1, 'reposts': 0}
+{'id': '4280311510412591', 'text': '文澜心语每个人的生命中，都有最艰难的那一年，将人生变得美好而辽阔。——《岛上书店》\n晚安，中南大', 'attitudes': None, 'comments': 2, 'reposts': 2}
+{'id': '4280299086666670', 'text': '#深夜语人生# 开学第一天，开心吗？', 'attitudes': None, 'comments': 31, 'reposts': 0}
+{'id': '4280288224159871', 'text': '恭喜@大姚小瑶V 1名用户获得【大礼包】。微博官方唯一抽奖工具@微博抽奖平台 对本次抽奖进行监督，结果公正有效。公证链接：微博抽奖平台', 'attitudes': None, 'comments': 6, 'reposts': 1}
+{'id': '4280258062421535', 'text': "#文澜译站# When we focus on what matters, we can build the lives we want in the time we've got.", 'attitudes': None, 'comments': 1, 'reposts': 0}
+{'id': '4280225137164258', 'text': '#文澜贴士# 【大一15斤压成肥宅?】在适应大学新生活的同时也请注意自己的营养摄入，别忽视最重要的锻炼哦！祝大家平安健康度过大学时光！开学季Psych2go中文站的秒拍视频', 'attitudes': None, 'comments': 0, 'reposts': 4}
+{'id': '4280137191719400', 'text': '#文澜微课堂# 【奥巴马开学演讲：我们为什么要上学】2009年9月，奥巴马在弗吉尼亚州阿灵顿县韦克菲尔德高中发表开学演讲。通过自身的经历，阐述了责任、勤奋、恒心等对于成长的意义，鼓励孩子们追求梦想，坚持不懈。今天来读，仍然颇受启发！#小编甲2.0晚安打卡#奥巴马开学演讲', 'attitudes': None, 'comments': 2, 'reposts': 15}
+{'id': '4280078433459899', 'text': '文澜心语越努力，越优秀；越独立，越自由。\n早安，中南大', 'attitudes': None, 'comments': 5, 'reposts': 6}
+{'id': '4279940679105430', 'text': '文澜心语\n他们说人生有六个字，前面三个是“不害怕”，后面还有三个，“不后悔”，努力去做吧。\n——董卿\n晚安，中南大~', 'attitudes': None, 'comments': 0, 'reposts': 4}
+{'id': '4279893576948897', 'text': '#深夜语人生#\n新学期，我一定要变_____。', 'attitudes': None, 'comments': 30, 'reposts': 5}
+{'id': '4279877827389972', 'text': '#文澜译站#\nAn "I miss you" would only be worth if there\'s an "I miss you too" in return.\n\n“我想你”只有在得到“我也想你”的回应后才是价值的。', 'attitudes': None, 'comments': 0, 'reposts': 5}
+{'id': '4279825465791344', 'text': '#乐活中南#\n2018迎新首日 | 雨过天晴，认识你很高兴！\n你是否看到了自己当年或现在的身影\n网页链接', 'attitudes': None, 'comments': 5, 'reposts': 3}
+{'id': '4279819384652964', 'text': '#文澜微课堂# 【TED演讲| 智商超过爱因斯坦，这个天才男孩儿却差点被埋没】Jacob Barnett8岁自学大学课程，10岁被知名大学录取，15岁时进入世界顶尖物理研究所攻读量子物理硕士学位，而他2岁时却曾被诊断为智力有缺陷。做这个演讲时Jacob仅13岁，已是国际物理学家，他说：忘掉自己知道的一切吧。。。 ...全文', 'attitudes': None, 'comments': 2, 'reposts': 11}
+{'id': '4279791173117314', 'text': '#文澜推荐# 20本经典书目＋50本各学科领域入门书）又是一年九月开学季，新学期你有阅读目标吗？据国内各高校图书馆借阅数据，流行读物最受大学生青睐。大学时光宝贵，读书应多读经典之书，用经典构筑自己的精神大厦。20本经典书目＋50本各学科入门书，趁年轻，读经典，多积累，拓展自己的视野吧！转起 ...全文', 'attitudes': None, 'comments': 5, 'reposts': 26}
+{'id': '4279767622105436', 'text': '#文澜贴士# 【超实用！#十一假期火车票购票攻略#】今天起，十一假期火车票正式发售。通过网络和电话已经可以购买10月1日，即国庆当天的火车票啦！这个假期，你打算宅在家还是出去玩？怎么休年假，才能拼出“完美长假”？学生买票有啥优惠？……送你抢票攻略↓↓转给小伙伴，一块儿摆好抢票姿势！ ...全文', 'attitudes': None, 'comments': 1, 'reposts': 4}
+{'id': '4279717576787835', 'text': '文澜心语\n珍惜目前所有的人与事，时光飞逝，抓紧今日，得不到的东西不要去想它。\n——亦舒《直到海枯石烂》\n早安，中南大~', 'attitudes': None, 'comments': 2, 'reposts': 4}
+{'id': '4279579990335762', 'text': '文澜心语\n玻璃晴朗\n橘子辉煌\n一颗星星刹住车\n照亮了你我\n——北岛\n晚安💤中南大～\n大家都辛苦了，早点休息', 'attitudes': None, 'comments': 4, 'reposts': 3}
+{'id': '4279574513171636', 'text': '#深夜语人生# 用四字词语来描述一下你的开学第一天？', 'attitudes': None, 'comments': 50, 'reposts': 0}
+{'id': '4279525430904090', 'text': '中南财经政法大学又是一年#开学季#，C位报到，请开始你的表演！各位新zuelers，入学传统“新生爆照”了解一下？Don’t be shy，确认过眼神，你就是师兄or师姐的人啦！带话题#我与大学的第一张合照#在中南财经政法大学超级话题中发布自己与中南大的合照，并@中南财经政法大学+ ...全文', 'attitudes': None, 'comments': 10, 'reposts': 5}
+{'id': '4279524721968866', 'text': '面试就是明天有兴趣的一定不要错过呀～期待你的参与', 'attitudes': None, 'comments': 1, 'reposts': 1}
+{'id': '4279467071350167', 'text': "#文澜译站# Today's special moments are tomorrow's memories. 今日的特別时刻，将会成为明天的美好回忆。——《贾方复仇记》", 'attitudes': None, 'comments': 0, 'reposts': 3}
+{'id': '4279466308503932', 'text': '航拍首义 中南财经政法大学的微博直播 .', 'attitudes': None, 'comments': 20, 'reposts': 5}
+{'id': '4279440932849876', 'text': '下午份的直播~ 中南财经政法大学的微博直播 .', 'attitudes': None, 'comments': 17, 'reposts': 4}
+{'id': '4279401871344079', 'text': '新生报道直播 中南财经政法大学的微博直播 .', 'attitudes': None, 'comments': 5, 'reposts': 1}
+{'id': '4279379066315467', 'text': '首义校区新生报道直播 中南财经政法大学的微博直播 .', 'attitudes': None, 'comments': 51, 'reposts': 7}
+{'id': '4279374922580216', 'text': '今天的雨真是太大了\n同时考虑到雨天信号问题\n我们的直播不得不中断\n稍后进行\n敬请关注', 'attitudes': None, 'comments': 11, 'reposts': 0}
+{'id': '4279370790977230', 'text': '首义校区新生报道直播 中南财经政法大学的微博直播 .', 'attitudes': None, 'comments': 8, 'reposts': 2}
+{'id': '4279367423153670', 'text': '中南财经政法大学\n下大雨了，大家注意避雨哦\n我们的新生报道直播将推迟进行 中南财经政法大学的秒拍视频', 'attitudes': None, 'comments': 7, 'reposts': 1}
+{'id': '4279364906031618', 'text': '中南财经政法大学 由于今日武汉天气不作美雨下的有些大，因此直播向后推迟，向大家道歉\n雨停后直播会照常进行不见不散～', 'attitudes': None, 'comments': 5, 'reposts': 0}
+{'id': '4279345356888652', 'text': '中南财经政法大学\n今天上午九点首义校区新生报道直播，不见不散~', 'attitudes': None, 'comments': 5, 'reposts': 0}
+{'id': '4279328872903629', 'text': '文澜心语 世上的事，最令人回味的，是始和终这两端。——吉田兼好《徒然草》\n今天是暑假的终和新学期的始各位开学愉快\n早安！中南大～', 'attitudes': None, 'comments': 6, 'reposts': 8}
+{'id': '4279217379720429', 'text': '中南财经政法大学文澜心语\n这个世界的每一件伟大、美好事物，均诞生于人内心深处的一种想法或一种感受。\n——纪伯伦《暴风骤雨》\n晚安，中南大', 'attitudes': None, 'comments': 3, 'reposts': 6}
+{'id': '4279209784115592', 'text': '#深夜语人生# 快开学啦，大家应该都在学校或者赶来学校的路上啦，你们有没有什么特别怀念的学校里的食物呀', 'attitudes': None, 'comments': 13, 'reposts': 0}
+{'id': '4279185222166488', 'text': '#文澜译站# Then sigh not so, but let them go,\nand be you blithe and bonny,\nconverting all your soundswoe, into hey , nonny nonny!\n那么请别如此叹息，就让他们离去吧；\n你重焕快乐与美丽，\n将自己的所有悲泣，化作轻歌一曲。\n——莎士比亚《无事生非》', 'attitudes': None, 'comments': 2, 'reposts': 6}
+{'id': '4279130453935247', 'text': '中南财经政法大学\n你想参与中南财经政法大学校庆70周年宣传片的拍摄吗？现在招募演员啦！只要你形象气质俱佳，活泼开朗大方，男女生均可，都可以来报名哦\n如有意向可于9月2号（本周日）上午10点到中原楼304来参加面试。\n面试内容：自我介绍、简单的表演\n\n欢迎大家来踊跃参与呀！ ...全文', 'attitudes': None, 'comments': 51, 'reposts': 8}
+{'id': '4279106025731974', 'text': '中南财经政法大学明天就是18级新生报道的日子啦～\n菌菌上午会在首义校区进行现场直播哦\n欢迎大家来围观呀！', 'attitudes': None, 'comments': 10, 'reposts': 1}
+{'id': '4279071649255149', 'text': '#乐活中南##又到开学季#\n萌新们看过来 这里有一封来自心理健康教育咨询中心的邀请函\n只要是我校2018级新生家长，都可以报名参加哦\n\n详情戳→网页链接', 'attitudes': None, 'comments': 0, 'reposts': 0}
+{'id': '4279047809364830', 'text': '#文澜微课堂# 【100个常被误用的成语，看看你有没有用错！】二三其德、鞭辟入里、木人石心...你们都知道这些成语是什么意思吗？ via.微课堂', 'attitudes': None, 'comments': 2, 'reposts': 11}
+{'id': '4278987402337811', 'text': '中南财经政法大学文澜心语\n生活没这么复杂，种豆子和相思或许都得瓜，\n你敢试，世界就敢回答。\n——《冯唐诗百首》\n早安，中南大', 'attitudes': None, 'comments': 5, 'reposts': 1}
+{'id': '4278857324011167', 'text': '#深夜语人生#\n这个假期，你都去了哪些地方呀', 'attitudes': None, 'comments': 20, 'reposts': 3}
+{'id': '4278835320558942', 'text': '文澜心语\n孤独是关上灯，与发光的灵魂为伴。\n—— 贺伊曼\n晚安，中南大', 'attitudes': None, 'comments': 2, 'reposts': 4}
+{'id': '4278794204714642', 'text': '#文澜译站#\nBeing right half the time beats being half-right all the time.\n\n不怕半生皆是谬误，只怕一生似是而非。', 'attitudes': None, 'comments': 1, 'reposts': 8}
+{'id': '4278698859351337', 'text': '#文澜推荐#\n十部震撼又涨知识的绝美纪录片\n整理：楚尘文化\nvia实用干货', 'attitudes': None, 'comments': 2, 'reposts': 17}
+{'id': '4278644291501563', 'text': '#文澜贴士##又到开学季#\n【2018最后4个月，这些重要考试别错过！】①全国计算机等级考试：9月15-17日、12月8日；②法律职业资格考试：9月22日、10月20日；③中小学教师资格考试：11月3日；④大学英语四六级：12月15日；9-12月考试日历↓↓越努力，越幸运！ via人民网', 'attitudes': None, 'comments': 2, 'reposts': 22}
+{'id': '4278620040151307', 'text': '文澜心语\n可遇不可求的事\n后海有树的院子\n夏代有工的玉\n此时此刻的云\n二十来岁的你\n——冯唐\n早安，中南大', 'attitudes': None, 'comments': 6, 'reposts': 7}
+{'id': '4278483003430192', 'text': '#深夜语人生# 说一说最近让你幸福感爆棚的一件事吧[给你小心心]', 'attitudes': None, 'comments': 42, 'reposts': 0}
+{'id': '4278462187094735', 'text': '文澜心语\n什么时候我们开始无法像孩子一样肆意地大呼小叫了？心里的小情绪堆积得像山一样高，直到溢出来。 与其如此，不如永远像孩子一样。\n——《龙猫》\n晚安，中南大', 'attitudes': None, 'comments': 8, 'reposts': 6}
+{'id': '4278410647287442', 'text': '#乐活中南# 新的学期，从拒绝拖延开始', 'attitudes': None, 'comments': 16, 'reposts': 13}
+{'id': '4278374677982549', 'text': '#文澜微课堂# 【上了大学就轻松？别被骗，大学才是人生最关键的四年】你想象的大学生活是什么样？60分万岁？逃课也不会被发现？上了大学就轻松了？别被骗了！大学四年才是你真正独自面对未来人生选择的开始，千万不要浪费！戳图↓这个学期就开始改变自己吧！（曹梦媛 绘） via.中国新闻网', 'attitudes': None, 'comments': 6, 'reposts': 24}
+{'id': '4278346860865951', 'text': '#文澜贴士#\n【#开学季# 】暑假余额已不足，新的学期，你给自己定下什么目标了吗？大学时光短暂而又珍贵，千万别在刷剧打游戏中虚度！大学期间有哪些奖学金可以争取？平均绩点有啥用？什么证书可以为今后求职加分？大学自我提升指南，戳图↓↓充实起来，以梦为马，不负韶华via.人民日报', 'attitudes': None, 'comments': 3, 'reposts': 22}
+{'id': '4278316515612616', 'text': "#文澜译站#\nIt's the possibility of having a dream come true that makes life interesting.\n\n梦想有可能成为现实，生活因此而有趣。\n——《牧羊少年奇幻之旅》", 'attitudes': None, 'comments': 0, 'reposts': 6}
+{'id': '4278247947199464', 'text': '文澜心语\n所有随风而逝的都属于昨天的，所有历经风雨留下来的才是面向未来的。——《飘》\n早安，中南大', 'attitudes': None, 'comments': 10, 'reposts': 5}
+{'id': '4278150399986493', 'text': '文澜心语 放弃同样是一种选择，放弃并不是自己无能，而是因为自己有了更好的选择。有时候，放弃比坚持还需要勇气。晚安，中南大', 'attitudes': None, 'comments': 6, 'reposts': 2}
+{'id': '4278011962089806', 'text': '#中南财经政法大学# 欢迎来自五湖四海的萌新们\n你们即将开始令人激动的大学生活，为了让大家能更好地了解学校并提前做好准备，盈盈和正正特意制作了一份新生攻略\n快戳链接了解一下叭@2018级新生 | 攻略已到，我们等你！', 'attitudes': None, 'comments': 9, 'reposts': 2}
+{'id': '4278000821962478', 'text': '#文澜译站# 做回你自己，永远都不嫌晚。\nIt is never too late to be what you might have been.', 'attitudes': None, 'comments': 2, 'reposts': 4}
+{'id': '4277911203026555', 'text': '文澜心语 即使是最微弱的光，也能照亮一处黑暗。我们坚守自己的角色、发挥自己的价值，就会为这世界创造价值。早安，中南大。', 'attitudes': None, 'comments': 2, 'reposts': 1}
+{'id': '4277778423219326', 'text': '文澜心语风可以吹起一大张白纸，却无法吹走一只蝴蝶，因为生命的力量在于不顺从。——冯骥才\n晚安，中南大', 'attitudes': None, 'comments': 5, 'reposts': 5}
+{'id': '4277746769795686', 'text': '#深夜语人生##樱桃小丸子作者去世#感谢樱桃子女士，在这个不那么天真的世界里，为我们带来诸多美好、欢乐的童年回忆。\n\n“即使世界上的人都不偏袒小丸子，但我最、最、最、最偏袒小丸子！”\n\n在你的童年里，又是哪一位作者给你留下了美好回忆呢？\n\n菌菌先来，我是绿川幸和青山刚昌，你呢？', 'attitudes': None, 'comments': 7, 'reposts': 7}
+{'id': '4277731149418874', 'text': '#文澜译站# Trust that everything will work out for you. Maybe not exactly as you planned, but perfectly for the evolution of your soul.', 'attitudes': None, 'comments': 1, 'reposts': 3}
+{'id': '4277696554858252', 'text': '#文澜贴士# 【12 种超好吃的鸡肉的做法】辣子鸡、咖喱鸡、手撕鸡、茶油鸡、口水鸡、鸡米花、鸡肉丸子、玫瑰豉油鸡......你想吃哪一道？', 'attitudes': None, 'comments': 5, 'reposts': 16}
+{'id': '4277631836846038', 'text': '#文澜微课堂# 写论文、做调查专用数据网站，大学生涯中一定会用到，快快收好了~ #微课堂#', 'attitudes': None, 'comments': 243, 'reposts': 1363}
+{'id': '4277572076581221', 'text': '#你好新同学# 六月的汗水，七月的等待，八月肆意的放松，九月我们即将相遇。来到另一个城市，你的下一个驿站，我们将收获的许多未知，你又是否期待？在这里，盈盈正正将抽选一位幸运的新生，送上一份开学大礼包，精美礼物如下↓ 转发微博，并关注@中南财经政法大学 说说你自己最想要的智能装备是什么 ...全文', 'attitudes': None, 'comments': 850, 'reposts': 943}
+{'id': '4277529935755255', 'text': '文澜心语“读那么多书干什么呢？\n就是在紧要关头\n可以凭意志维持一点自尊\n人家不爱我们\n我们站起来就走\n不作无谓的纠缠”\n—— 亦舒\n早安，中南大', 'attitudes': None, 'comments': 5, 'reposts': 12}
+{'id': '4277395865157862', 'text': '文澜心语\n我们不肯探索自己本身的价值，我们过分看重他人在自己生命里的参与。于是，孤独不再美好，失去了他人，我们惶惑不安。\n——三毛\n晚安，中南大~', 'attitudes': None, 'comments': 2, 'reposts': 9}
+{'id': '4277369773226276', 'text': '#深夜语人生#\n暑期快结束的你倒了哪些flag\n\n菌菌：放假的时候明明下定决心背四级单词的……', 'attitudes': None, 'comments': 17, 'reposts': 2}
+{'id': '4277347399983023', 'text': '#文澜推荐# 【TED演讲精剪：如何成为一个好的交谈者？ 】十个要点使你成为好的交谈者：1.一心一意 2.放下己见 3.开放式问题 4.让观念流动 5.谨言 6.别拿自己和别人比较 7不要重复自己.8.忘掉细节 9.为理解倾听 10.对他人保持兴趣。每个人都有自身的精彩，多多和别人交流，学会倾听 via.微博教育\n...全文', 'attitudes': None, 'comments': 2, 'reposts': 14}
+{'id': '4277321706301231', 'text': '#文澜译站#\nBut it is the same with man as with the tree. The more he seeks to rise into the height and light, the more vigorously do his roots struggle earthward, downward, into the dark, the deep - into evil.\n\n其实人跟树是一样的，越是向往高处的阳光，它的根就越要伸向黑暗的地底 ...全文', 'attitudes': None, 'comments': 2, 'reposts': 7}
+{'id': '4277280261999212', 'text': '#文澜贴士#\n生如逆旅，一苇以航。\n保护好自己，我们在你背后。\n\n图源丁香医生', 'attitudes': None, 'comments': 3, 'reposts': 12}
+{'id': '4277251052944370', 'text': '#乐活中南# 一些windows用户们能懂的梗，你懂我意思吧\n图源英国报姐（侵删）', 'attitudes': None, 'comments': 2, 'reposts': 6}
+{'id': '4277233335854731', 'text': '#文澜微课堂# 【拉开人与人之间差距的，往往是思维方式】有时，你感觉一直在努力，却从没走出失败的怪圈；有时，你想提升自己，却总找不到方法。你的失败，可能源于思路太窄。在更高的思维层次上改变，才能让你真正前进起来。忽略结果、彻底坦诚、突破临界点…9种高效思维方式↓↓今天起改变，让努力看 ...全文', 'attitudes': None, 'comments': 0, 'reposts': 11}
+{'id': '4277217053356446', 'text': '文澜心语\n不是所有的错误都可以被原谅，也不是所有的伤痛都可以被抚平，总也有时间也无能无力的事情。\n——《海边的曼彻斯特》\n午安，中南大~', 'attitudes': None, 'comments': 5, 'reposts': 6}
+{'id': '4277040561997633', 'text': '文澜心语 让更多黑暗的地方光明起来，这个世界才安全美好！\n晚安！中南大❤️', 'attitudes': None, 'comments': 6, 'reposts': 2}
+{'id': '4276891475178915', 'text': '#乐活中南# 当代我国佛系青年高频使用词语你中枪了吗？\n（文字源于网络，侵删。）', 'attitudes': None, 'comments': 10, 'reposts': 2}
+{'id': '4276860693653211', 'text': '#文澜译站# My heart, the bird of the wilderness, has found its sky in your eyes. 我的心是旷野的鸟，在你的双眼中找到了天空。——泰戈尔', 'attitudes': None, 'comments': 0, 'reposts': 2}
+{'id': '4276790350353458', 'text': '文澜心语 时间，每天得到的都是二十四小时，可是一天的时间给勤勉的人带来智慧和力量，给懒散的人只留下一片悔恨。—— 鲁迅\n早安！中南大', 'attitudes': None, 'comments': 13, 'reposts': 2}
+{'id': '4276690723236810', 'text': '中南财经政法大学文澜心语\n活着就意味着必须要做点什么，请好好努力。——村上春树\n晚安，中南大', 'attitudes': None, 'comments': 5, 'reposts': 5}
+{'id': '4276679260111856', 'text': '#深夜语人生# 如果让你去宫斗，你觉得你能活过几集？\n\n菌菌这种傻白甜大概能活个片头曲吧', 'attitudes': None, 'comments': 14, 'reposts': 1}
+{'id': '4276628173808659', 'text': '#乐活中南# 这是每天熬夜的你', 'attitudes': None, 'comments': 12, 'reposts': 16}
+{'id': '4276578525431108', 'text': '#文澜贴士# 【2019考研时间已确定！速转报考备考全攻略】2019年考研初试将于12月22日至12月23日举行。网上预报名、正式报名、现场确认、打印准考证…每一步的时间记清楚！许多流程逾期不补办！招生简章和专业目录去哪找？现场确认需要提交哪些材料？准考证什么时候能打印？权威考研备考攻略↓↓ ...全文', 'attitudes': None, 'comments': 2, 'reposts': 15}
+{'id': '4276555243250710', 'text': '#文澜译站# Beauty is like remembrance, cast from time long past.\n美终于像是记忆，来自久远的往昔。\n——雪莱《久远的往昔》', 'attitudes': None, 'comments': 1, 'reposts': 3}
+{'id': '4276501312629025', 'text': '#文澜微课堂# 干货：九个实用的Excel技巧！ via.人民日报', 'attitudes': None, 'comments': 1, 'reposts': 32}
+{'id': '4276450561433977', 'text': '中南财经政法大学文澜心语\n青山元不动，白云自去来。\n——林清玄\n早安，中南大', 'attitudes': None, 'comments': 4, 'reposts': 8}
+{'id': '4276310056399074', 'text': '#深夜语人生#\n假期的最后几天，你想要怎么过呀？', 'attitudes': None, 'comments': 27, 'reposts': 1}
+{'id': '4276297213517701', 'text': '文澜心语\n生活没这么复杂\n种豆子和相思或许都得瓜\n你敢试 世界就敢回答\n/冯唐《生活》\n\n晚安，中南大', 'attitudes': None, 'comments': 4, 'reposts': 6}
+{'id': '4276278238927326', 'text': '#乐活中南#', 'attitudes': None, 'comments': 2, 'reposts': 2}
+{'id': '4276207531300358', 'text': '#文澜推荐#\n50部好看的心理学电影，马住慢慢看~\nvia知书少年', 'attitudes': None, 'comments': 2, 'reposts': 25}
+{'id': '4276172340702036', 'text': '#文澜译站#\nI love you, that means I’m not just here for the pretty parts.\n\n爱为所有，不止芳华\n期待大家的解读～', 'attitudes': None, 'comments': 11, 'reposts': 1}
+{'id': '4276134075648003', 'text': '#文澜微课堂#\n如何用一百天时间提升自我？\n努力一把，成为更好的自己[米奇比心]\nvia 实用干货', 'attitudes': None, 'comments': 3, 'reposts': 24}
+{'id': '4276105873685342', 'text': '#文澜贴士#\n今日处暑，秋意渐浓来源：人民日报', 'attitudes': None, 'comments': 0, 'reposts': 3}
+{'id': '4276077181001070', 'text': '文澜心语\n执着于理想，纯粹于当下。—北岛\n早安，中南大', 'attitudes': None, 'comments': 4, 'reposts': 4}
+{'id': '4275948872659228', 'text': '#深夜语人生# 咳咳，来晒一晒你的四六级成绩的后两位数吧', 'attitudes': None, 'comments': 353, 'reposts': 5}
+{'id': '4275926244650873', 'text': '文澜心语\n回忆是一种很奇妙的东西，它生活于过去，存在于现在，却能影响未来。\n——《岁月的童话》\n晚安，中南大', 'attitudes': None, 'comments': 3, 'reposts': 5}
+{'id': '4275863031682048', 'text': '#乐活中南# 据说这是史上最准的性格测试，在别人眼里的你是什么样的呢', 'attitudes': None, 'comments': 80, 'reposts': 10}
+{'id': '4275837249396350', 'text': '#文澜译站#\nWhen you want something, all the universe conspires in helping you to achieve it.\n\n当你心有所求，全宇宙都会去帮你得到它。\n——《牧羊少年奇幻之旅》', 'attitudes': None, 'comments': 7, 'reposts': 10}
+{'id': '4275777358630884', 'text': '#文澜贴士##2019考研时间#\n【转给考研党！2019考研报名、初试时间公布】\n①网上报名：2018年10月10日-31日，每天9:00-22:00\n②初试时间：2018年12月22日-23日（超过3小时的考试科目在12月24日进行）\n③现场确认时间：关注省教育招生考试机构公告\n④打印准考证：2018年12月14日-24日\n考研加油！ ...全文', 'attitudes': None, 'comments': 60, 'reposts': 146}
+{'id': '4275728378205513', 'text': '#四六级成绩# 【英语四六级成绩查询时间】\n2018上半年四六级成绩将于\n2018年8月22日上午9时发布\n还有一个小时，菌菌期待你们的好消息哦[给你小心心]\n查询链接:\n1.中国教育考试网\n网页链接\n2.中国高等教育学生信息网\n网页链接', 'attitudes': None, 'comments': 21, 'reposts': 20}
+{'id': '4275709851490211', 'text': '文澜心语\n生命可以随心所欲，但不能随波逐流。\n——《猫的报恩》\n早安，中南大', 'attitudes': None, 'comments': 9, 'reposts': 2}
+{'id': '4275591534720604', 'text': '#文澜心语# 人的一生应该为自己而活，\n应该喜欢自己，\n也不要太在意别人怎么看我，\n或者别人怎么想我。\n其实，别人如何衡量你也全在于你自己如何衡量自己。——《成长的痕迹》\n晚安，中南大', 'attitudes': None, 'comments': 4, 'reposts': 1}
+{'id': '4275581170163116', 'text': '#深夜语人生# 说说你玩过最喜欢的但现在已经绝版了的游戏吧', 'attitudes': None, 'comments': 28, 'reposts': 0}
+{'id': '4275501910298636', 'text': '#乐活中南# 门外沧桑，门内过往。流淌着岁月的中国门。 via. 最美中国风', 'attitudes': None, 'comments': 3, 'reposts': 7}
+{'id': '4275462278279863', 'text': '#文澜译站# Thus, have I had thee as a dream doth flatter. In sleep a king, but waking no such matter.\n我曾拥有你，像一个美梦。在梦里称王，醒来却是一场空。', 'attitudes': None, 'comments': 3, 'reposts': 3}
+{'id': '4275424408563902', 'text': '#文澜微课堂# 【TED演讲《你减肥怎么比别人难？》】为什么有人觉得锻炼很难，而有人却乐此不疲。那些一直在健身的人，到底是怎么坚持的？社会心理学家Emily Balcetis研究提出了一个极其简单的解决方式，来协助大家克服这个困难。 YouTube精彩视频的秒拍视频', 'attitudes': None, 'comments': 1, 'reposts': 14}
+{'id': '4275368040620802', 'text': '#文澜心语# 从前的月光很慢， 有点闲，有点懒， 在一杯茶里消磨了整个黄昏， 在半个梦里看星星满天。 早安，中南大', 'attitudes': None, 'comments': 7, 'reposts': 4}
+{'id': '4275230669440450', 'text': '#文澜心语# 人间至味是清欢\n晚安，中南大', 'attitudes': None, 'comments': 3, 'reposts': 2}
+{'id': '4275228022412273', 'text': '#深夜语人生# 新生们宿舍班级信息是不是都知道了呀？还满意吗', 'attitudes': None, 'comments': 27, 'reposts': 0}
+{'id': '4275203113076947', 'text': '#文澜译站# In every job that must be done, there is an element of fun. You find the fun,and snap!The job is a game.', 'attitudes': None, 'comments': 0, 'reposts': 0}
+{'id': '4275195630429227', 'text': '#文澜微课堂# 【转发收藏！亚运会精选赛程日历】截至目前，中国运动健儿在本次亚运会已拿下7金5银4铜，金牌数稳居第一位。游泳、田径、乒乓球，中国队的比赛都什么时候进行？哪些比赛最有看点？你最喜欢的体育明星，都啥时候比赛？戳图↓↓带你看每个比赛日不能错过的亮点。为中国加油！ ...全文', 'attitudes': None, 'comments': 1, 'reposts': 5}
+{'id': '4275145889391714', 'text': '#乐活中南# 吉卜力动画中那些人见人爱的CP，你最喜欢哪一对？', 'attitudes': None, 'comments': 12, 'reposts': 10}
+{'id': '4275005774133230', 'text': '文澜心语韶光太好，怎么走过都是辜负。青春太短，怎么燃烧都是耽误。幸福太远，怎么奔跑都是驻足。不如潦草穿了衣服，一路种花，一路纵酒，在碧水青山里，写自己的句子去。白云深处一回头，年少时在山顶读书。——张嘉佳《从你的全世界路过》\n早安，中南大', 'attitudes': None, 'comments': 8, 'reposts': 5}
+{'id': '4274862748791757', 'text': '文澜心语\n我没有走进你，天空和庙里的锣声一同醒起.街尘在驱走的牛蹄下飞扬，把汩汩发响的水瓶系在腰上，晨光渐渐，而我没有走进你. ——泰戈尔\n晚安，中南大~', 'attitudes': None, 'comments': 1, 'reposts': 4}
+{'id': '4274837314653115', 'text': '#深夜语人生#\n在电影、电视剧或小说中遇到过的最讨厌的角色是？', 'attitudes': None, 'comments': 43, 'reposts': 2}
+{'id': '4274809745938897', 'text': '#乐活中南# 让我们来分享快乐的事\n距离你回学校还有____天', 'attitudes': None, 'comments': 27, 'reposts': 1}
+{'id': '4274780880138518', 'text': '#文澜译站#\nIf I can stop one heart from breaking, I shall not live in vain.\n\n如果我可以阻止一颗心走向破碎，那么我就没有虚度此生。', 'attitudes': None, 'comments': 2, 'reposts': 5}
+{'id': '4274735388784011', 'text': '#文澜贴士# 【“佛系”也会有脾气，请服下这颗“反杠精”仙丹】“吃亏是福”“挺好”“随便”……总拿出这样的态度，难免丧失了立场。在佛系的路上走太远，容易让别有用心的人拿你的善良和教养当软弱。如果被怼到无法释怀，为什么要压抑自己的天性？！不要怂，怼回去！ via.新华网', 'attitudes': None, 'comments': 4, 'reposts': 10}
+{'id': '4274685014968695', 'text': '#文澜微课堂# 【中国传统文化名词[给你小心心]】《延禧攻略》热播，“皇太后”“中药”用英语怎么说？一波中国传统文化名词地道英文表达，日常交流和各种考试都用得上哦，转发收藏~ via.微课堂', 'attitudes': None, 'comments': 763, 'reposts': 2318}
+{'id': '4274630782616753', 'text': '文澜心语 最离奇的理想所需要的建筑素材就是一个个庸常而枯燥的努力。——蔡崇达《皮囊》\n早安，中南大~', 'attitudes': None, 'comments': 5, 'reposts': 6}
+{'id': '4274503741697231', 'text': '文澜心语 如果我们再相见，事隔经年。我将以何贺你，以眼泪，以沉默。——拜伦《春逝》\n晚安，中南大～', 'attitudes': None, 'comments': 6, 'reposts': 13}
+{'id': '4274496161988528', 'text': '#深夜语人生# 坦白说，占据你相册重心的是几？\n（图源网络，侵删）', 'attitudes': None, 'comments': 33, 'reposts': 2}
+{'id': '4274446325345875', 'text': '#文澜贴士# 18条提升效率的小技巧，快来了解一下吧\nvia思想聚焦', 'attitudes': None, 'comments': 2, 'reposts': 15}
+{'id': '4274387950092681', 'text': '#文澜推荐# 当越来越多女性以独立自主，信心十足的姿态走进大众的视野，我们知道，这个时代，一股来自女性的蓬勃力量正在迅速崛起！分享9本关于女性独立的小说，做勇敢的自己，从当下开始。 via阅读书签', 'attitudes': None, 'comments': 1, 'reposts': 16}
+{'id': '4274362640924069', 'text': '#乐活中南# 为什么字体的选择很重要\nvia果麦文化', 'attitudes': None, 'comments': 0, 'reposts': 3}
+{'id': '4274344630561324', 'text': '文澜驿站 When we strive to become better than we are, everything around us becomes better too. 当我们努力变得更好时，周围的一切也会变得更美好。——《牧羊少年奇幻之旅》', 'attitudes': None, 'comments': 0, 'reposts': 3}
+{'id': '4274293116278244', 'text': '#文澜微课堂# 【计算机二级命中率最高的92道选择题】离考试越来越近啦，送上干货一份↓↓历年考频最高的92道选择题，一定要会做！马住细细看，说不定考场上就碰到了呢！转给身边报考了的同学吧！ via微课堂', 'attitudes': None, 'comments': 29, 'reposts': 126}
+{'id': '4274262405442584', 'text': '文澜心语 醒来觉得甚是爱你。\n早安！中南大❤️', 'attitudes': None, 'comments': 11, 'reposts': 1}
+{'id': '4274151546572914', 'text': '中南财经政法大学文澜心语\n我们都曾来自星星，生而孤独，静静的散发着光芒，心在遥远的彼岸，期待温柔的呼唤，爱的相拥。\n——帕克丝特《星星上的人》\n晚安，中南大', 'attitudes': None, 'comments': 4, 'reposts': 3}
+{'id': '4274139558063389', 'text': '#深夜语人生# 输入法输“我想吃”后面会出现什么？', 'attitudes': None, 'comments': 77, 'reposts': 1}
+{'id': '4274114137541906', 'text': '#文澜贴士# 【英语四六级成绩查询时间】\n2018上半年四六级成绩将于 2018年8月22日上午9时发布\n查询链接:\n1.中国教育考试网\n网页链接\n2.中国高等教育学生信息网\n网页链接\n\n还有五天你们期待嘛', 'attitudes': None, 'comments': 57, 'reposts': 57}
+{'id': '4274050048194584', 'text': '文澜驿站Yesterday is History, Tomorrow is a Mystery, and Today is a Gift. That is why we call it -- the Present.\n昨日之日不可留，明日之日未可知，今日之日胜礼物。这就是为什么今日叫做礼物了。\n——《功夫熊猫》', 'attitudes': None, 'comments': 1, 'reposts': 2}
+{'id': '4274013721144418', 'text': '#七夕桃花##乐活中南#\n金风玉露一相逢，便胜却人间无数\n七夕佳节，来看Zuelers为中南大书写三行情书\n\n戳我吃糖→ 金风玉露一相逢，三行情书衷情诉', 'attitudes': None, 'comments': 7, 'reposts': 7}
+{'id': '4273993207129037', 'text': '声明\n\n致关心中南大、华农的朋友们:\n非常感谢大家对中南大的喜爱，有几句话想对大家坦诚说明，人生聚散终有时，中南大和华农已经携手度过了一段美好时光，做出这个决定也是经过慎重的考虑。\n\n之后中南大和华农也将继续携手并进，一起走下去，谢谢大家关心。\n\n中南财经政法大学\n2018年8月17日\n\n...全文', 'attitudes': None, 'comments': 751, 'reposts': 286}
+{'id': '4273979575589184', 'text': '#文澜微课堂# “两情若是久长时，又岂在、朝朝暮暮”“日日思君不见君，共饮长江水”……这些美好的诗词怎么翻译？ via.中国日报', 'attitudes': None, 'comments': 0, 'reposts': 8}
+{'id': '4273915234155981', 'text': '中南财经政法大学文澜心语\n你眼中有春与秋，胜过我见过爱过的一切山川与河流。\n——《化身孤岛的鲸》\n早安，中南大', 'attitudes': None, 'comments': 2, 'reposts': 4}
+{'id': '4273772955546207', 'text': '#深夜语人生#\n大家明天都准备干嘛呀', 'attitudes': None, 'comments': 43, 'reposts': 0}
+{'id': '4273758485780876', 'text': '文澜心语 我永远要尽全力保住手中所有，哪怕是很少的一点。因为我太渺小了，无法将整个世界揽在怀里。——《牧羊少年奇幻之旅》\n插画作者：温刚毅\n晚安，中南大', 'attitudes': None, 'comments': 0, 'reposts': 7}
+{'id': '4273703569350724', 'text': '#文澜贴士#\n“我也是90后，只是头发掉光了”\n9图带你打响护发保卫战，或许你的头发还可以拯救一下 via人民日报', 'attitudes': None, 'comments': 5, 'reposts': 3}
+{'id': '4273646958516307', 'text': '#文澜微课堂#\n别人眉来又眼去 我只偷看你一眼\n/ 李敖\n\nget到了一波作家笔下的情话\n七夕将至，你想说与谁听\nvia @PoemsForYou', 'attitudes': None, 'comments': 1, 'reposts': 11}
+{'id': '4273607914154230', 'text': '#文澜译站#\n所有你乐于挥霍的时间，都不能算作浪费', 'attitudes': None, 'comments': 2, 'reposts': 6}
+{'id': '4273555137489150', 'text': '文澜心语\n只要有想见的人，就不再是孤身一人了\n——《夏目友人帐》\n早安，中南大', 'attitudes': None, 'comments': 11, 'reposts': 9}
+{'id': '4273417567810753', 'text': '#深夜语人生# 七夕将至，你最喜欢的一对cp是？', 'attitudes': None, 'comments': 86, 'reposts': 3}
+{'id': '4273396420724903', 'text': '文澜心语\n我们还年轻，长长的人生可以受一点风浪。\n——三毛\n晚安，中南大', 'attitudes': None, 'comments': 2, 'reposts': 5}
+{'id': '4273328425918254', 'text': '#文澜译站#\nIt does not do well to dwell on dreams and forget to live, remember that.\n——J.K. Rowling', 'attitudes': None, 'comments': 3, 'reposts': 1}
+{'id': '4273238601787285', 'text': '【#日本宣布投降七十三周年##抗战胜利七十三周年#】14年的血与泪，我们不能忘、不敢忘。1945年8月15日，日本战败投降。今天，我们祭奠同胞，只为警醒——珍爱和平，吾辈自强！via.人民日报人民日报的秒拍视频', 'attitudes': None, 'comments': 4, 'reposts': 21}
+{'id': '4273203088608701', 'text': '#乐活中南# 万物皆有灵\n图片via.Sean charmatz', 'attitudes': None, 'comments': 6, 'reposts': 7}
+{'id': '4273172285705204', 'text': '文澜心语\n人生所有经过的路，都是必经之路。\n——鬼脚七\n早安，中南大', 'attitudes': None, 'comments': 7, 'reposts': 4}
+{'id': '4273065665827429', 'text': '#深夜语人生# 比焦虑更可怕的，是你拒绝成长。 晚安，中南大', 'attitudes': None, 'comments': 3, 'reposts': 5}
+{'id': '4273054358150667', 'text': '#深夜语人生# 是哪个游戏让你迈出了氪金的第一步？', 'attitudes': None, 'comments': 64, 'reposts': 2}
+{'id': '4272885960737236', 'text': "#文澜译站# \xa0Don't cry because it is over, smile because it happened.\n不要因为结束而哭泣.微笑吧,为你的曾经拥有.", 'attitudes': None, 'comments': 2, 'reposts': 5}
+{'id': '4272856630713904', 'text': '#文澜微课堂# 怎样才能快速完成四六级的阅读理解？关键在于抓住文章主题。举个栗子：“这哥们的头好大，太大了，大得像在筷子上插了个鸡蛋。”这句话的主题是____？看完视频↓↓，掌握四六级阅读理解的秘笈~[给你小心心]乐柯健的秒拍视频 via.微课堂', 'attitudes': None, 'comments': 1, 'reposts': 0}
+{'id': '4272832840309825', 'text': '文澜心语 人的一生中，最光辉的一天并非是功成名就那天，而是从悲叹与绝望中产生对人生的挑战，以勇敢迈向意志那天。早安，中南大', 'attitudes': None, 'comments': 3, 'reposts': 4}
+{'id': '4272679320187471', 'text': '文澜心语我们是一群坐上了人生旋转木马的人，游戏还没有结束，我们大家都不能下马，只能随着音乐不断旋转。人生像一个撒满珠宝的荒原，大家都在寻找闪烁的宝石，但大部分时间，你只看得到荒原上的孤烟蔓草。——朱德庸\n晚安，中南大', 'attitudes': None, 'comments': 1, 'reposts': 2}
+{'id': '4272671963133993', 'text': '#深夜语人生# 最近让你最难忘的影视片段是什么呢？', 'attitudes': None, 'comments': 28, 'reposts': 8}
+{'id': '4272646406952982', 'text': '#文澜译站# The hardest choices require the strongest wills.', 'attitudes': None, 'comments': 4, 'reposts': 2}
+{'id': '4272636353108811', 'text': '#文澜推荐# 中国风——故宫博物馆', 'attitudes': None, 'comments': 4, 'reposts': 2}
+{'id': '4272563436168448', 'text': '#文澜微课堂# 世界名校校训，你觉得哪一条最励志？（图：看书有道）', 'attitudes': None, 'comments': 18, 'reposts': 19}
+{'id': '4272481344948131', 'text': '文澜心语想要摘星星的孩子，孤独是我们的必修课，我不怕自己努力了不优秀，我只怕比我优秀的人比我更努力。——卢思浩《孤独是你的必修课》\n早安，中南大', 'attitudes': None, 'comments': 3, 'reposts': 7}
+{'id': '4272318911895959', 'text': '文澜心语\n我这样普通的人只能走一步看一步，\n不断安慰自己，\n无论经历什么，都将成为我的一部分。\n然而，真正的成长应该是，\n我懂得选择让哪一部分经历成就我。\n全盘接受不过是懦弱。\n——八月长安\n晚安，中南大', 'attitudes': None, 'comments': 4, 'reposts': 8}
+{'id': '4272283973235036', 'text': '#深夜语人生# 运动的时候有什么值得单曲循环的歌曲推荐嘛~\n（假设你们暑假有在锻炼）', 'attitudes': None, 'comments': 24, 'reposts': 1}
+{'id': '4272267301299438', 'text': '#文澜译站# An aim in life is the only fortune worth finding. Pursue your object, be it what it will, steadily and indefatigable.\n\n人生的目标是唯一值得发现的财富。追求你的目标，无论它是什么，都将是稳定和不屈不挠的。', 'attitudes': None, 'comments': 0, 'reposts': 2}
+{'id': '4272247613498006', 'text': '#乐活中南# 智慧土酷发明，你pick哪个？\n图源Rosemoroe', 'attitudes': None, 'comments': 17, 'reposts': 5}
+{'id': '4272233179841965', 'text': '#文澜微课堂# 【9个适合在假期自学的技能】总羡慕别人会拍片、会修图、会设计，酷炫技能样样精通，其实你也可以当“大神”！ #暑假来了# 好好利用这个假期，为你的爱好努力一把！via.微课堂#', 'attitudes': None, 'comments': 43, 'reposts': 579}
+{'id': '4272124556305387', 'text': '#文澜贴士# 英国作家马特·海格（也是抑郁症患者），他根据自己的经验，给出了关于“如何生活”的40条建议，这并不意味着压力，海格说自己“觉得有用但并不总是遵循”。希望这些建议能帮到更多的人，来自同病者的建议。\n\n1. 快乐出现的时候，享受快乐。\n\n2. 小口慢饮，别狼吞虎咽。\n\n3. 对自己温柔些。 ...全文', 'attitudes': None, 'comments': 7, 'reposts': 66}
+{'id': '4272090985304557', 'text': '文澜心语 人之所以言之凿凿，是因为知道的太少。—— 弗朗索瓦·佐基\n早安，中南大~', 'attitudes': None, 'comments': 4, 'reposts': 0}
+{'id': '4271964367226372', 'text': '文澜心语 过去事已过去了，未来不必预思量。只今便道即今句，梅子熟时栀子香。\n—— 李叔同\n晚安💤中南大！', 'attitudes': None, 'comments': 10, 'reposts': 7}
+{'id': '4271960109966036', 'text': '#深夜语人生# 这个夏天，如果你只能选择三种东西，你会选择？', 'attitudes': None, 'comments': 40, 'reposts': 3}
+{'id': '4271911435499511', 'text': '#乐活中南# 名人们的反差面，真是让人吃鲸啊\n让我们重新认识一下贝多芬，米芾，钱钟书，张大千……\nvia知书少年果麦麦', 'attitudes': None, 'comments': 2, 'reposts': 3}
+{'id': '4271883245195386', 'text': '#文澜贴士# 【今天傍晚“天狗咬日”将现身天宇，你想和谁一起看？】据天文专家介绍，北京时间8月11日傍晚，天宇将上演今年的第三次日偏食景观，这是今年唯一一次可在国内观测到的日食，喜欢天文或爱好摄影的朋友不容错过！不过面对刺眼的太阳光，该如何观测才能不伤眼？戳视频↓↓via人民日报\n...全文', 'attitudes': None, 'comments': 1, 'reposts': 1}
+{'id': '4271802790919707', 'text': '#文澜译站# You are confined only by the walls you build yourself.\n限制你的只有你自己筑起的墙。\n——Andrew Murphy', 'attitudes': None, 'comments': 2, 'reposts': 5}
+{'id': '4271718799400456', 'text': '文澜心语 走在一条开满桃花的路上，云蒸霞蔚，前途似锦。 ——季羡林\n早安！中南大', 'attitudes': None, 'comments': 9, 'reposts': 5}
+{'id': '4271616269467000', 'text': '中南财经政法大学文澜心语\n治有病，不若治于无病; 疗身，不若疗心; 使人疗，尤不若先自疗也。\n——沈复《浮生六记》\n\n晚安，中南大', 'attitudes': None, 'comments': 1, 'reposts': 5}
+{'id': '4271595561697634', 'text': '中南财经政法大学#深夜语人生#\n暑假最占用你时间的手机应用是什么？\n\nemmm菌菌的如图', 'attitudes': None, 'comments': 29, 'reposts': 1}
+{'id': '4271519889239614', 'text': '#文澜贴士# 【严重可致火灾！已被禁8年的“万能插座”你还在用吗？】近年来，因电源插座、开关等短路而引发的火灾事故呈频发态势。“万能插座”虽然方便，却易引发火灾，2010年起我国就已明令禁止生产，但很多家庭仍在使用。“万能插座”有哪些隐患？它与新国标插座有什么区别？戳图↓↓为家人的安全， ...全文', 'attitudes': None, 'comments': 1, 'reposts': 6}
+{'id': '4271491925759362', 'text': '中南财经政法大学#文澜译站#\nTo see a World in a Grain of Sand\nAnd a Heaven in a Wild Flower.\n\n一沙见世界，一花窥天堂。\n——威廉·布莱克', 'attitudes': None, 'comments': 1, 'reposts': 2}
+{'id': '4271455107523883', 'text': '#文澜微课堂# 【这些救命防溺水知识你一定要知道！】如何判断、预防溺水，如何自救与施救？这些常识，你应该知道！ via.中国日报', 'attitudes': None, 'comments': 0, 'reposts': 1}
+{'id': '4271378360399117', 'text': '中南财经政法大学文澜心语\n简朴的生活、高贵的灵魂是人生的至高境界。\n——杨绛\n早安，中南大', 'attitudes': None, 'comments': 7, 'reposts': 17}
+{'id': '4271251553797050', 'text': '#深夜语人生#\n“在夏天，我们吃绿豆，桃，樱桃和甜瓜。在各种意义上都漫长且愉快，日子发出声响。”\n\n想要看看你们相册里的夏天菌菌先来', 'attitudes': None, 'comments': 27, 'reposts': 0}
+{'id': '4271238375721078', 'text': '我当然不会试图摘月，我要月亮奔我而来。\n\n——奥黛丽·赫本\n\n晚安，中南大', 'attitudes': None, 'comments': 7, 'reposts': 7}
+{'id': '4271207220525774', 'text': '#文澜推荐#查令十字街84号 美国作家海伦与英国旧书店店主弗兰克，两个爱书惜书之人，书信往来二十年，分享读书心得，交流文学观点。他们甚至没有握过手，灵魂却一直并肩而行；永远隔着遥远的海峡，热烈的交流却从未停止；那一份真情无关风月，却无疑实现了天长地久。来源：豆瓣', 'attitudes': None, 'comments': 10, 'reposts': 4}
+{'id': '4271172051356713', 'text': '#文澜译站#\nLove is a touch and yet not a touch.\n期待你的解读', 'attitudes': None, 'comments': 5, 'reposts': 5}
+{'id': '4271144074367516', 'text': '#乐活中南#\n作家们（和爱因斯坦）的emoji系列，\n突然可爱。via知书少年果麦麦', 'attitudes': None, 'comments': 5, 'reposts': 2}
+{'id': '4271076886710937', 'text': '#中南财经政法大学##文澜微课堂# 2019年考研报名即将拉开帷幕。近4年，考研报名人数持续增长，2018年达到238万，考研增加人数和增长率均为近年来最高。哪些省份的学生爱考研？热门高校哪些专业最难考？学硕和专硕考哪个好？10年数据告诉你↓↓via人民日报', 'attitudes': None, 'comments': 0, 'reposts': 4}
+{'id': '4271061048546023', 'text': '#中南财经政法大学##文澜贴士#\n"空调WiFi西瓜，小桥流水人家"。WiFi是夏天宅在家里的标配，可信号不好，没完没了的缓冲让人抓狂。试试这些小妙招↓↓带你冲浪，带你飞~ via央视新闻', 'attitudes': None, 'comments': 0, 'reposts': 2}
+{'id': '4271001543905821', 'text': '#中南财经政法大学#文澜心语\n不在任何东西面前失去自我，哪怕是教条，哪怕是别人的目光，哪怕是爱情。\n\n—— 《成为简•奥斯汀》\n\n早安，中南大', 'attitudes': None, 'comments': 4, 'reposts': 11}
+{'id': '4270873903058263', 'text': '#深夜语人生##北京奥运10年#\n在那个热泪盈眶的夏天，留给你印象最深的是什么？ 人民日报的秒拍视频', 'attitudes': None, 'comments': 8, 'reposts': 4}
+{'id': '4270851576382682', 'text': '文澜心语\n我不觉得人的心智成熟是越来越宽容涵盖，什么都可以接受。相反，我觉得那应该是一个逐渐剔除的过程，知道自己最重要的是什么，知道不重要的东西是什么。而后，做一个简单的人。\n——《阿甘正传》\n晚安，中南大', 'attitudes': None, 'comments': 4, 'reposts': 8}
+{'id': '4270775240510519', 'text': '#文澜贴士#今天是全民健身日。体育锻炼和健身活动是消耗卡路里的最佳途径之一，卡路里“天敌”有哪些？你每天的运动量能够燃烧多少“吃下去的卡路里”？哪种运动最适合你？炎炎夏日，一起来“燃烧我的卡路里”吧。via.央视新闻', 'attitudes': None, 'comments': 3, 'reposts': 1}
+{'id': '4270740226870260', 'text': '#文澜微课堂# 【用英语打电话，你真的会吗？】电话号码怎么念？邮箱地址怎么说？不知来电人是谁，如何礼貌询问？如何请别人为你留口讯？没有明白对方的意思，要怎么说才不显得失礼？戳图↓↓ get实用技巧 via.人民网', 'attitudes': None, 'comments': 1, 'reposts': 10}
+{'id': '4270703781751162', 'text': '#茶山刘radio# 【还记得这首歌吗？】我家大门常打开，开放怀抱等你，拥抱过就有了默契，你会爱上这里；不管远近都是客人，请不用客气，相约好了在一起，我们欢迎你......还记得这首《北京欢迎你》吗？十年前的今天，北京奥运会开幕！那个夏天、那些美好的记忆......四年之后，让我们相约 ...全文', 'attitudes': None, 'comments': 12, 'reposts': 10}
+{'id': '4270692498798244', 'text': '#文澜译站#\nMay there be enough clouds in your life to make a beautiful sunset.\n愿你的生命中有足够的云翳，来造成一个美丽的黄昏。', 'attitudes': None, 'comments': 0, 'reposts': 1}
+{'id': '4270638401282393', 'text': '文澜心语\n生活中某些珍贵的片段\n其实都来自一些微不足道的小事\n——《偷影子的人》\n早安，中南大', 'attitudes': None, 'comments': 5, 'reposts': 4}
+{'id': '4270532192859265', 'text': '文澜心语 人生只有一次，总需要去看些不同的风景，遇些不同的人，这样才能让不能重来的游戏玩的尽兴些。晚安，中南大～', 'attitudes': None, 'comments': 2, 'reposts': 0}
+{'id': '4270355886037001', 'text': '#文澜译站# A single hand that wipes tears during failures is much better than countless hands that come together to clap on success.\n失败时有人伸出一只手来为你擦泪，会好过成功时无数人伸手为你鼓掌。', 'attitudes': None, 'comments': 0, 'reposts': 4}
+{'id': '4270342862760100', 'text': '#文澜贴士# 【干货！400个超实用快捷键，九图全收藏】快捷键，还只会用Ctrl+C和Ctrl+V？那怎么行！积累更多快捷键，让你事半功倍！Mac、Windows、Word、Excel、PPT、Photoshop……400个超实用快捷键大全，收！ via. 实用干货', 'attitudes': None, 'comments': 1, 'reposts': 10}
+{'id': '4270342228748615', 'text': '#文澜微课堂# 这是今年刚刚获得新闻媒体终生成就奖的普奥拉在1988年采访特朗普的录像。三十年前的特朗普年轻英俊，口才一流。如果你不了解特朗普的内心，可以看看这个短片：30年前特朗普想干的事，就是现在的他正在干的事。韩建君的秒拍视频', 'attitudes': None, 'comments': 9, 'reposts': 48}
+{'id': '4270300898378223', 'text': '文澜心语 适合自己生活状态的着力点，才是最好的平衡点。早安，中南大', 'attitudes': None, 'comments': 3, 'reposts': 0}
+{'id': '4270174448619961', 'text': '文澜心语让时间忘记我，让季节忘记我，让思念忽略这一切。我汹涌或者平和的情绪，如水如梦。当人即使在梦中，仍不知幸福的所在，那才是最深的悲伤。一路的荒野，我们万水千山。—— 田维《花田半亩》\n晚安，中南大', 'attitudes': None, 'comments': 2, 'reposts': 4}
+{'id': '4270149869287745', 'text': '#深夜语人生# 萌新们最近还好么', 'attitudes': None, 'comments': 12, 'reposts': 4}
+{'id': '4270134438559234', 'text': "#文澜译站# It's time that we all perceive gender on a spectrum，instead of two sets of opposing ideals.", 'attitudes': None, 'comments': 1, 'reposts': 2}
+{'id': '4270111269880125', 'text': '#文澜贴士# 【抖腿不全是嘚瑟，或患有“不安腿”】抖腿会让人觉得不稳重，但有些人为了缓解身体不适却不得不抖腿，这就是“不安腿综合征”。多发生于50岁以上中老年人，女性较多。患者常有移动腿的冲动，伴有腿部不适感且在夜间加重。其病因包括遗传、铁缺乏、尿毒症、怀孕等。\n网页链接 ...全文', 'attitudes': None, 'comments': 4, 'reposts': 1}
+{'id': '4270092143911873', 'text': '#乐活中南# 第一届中南大“你画我猜”新鲜出炉啦！快来看看你能不能猜出来吧\n戳这里叮咚！首届中南大版“你画我猜”挑战赛，邀你参与！', 'attitudes': None, 'comments': 1, 'reposts': 1}
+{'id': '4270065970567853', 'text': '#文澜贴士##新技能get√# 【雅思写作必背观点词汇】雅思写作一定会用到的观点表达100词，拒绝重复，让你的雅思作文更生动，直达7+！ （via@朗播雅思）', 'attitudes': None, 'comments': 6, 'reposts': 70}
+{'id': '4269929085489437', 'text': '文澜心语人生中出现的一切，都无法拥有，只能经历。深知这一点的人，就会懂得：无所谓失去，而只是经过而已；亦无所谓失败，而只是经验而已。用一颗浏览的心，去看待人生，一切的得与失、隐与显，都是风景与风情。—— 扎西拉姆多多 《喃喃》\n早安，中南大', 'attitudes': None, 'comments': 6, 'reposts': 2}
+{'id': '4269784650672116', 'text': '#深夜语人生# 或许，你们也想过用现有的姓氏开头给自己取一个特别的名字？不如在评论区里分享吧', 'attitudes': None, 'comments': 19, 'reposts': 1}
+{'id': '4269767675958940', 'text': '文澜心语\n“可能是工作占据了生活太多时间\n所以才会总是熬夜\n想要在四下无人的夜里\n享受一些真正属于自己的时间\n谁不想在生活里喘口气 ”\n晚安，中南大~', 'attitudes': None, 'comments': 2, 'reposts': 4}
+{'id': '4269710256141264', 'text': "#文澜译站# When you're happy, you enjoy the music. And when you're sad, you understand the lyrics.\n\n-----快乐的时候，你听的是音乐。难过的时候，你开始懂得了歌词。", 'attitudes': None, 'comments': 1, 'reposts': 4}
+{'id': '4269618460237301', 'text': '#乐活中南# 【致中南大的“三行情书”征集活动】荏苒相思岁月，一生中南情深。在七夕节来临暨70周年校庆之际，你又有什么想送给中南大的告白呢？在首义站和南湖畔度过的温柔时光，有哪些触动了你的心弦？8月5日-11日，中南大官博/官微联合开启 “三行情书”征集活动！优秀的作品有机会被选中，小编 ...全文', 'attitudes': None, 'comments': 30, 'reposts': 3}
+{'id': '4269610922047771', 'text': '#文澜微课堂# 【公务员写申论应该掌握的50个易错成语】想要出口成章、妙笔生花，成语储备不能少以为很熟悉的成语，查了词典才发现原来一直用错？写文章时想用成语，可提笔就写错字？是时候重温成语知识，提高语文水平了。50易误用成语↓转给小伙伴，别再用错啦！ via.微课堂#', 'attitudes': None, 'comments': 0, 'reposts': 12}
+{'id': '4269588659167015', 'text': '#文澜贴士# 【洗头有套“最佳公式”，洗了一辈子头都不知道】头发乱蓬蓬的直接就洗，刚刚浸湿就抹洗发水，头发还没干就爬上床……这像不像平日里洗头时的你？错误的洗头方法，可能让你的头发变枯草。想拥有“黑长直”其实并不难，记住一套“洗头公式”就能帮你轻松应对！ via.新华网', 'attitudes': None, 'comments': 0, 'reposts': 8}
+{'id': '4269562503062262', 'text': '文澜心语 不要愁老之将至，你老了一定很可爱。而且，假如你老了十岁，我当然也同样老了十岁，世界也老了十岁，上帝也老了十岁，一切都是一样。\n——《朱生豪情书》\n早安，中南大~', 'attitudes': None, 'comments': 5, 'reposts': 3}
+{'id': '4269428844241681', 'text': '文澜心语 以清净心看世界，以欢喜心过生活，以平常心生情味，以柔软心除挂碍。\n——林清玄\n晚安💤中南大！', 'attitudes': None, 'comments': 3, 'reposts': 5}
+{'id': '4269424577780117', 'text': '#深夜语人生# 蝙蝠侠的名字来源于对蝙蝠的恐惧，按照这个逻辑，你的超级英雄名是？', 'attitudes': None, 'comments': 32, 'reposts': 0}
+{'id': '4269345548776697', 'text': '#文澜微课堂# 【值得珍藏的100句经典英语名言】经典、精炼、简洁的100句名言，附中文翻译。也许部分你已经见过，但熟悉是另外一回事。建议收藏并多看几遍，四六级、雅思、托福口语写作必备，逼格快速提升！→_→via微课堂', 'attitudes': None, 'comments': 12, 'reposts': 114}
+{'id': '4269260631687266', 'text': '#文澜译站# Great things are done by a series of small things brought together.\n成就大事，源于点滴的积累。—— 梵高', 'attitudes': None, 'comments': 7, 'reposts': 4}
+{'id': '4269227643096151', 'text': '#文澜贴士# 【维权必备！75个常用投诉举报电话】近日，市场监管总局下发通知，加大打击制售假冒伪劣商品违法行为力度，要求及时受理、认真调查处理商标权利人和消费者的投诉举报。买到假货、遇到虚假广告、发现产品质量不合格…怎样直接有效地投诉、维权？75个投诉举报电话↓↓涉及衣食住行，总有你需 ...全文', 'attitudes': None, 'comments': 1, 'reposts': 15}
+{'id': '4269079630173992', 'text': '文澜心语 爱自己，是一生浪漫的开始。\n——奥斯卡·王尔德\n晚安，中南大', 'attitudes': None, 'comments': 2, 'reposts': 5}
+{'id': '4269064740251390', 'text': '#深夜语人生# 你所在的城市最高气温是_____？', 'attitudes': None, 'comments': 24, 'reposts': 0}
+{'id': '4269029399234724', 'text': '#文澜贴士# 【手机总收到骚扰电话和垃圾短信？扩散这些屏蔽措施！】7月起，工信部、最高法等13个部门将开展为期一年半的联合整治骚扰电话专项行动。“嫌去澳门太麻烦，在家上网就能玩”，“银行贷款有需要的吗”……对于许多手机用户来说，类似的垃圾信息和骚扰电话一定不陌生。如何有效屏蔽？戳图↓ ...全文', 'attitudes': None, 'comments': 1, 'reposts': 4}
+{'id': '4268313297319982', 'text': '文澜心语\n生活很有意思，很多事情都是在我们没有期望的时候自己发生，推动慢慢向前走。\n——鬼脚七\n晚安，中南大', 'attitudes': None, 'comments': 2, 'reposts': 1}
+{'id': '4268295182319366', 'text': '#茶山刘radio#\n今天是一位匿名的小可爱\n为最可爱的人们点的歌\n时光荏苒，硝烟不再\n和平年代，富强中国\n感谢你们为我们带来的和平盛世\n节日快乐\n视频via.人民日报 人民日报的秒拍视频', 'attitudes': None, 'comments': 12, 'reposts': 0}
+{'id': '4268267730368956', 'text': '#乐活中南# 相信很多小萌新一定对中南大首义校区充满了好奇，那么快来和师兄师姐们一起逛一逛吧视频@不想长大的珂子 视频链接👉网页链接', 'attitudes': None, 'comments': 5, 'reposts': 3}
+{'id': '4268249623548249', 'text': '#文澜译站#\nLife is like a box of chocolate,you never know what you are going to get.', 'attitudes': None, 'comments': 3, 'reposts': 1}
+{'id': '4268223241310578', 'text': '#文澜贴士# 【鞋子磨脚、发臭、脏了？14个小妙招√】被新鞋磨出水泡？运动鞋吸汗发臭？14个小技巧帮你保养鞋子：①小苏打去除运动鞋异味；②白牙膏擦鞋底，白净如新；③ 玉米粉吸纳麂皮污渍……超实用！via.人民网', 'attitudes': None, 'comments': 3, 'reposts': 25}
+{'id': '4268176684729043', 'text': '#文澜微课堂# 【48个音标的标准美式发音】不管是对口语和听力都会有很大帮助，想学英语的速速转存 实用干货的秒拍视频', 'attitudes': None, 'comments': 2, 'reposts': 26}
+{'id': '4268148020600824', 'text': '#八一建军节# 致敬最可爱的人', 'attitudes': None, 'comments': 2, 'reposts': 4}
+{'id': '4267991237023258', 'text': '文澜心语 一世浮生一刹那，一程山水一年华。余生并没那么多来日方长，只有时光匆匆。惟愿，好好爱自己，好好爱值得的人，好好为自己交上一份满意的人生答卷。\n晚安，中南大', 'attitudes': None, 'comments': 3, 'reposts': 3}
+{'id': '4267976050242590', 'text': '#深夜语人生# 说说你最近看过的一部老剧吧', 'attitudes': None, 'comments': 51, 'reposts': 0}
